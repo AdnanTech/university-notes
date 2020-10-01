@@ -1,6 +1,6 @@
 # Module Overview
 
-NOTES FROM 1/10
+## NOTES FROM 1/10
 
  Going through canvas
 

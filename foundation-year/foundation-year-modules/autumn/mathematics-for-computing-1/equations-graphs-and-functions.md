@@ -1,4 +1,4 @@
 # Equations, Graphs and Functions
 
-Check paper notes
+## Check paper notes
 
