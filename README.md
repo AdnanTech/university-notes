@@ -1,4 +1,4 @@
-# Meta
+# University Notes
 
-These are my notes for Computer Science at the University Of Sussex
+These are my notes whilst studying at the University Of Sussex
 
