@@ -2,7 +2,8 @@
 
 ### Introduction to C
 
-* C is a low level language, its essentially assembly code with syntatic sugar \(caveat is essentially, there are differences\). 
+* C is a low level language, its essentially assembly code with syntatic sugar \(caveat is essentially, there are differences\).
+* **For code examples visit** [**my codebase**](https://adnantech.gitbook.io/code/code/c/)\*\*\*\*
 * We are using ANSI C, which is the basic form of C avalible cross platform, this limits us to CLI applications only. Microsoft Studio doesnt use standard ANSI C, so it is not cross platform. 
 * C is not an OOP language, it is procedural. We can use structs and function pointers to imitate OOP although they are not the same.
 * we use a GNU Compiler built into dev C++ to compile c code. A non ide approach is to use clang and vim on the mac. 

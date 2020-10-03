@@ -13,7 +13,7 @@
 
 ### Data types
 
-that come with format specifiers, that are also stored in memory differently:
+There are lots of data types, below i have listed a few. in C, data types come with format specifiers, which means that the types are also stored in memory differently:
 
 * **%c - char** - a single character 'A' \(notice the single quotes for a char\)
 * **%d/%i - int** - an integer value 5
@@ -22,7 +22,7 @@ that come with format specifiers, that are also stored in memory differently:
 * **%s - `char string_name[] (string)`** - string literal**s** "Hello World" \(notice the double quotes\)
 * **%d - bool** - a boolean value 1 \(true\)
 
- Data types can also be modified:
+ Data types can also be _modified_:
 
 *  int can be modified:
   *  long int
@@ -32,8 +32,5 @@ that come with format specifiers, that are also stored in memory differently:
 *  double can be modified:
   *  long double
 
-#### Simple C examples:
-
-printf\("hello world"\) - prints to console   
-scanf\("Enter a value", &variableName\) - takes input from user
+### More C examples on my Codebase
 

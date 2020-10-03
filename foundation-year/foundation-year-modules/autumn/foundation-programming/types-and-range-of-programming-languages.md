@@ -32,7 +32,7 @@ The difference between functional and procedural is that functional takes argume
 
 ### Range of Programming languages
 
-* H**igh level** languages include C\#, Python, SQL, PHP
+* **High level** languages include C\#, Python, SQL, PHP
   * High level languages are _compiled into low level machine code_
   * These high level languages usually have specific purposes
     * SQL is for databses
