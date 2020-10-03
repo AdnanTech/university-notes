@@ -11,3 +11,5 @@ Problem: My father owns a grocery store and does all the work manually:
 * cash till item prices are entered manually
 * check stock that needs to be refilled from the shelves and the storeroom from wholesalers
 
+//TODO create a gitbook space for technical documentation
+

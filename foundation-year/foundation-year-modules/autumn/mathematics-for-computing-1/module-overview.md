@@ -75,11 +75,27 @@ Some general advice on the best way to approach this coursework:
 
 ## Reading List
 
-| Title | Author | Year Published | Mandatory? |
-| :--- | :--- | :--- | :--- |
-| The Study Skills Handbook | Stella Cottrell | 2008 | No |
-| Study Skills on Sussex Website | University Of Sussex | - | No |
-| Learning How to Learn \(Great book\) | Barbara Oakley | 2018 | No, recommended |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Title</th>
+      <th style="text-align:left">Author</th>
+      <th style="text-align:left">Year Published</th>
+      <th style="text-align:left">Mandatory?</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p>Foundation mathematics for computer</p>
+        <p>science: a visual approach</p>
+      </td>
+      <td style="text-align:left">John Vince</td>
+      <td style="text-align:left">2015</td>
+      <td style="text-align:left">Reccommended</td>
+    </tr>
+  </tbody>
+</table>
 
 
 
