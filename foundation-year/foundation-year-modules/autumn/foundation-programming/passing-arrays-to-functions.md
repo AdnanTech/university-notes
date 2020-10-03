@@ -1,2 +1,2 @@
-# Passing Arrays to Functions
+# Passing Arrays and Strings to Functions
 

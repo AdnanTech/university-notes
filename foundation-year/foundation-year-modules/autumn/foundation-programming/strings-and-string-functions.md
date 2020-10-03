@@ -1,2 +1,2 @@
-# Strings and String Functions
+# String Functions
 

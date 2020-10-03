@@ -10,8 +10,6 @@ need to download microsoft teams, will replace zoom went over the presentation
 
 this whole topic is about personal development and being a uni student, will have group work
 
-## Notes from 2/10
-
 Went through Skills Hub, might be good to make a section for study skills under the meta for this space
 
 Presentation is in week 7, this is important
