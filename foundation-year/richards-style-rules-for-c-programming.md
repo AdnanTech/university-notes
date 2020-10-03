@@ -27,4 +27,6 @@ Compiler options
 
 *  all variables have to be **camel case**, this is set to FILENAMES as well
 *  Only use /\* for opening comments, and \*/ for closing comments. not //
+* You have add void in the brackets for functions that do not return anything: void function\_name\(**void**\)
+* Ansi standard is to declare variables at the start of a code block \(functions, before branch statements\)
 
