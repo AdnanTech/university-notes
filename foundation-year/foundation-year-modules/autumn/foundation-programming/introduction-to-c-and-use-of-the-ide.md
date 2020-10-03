@@ -2,15 +2,24 @@
 
 ### Introduction to C
 
-We are using ANSI C, which is the basic form of C avalible cross platform, this limits us to CLI applications only, however it is cross platform. Microsoft Studo doesnt use standard ANSI C, so it is not cross platform. C is not an OOP language, we use structs and function pointers instead we use a GNU Compiler to compile c code. A non ide approach is to use clang and vim on the mac. Return 0 means no error code, even if you dont put it in, it is returned by default Include stdio.h is also implicity added even if it is not added in the top. You must start with include stdio.h And an int main that has void in parenthesis Curly brackets must have their own line. C has a lot of undefined behaviour as it is low level, so you mess around with memory locations. if you include string.h at the sart, the functions to concatenate strins and len of strings. malloc can allocate dynamic memory to an element. fortan and cobol are old, dead programming languages. exe is technically not machine code, as it is just instructions to the operating system, as the OS is a c program essentially. dont use underscores when naming variables. 
+* C is a low level language, its essentially assembly code with syntatic sugar \(caveat is essentially, there are differences\). 
+* We are using ANSI C, which is the basic form of C avalible cross platform, this limits us to CLI applications only. Microsoft Studio doesnt use standard ANSI C, so it is not cross platform. 
+* C is not an OOP language, it is procedural. We can use structs and function pointers to imitate OOP although they are not the same.
+* we use a GNU Compiler built into dev C++ to compile c code. A non ide approach is to use clang and vim on the mac. 
+* Return 0 on an int function means no error code, even if you dont put it in, it is assumed to be return 0 by default 
+* `include stdio.h` is also implicity added even if it is not added in the top
+* C has a lot of undefined behaviour as it is low level, so you mess around with memory locations.
+* If you `include string.h` at the sart, the functions to concatenate strings and len of strings.
+* Malloc can allocate dynamic memory to an element. f
+* .exe files are technically not machine code, as it is just instructions to the operating system, as the OS is a c program essentially. The OS takes those instructions and executes them as machine code instructions
 
 ### Use of the IDE
 
-The Integrated Development Environment \(IDE\) we use is called Dev C++, it is windows only, and is possible to be downloaded as a portable application. IDE's allow us to compile and run code and keep track of files easier.
+The Integrated Development Environment \(IDE\) we use is called Dev C++, it is windows only, and is possible to be downloaded as a portable application. IDE's allow us to compile and run code and keep track of files easier, as they come with customisable integrated compilers, text editors, linkers and assemblers.
 
 ### Compilation
 
-C is compiled, compilation has some main stages: Lexical analysis, syntax analysis, code generation and code optimization. The end result an executable file of machine code.
+C is compiled, general compilation has some main stages: Lexical analysis, syntax analysis, code generation and code optimization. The end result an executable file of machine code, below is the C compilation process
 
 * Preprocessor uses a macro language to transform C code before compilation, for example adding in code from header files.
 * The compiler then translates the C code into assembly code
