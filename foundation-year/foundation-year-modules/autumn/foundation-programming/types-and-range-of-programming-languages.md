@@ -2,16 +2,35 @@
 
 ### Types of Programming Languages
 
-Types of programming languages can be referred to as **paradigms**. These paradigms can be further broken down:
+Short version is High level, which is compiled into assembly code, which is then turned into machine code to be executed, and low level which is also compiled, but has to do less compiling as the programming langues liek C are already assmebly code with syntatic sugar.
 
+Long version is that the types of **programming languages** go under the class of **programming** **paradigms**. These paradigms can be further broken down, here i will cover 2 significant paradigms:
 
+* **Imperative**: in which you instruct the computer _how_ to do a task. These are more suited towards **high level** languages
+  * **Procedural**: in which a program is constructed by composing subroutines \(functions\), these subroutines contain a series of computational steps to be carried out, at any time when called during program execution.
+    * Examples include: C and Pascal, and in older times FORTRAN and COBOL.
+  * **Object Oriented**: in which a program is contructed by "_objects_", which contain data and code. _**Data**_ in the form form of _fields_ \(attributes and properties\), and _**code**_ in the form of _procedures_ \(methods\)
+    * Examples include: C++, Java, C\#, VB.NET, PHP
+* **Declarative**: in which you tell the computer _what_ to do. These are more suited towards l**ow level** languages.
+  * Functional: 
+  * Logic
+  * Data flow
 
-* **Imperative** languages in which you instruct the computer _how_ to do a task, and 
-* **Declarative** languages in which you tell the computer _what_ to do.
+{% hint style="info" %}
+The difference between functional and procedural is that functional takes arguments and returns a value, whereas procedural is simply a sequence of computational sequential steps
+{% endhint %}
 
-Range and Type of Programming Languages:
+### Range of Programming languages
 
-Machine \(binary\) code instructions consist of 1 and 0s and is used to communicate with hardware. Because it was so hard to write, assembly code was invented, where mnemonics were added. Converting assembly code to machine code is a one to one ratio.
+High level
+
+* python adn MATLAB are multi paradigm
+
+Low level
+
+### Machine and Assmebly Code
+
+All code is eventually turned into machine code. Assembly code is the more legible format of machine code. Machine \(binary\) code instructions consist of 1 and 0s and is used to communicate with hardware. Because it was so hard to write, assembly code was invented, where mnemonics were added. Converting assembly code to machine code is a one to one ratio.
 
  **Machine code** instructions are made up of:
 
@@ -20,12 +39,17 @@ Machine \(binary\) code instructions consist of 1 and 0s and is used to communic
 
 **Assembly code** uses the same approach of Opcodes and Operatoes, in a more legible approach:
 
-*  **Opcode** - A Single instruction displayed as a mnemonic \(ADD, LOAD, STORE, BRANCH, INPUT\)
-*  **Operand** - The address of an element as an integer, with an addressing type: 
+*  **Opcode** - A Single instruction displayed as a **mnemonic** \(ADD, LOAD, STORE, BRANCH, INPUT\)
+*  **Operand** - The address of an element as an **integer** \(12, 04, 50, 38\) with an addressing type: 
   * **xx - Direct Addressing** - The operand holds the **physical memory location** of the element to be operated on 
   * **&xx - Immediate Addresssing** - The operand contains the **value** of the element to be operated on 
   * **\#xx - Indirect Addressing** - The operand contains the **address** of the location in the physical memory, this location contains the physical address of the location in the memory where the value is stored 
   * **xx\[\] - Indexed Addressing** - Indexed addressing is used in machines containing an index register. With this mode of addressing, values in the operand are **offset** by the value stored in the index register
 
 Higher level programming languages usually have specific purposes, SQL is for databses, C\# for windows applications, PHP for web applications. High level languages are also compiled into low level machine code. Scripting languages, such as PHP and JavaScript use interpreters, where each line is compiled as being run. Java is compiled into byte code \(virtual assembly code\), and then interpreted by a JVM \(java virutal machine\). Compilers turn high level code into machine code
+
+### Sources
+
+[https://en.wikipedia.org/wiki/Object-oriented\_programming](https://en.wikipedia.org/wiki/Object-oriented_programming)  
+[https://www.typesnuses.com/types-of-programming-languages-with-differences/](https://www.typesnuses.com/types-of-programming-languages-with-differences/)
 
