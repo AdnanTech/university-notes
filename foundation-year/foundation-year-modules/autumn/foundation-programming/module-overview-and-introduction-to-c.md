@@ -27,8 +27,6 @@ To provide the student with an understanding of how to design algorithms to solv
 
 ## Assesment Information
 
-### Assesments
-
 | Assessment Type | Assessment Mode | Due Date | Worth |
 | :--- | :--- | :--- | :--- |
 | Exam | Multiple Choice Questions \(1 hour\) | Mon 26 Oct 2020 08:00 | 20% |
@@ -51,11 +49,12 @@ Each programming projects is to be submitted via Canvas as a word processed docu
 * An Integrated Development Environment \(**IDE**\) for C/C++:
   * **Dev-C++** as your IDE on Windows
   * **Xcode** on macOS
+* Internet Access \(online sessions via Zoom\)
 
 ## Contacts
 
 * Professor: Richard Handy
-* Room: CHICHESTER 1 CI302 \(Monday, Tuesday or Wednesday\) 
+* Room: CHICHESTER 1 302 \(Monday, Tuesday or Wednesday\) 
 * Email: R.A.Handy@sussex.ac.uk 
 * Telephone number: 01273 678931
 

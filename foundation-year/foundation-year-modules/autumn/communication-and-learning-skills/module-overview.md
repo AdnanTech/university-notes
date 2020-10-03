@@ -4,104 +4,56 @@
 
 By the end of this module a successful student should be able to:
 
-* Employ a range of basic programming constructs to develop a programming solution in a high-level programming language
-* Transform a simple program specification into a design using a standard design technique
-* Use a programming environment to edit, debug and compile a simple program
-*  Devise and use a test plan for verification of a program, and draw conclusions from the outcomes
+* Present technical information in a clear and structured fashion
+* Demonstrate familiarity with techniques for conducting, evaluating and reporting on research
+* Reflect on their own approach to study and how to improve their learning experience
+* Collaborate effectively with others to plan, implement and evaluate a group project
 
 ## Outline
 
-To provide the student with an understanding of how to design algorithms to solve simple problems in a suitable high-level programming language, and how to code, document and test those solutions. 
+To assist the student in developing a range of communication, personal organisation and learning skills to enable them to pursue a computing degree course at The University of Sussex, and a career as a computing professional. Topics covered may include:
 
-* Overview of range and types of programming languages
-* Introduction to a development environment and use of online help facilities
-* Algorithm design: using a top-down technique
-* Simple data types and naming conventions
-* Controlling flow using selection statements
-* Controlling flow using iteration
-* Using functions for re-use
-* Modular programming
-* Complex data types: records and arrays
-* Programming standards: layout and documentation
-* Verification & testing
+Study skills & approaches to learning in HE:
+
+* Giving presentations
+* Project planning: work breakdown, time management
+* Writing skills: report structure, presenting technical information
+* Referencing and citing sources
+* Team working: roles and process
+* Reflection on learning
 
 ## Assesment Information
 
-### Assesments
-
 | Assessment Type | Assessment Mode | Due Date | Worth |
 | :--- | :--- | :--- | :--- |
-| Exam | Multiple Choice Questions \(1 hour\) | Mon 26 Oct 2020 08:00 | 20% |
-| Coursework | Project | Thu 19 Nov 2020 16:00 | 30% |
-| Coursework | Project | Thu 10 Dec 2020 16:00 | 50% |
+| Coursework | Group Presentation \(15 mins\) | Mon 9 Nov 2020 10:00 | 10% |
+| Coursework | Portfolio | Thu 10 Dec 2020 16:00 | 70% |
+| Coursework | Portfolio \(Learning Diary x10\) | Thu 10 Dec 2020 16:00 | 20% |
 
-Each programming projects is to be submitted via Canvas as a word processed document. The document, for each, should contain the project design, the C programming code, the test logs and a written evaluation of the programming project. A contents page using appropriate page numbering should be included.The project marking criteria is based on the:
+**Group Presentation**: students will be involved in a group project and present their findings in a 15-minute presentation, to an audience consisting of tutors and peers. Groups are also expected to answer any relevant questions raised by their audience \(tutors and peers\).
 
-1.     Presentation of the Word document.
-2.     Design of the programming project.
-3.     Functionality of the C programming code.
-4.     C programming code efficiency and its conformity to the course’s “Style Rules for C Programming”.
-5.     Test results.
-6.     Ease of use and the presentation of the user interface.
-7.     A 500 word evaluation of the programming project.
+**Learning Diary:** A weekly account, within which students will reflect on their learning and overall progress \(minimum 10 weeks\). This should include identification / consideration of issues in relation to learning, links with topics and other modules, questions and research. This will then be followed by the summative comments on issues, topics and questions that have been raised.
+
+**Portfolio**: Students will build a portfolio of evidence, documenting personal development and achievements. The portfolio will consist of a number of set tasks, which are to be completed at specific dates. Identification and assessment of their skills, strengths and weaknesses will also form a part of the portfolio. The portfolio will contain the following items and are due on specific dates, standalone or linked with associated modules:
+
+* Personal Development Plan with supporting documents
+* Group Collaboration / Research Report
+* To include project description, plan, research, communication methods, meetings, outcomes, individual accounts, etc.
+* Technical Documentation
+
+Further detail for each of the portfolio elements will be provided as and when tasks are set and introduced. Individual / portfolio reviews will be arranged to discuss student’s progress and overall performance.For each review, the student should provide a short summary of the evidence presented so far and an analysis of their learning requirements in the context of the portfolio.
 
 ## Technical Requirements
 
-* A desktop PC or Laptop
-* An Integrated Development Environment \(**IDE**\) for C/C++:
-  * **Dev-C++** as your IDE on Windows
-  * **Xcode** on macOS
+* Word Processor \(Microsoft Word, Libre Office\)
+* Presentation program \(Powerpoint, Libre Impress\)
+* Internet Access \(online sessions via Zoom\)
 
 ## Contacts
 
-* Professor: Richard Handy
-* Room: CHICHESTER 1 CI302 \(Monday, Tuesday or Wednesday\) 
-* Email: R.A.Handy@sussex.ac.uk 
-* Telephone number: 01273 678931
-
-## Reading List
-
-| Title | Author | Year Published | Mandatory? |
-| :--- | :--- | :--- | :--- |
-| C Programming in easy steps, 5th edition | Mike McGrath | 2018 | No |
-| Programming in C | Stephen G. Kochan | 2015 | No |
-| Head First C | David Griffiths, Dawn Griffiths | 2012 | No |
-
-## ------------------ NOTES FROM 1/10
-
- there is a key information on canvas, for example a section where you can find recordings, the outline in the module information section, a reading list
-
-reading list: the study skills handbook by stella cottrell and skills hub on sussex website
-
-need to download microsoft teams, will replace zoom went over the presentation
-
-this whole topic is about personal development and being a uni student, will have group work
-
-Went through Skills Hub, might be good to make a section for study skills under the meta for this space
-
-Presentation is in week 7, this is important
-
-week 9 is when the presentation work is due
-
-Went over the brief of module content and stuff
-
-#### Learning Diary
-
-Learning diary is important, kind of like a blog entry, but needs to have a section with key topics covered, and my **honest thoughts** 
-
-they can be as simple as week 1: struggling with maths, then at the end of 6 entries a box for a small summary, wiht key sections in bold, week 1 and 2 are combined into 1 entry, 500 words of content a week
-
-maybe split each paragraph into the module name and what i learnt or struggled with. then put a summative comment at the end, also adding key words and phrases in bold and italics.
-
-MATLAB can be integrated with C
-
-Maybe make a gitbook space for the learning diary, or maybe a topic session in communication and learning skills
-
-TO SUBMIT: discussions on the module on canvas, and then write a reply showing where the entry is \(gitbook\), maybe also export as a pdf?
-
-Went over academic advisors
-
-name, home town, fave food, hobby, reason for choosing the course, and a suprising/interesting facts - peer introduction for next week
+* Professor: Ramiz Alihodzic
+* Room: CHICHESTER 1 302 \(Monday, Tuesday or Wednesday\) 
+* Email: [r.alihodzic@sussex.ac.uk](mailto:r.alihodzic@sussex.ac.uk)
 
 
 
