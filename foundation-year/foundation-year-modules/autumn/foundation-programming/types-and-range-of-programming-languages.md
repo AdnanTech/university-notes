@@ -11,6 +11,7 @@ Long version is that the types of **programming languages** go under the class o
     * Examples include: C and Pascal, and in older times FORTRAN and COBOL.
   * **Object Oriented**: in which a program is contructed by "_objects_", which contain data and code. _**Data**_ in the form form of _fields_ \(attributes and properties\), and _**code**_ in the form of _procedures_ \(methods\)
     * Examples include: C++, Java, C\#, VB.NET, PHP
+  * 
 * **Declarative**: in which you tell the computer _what_ to do
   * **Functional**: in which a program is constructed by applying \(passing arguments\) and composing \(combining\) functions. _Functions_ can be defined as **trees of expressions** \(entities: variables, constants, operators\) that can compound to each return a \(new\) value.
     * Examples include: Common Lisp, Wolfram Language [\(used to calculate the variables of the simulation of our universe!\)](https://www.youtube.com/watch?v=-t1_ffaFXao), Erlang, Haskell, Scheme
@@ -18,7 +19,10 @@ Long version is that the types of **programming languages** go under the class o
     * Examples include: Prolog, Answer Set Programming \(ASP\), Datalog
   * **Constraint**: in which a program is constructed by declaratively stating the constraints on a solution for a set of decision variables
     * Examples include: Prolog III, CHIP, CLP\(R\)
-  * **Data flow**: 
+  * **Data flow**: in which a program is a directed graph of the data flowing between operations
+    * Examples include: Microsoft Visual Programming Language \(MVLP\), Prograph, Lucid
+
+> Python and MATLAB are multi-paradigm
 
 {% hint style="info" %}
 The difference between functional and procedural is that functional takes arguments and returns a value, whereas procedural is simply a sequence of computational sequential steps
@@ -28,8 +32,7 @@ The difference between functional and procedural is that functional takes argume
 
 High level
 
-* python adn MATLAB are multi paradigm
-
+* 
 Low level
 
 ### Machine and Assmebly Code
