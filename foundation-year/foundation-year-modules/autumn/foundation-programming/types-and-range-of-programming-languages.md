@@ -2,12 +2,14 @@
 
 ### Types of Programming Languages
 
-Short version is High level, which is compiled into assembly code, which is then turned into machine code to be executed, and low level which is also compiled, but has to do less compiling as the programming langues like C are already assmebly code with syntatic sugar.
+**TLDR:** there are 2 main types of programming languages:  
+**High level**, which is compiled into assembly code, which is then turned into machine code to be executed, examples include Python, C\#  
+**Low level** which is also compiled, but has to do less compiling as the programming langues are already machine code and assembly code, C is assembly code with syntatic sugar
 
 Long version is that the types of **programming languages** go under the class of **programming** **paradigms**. These paradigms can be further broken down, here i will cover 2 significant paradigms:
 
 * **Imperative**: in which you instruct the computer _how_ to do a task
-  * **Procedural**: in which a program is constructed by composing subroutines \(functions\), these subroutines contain a series of computational steps to be carried out, at any time when called during program execution.
+  * **Procedural**: in which a program is constructed by composing subroutines \(functions\), these subroutines contain a series of computational steps to be carried out, at any time when called during program execution
     * Examples include: C and Pascal, and in older times FORTRAN and COBOL.
   * **Object Oriented**: in which a program is contructed by "_objects_", which contain data and code. _**Data**_ in the form form of _fields_ \(attributes and properties\), and _**code**_ in the form of _procedures_ \(methods\)
 
@@ -46,7 +48,7 @@ The difference between functional and procedural is that functional takes argume
 Java is compiled into byte code \(virtual assembly code\), and then interpreted by a JVM \(java virutal machine\)
 {% endhint %}
 
-### Machine and Assmebly Code
+### Machine and Assembly Code
 
 All code is eventually turned into machine code. Assembly code is the more legible format of machine code. Machine \(binary\) code instructions consist of 1 and 0s and is used to communicate with hardware. Because it was so hard to write, assembly code was invented, where mnemonics were added. Converting assembly code to machine code is a one to one ratio.
 
