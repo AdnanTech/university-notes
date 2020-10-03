@@ -32,5 +32,5 @@ There are lots of data types, below i have listed a few. in C, data types come w
 *  double can be modified:
   *  long double
 
-### More C examples on my Codebase
+### [C code examples on my Codebase](https://adnantech.gitbook.io/code/code/c)
 
