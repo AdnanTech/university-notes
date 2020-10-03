@@ -24,6 +24,8 @@
       * [Bitwise Operators](foundation-year/foundation-year-modules/autumn/foundation-programming/bitwise-operators.md)
     * [Communication and Learning Skills](foundation-year/foundation-year-modules/autumn/communication-and-learning-skills/README.md)
       * [Module Overview](foundation-year/foundation-year-modules/autumn/communication-and-learning-skills/module-overview.md)
+      * [Study Skills](foundation-year/foundation-year-modules/autumn/communication-and-learning-skills/study-skills/README.md)
+        * [Untitled](foundation-year/foundation-year-modules/autumn/communication-and-learning-skills/study-skills/untitled.md)
       * [PDP/Target Setting \(SMART\) and Reflection](foundation-year/foundation-year-modules/autumn/communication-and-learning-skills/pdp-target-setting-smart-and-reflection.md)
       * [Working in Groups](foundation-year/foundation-year-modules/autumn/communication-and-learning-skills/working-in-groups.md)
       * [Time Management and Personal Planning](foundation-year/foundation-year-modules/autumn/communication-and-learning-skills/time-management-and-personal-planning.md)

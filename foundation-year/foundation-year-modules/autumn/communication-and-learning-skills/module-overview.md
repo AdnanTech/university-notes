@@ -48,12 +48,21 @@ Further detail for each of the portfolio elements will be provided as and when t
 * Word Processor \(Microsoft Word, Libre Office\)
 * Presentation program \(Powerpoint, Libre Impress\)
 * Internet Access \(online sessions via Zoom\)
+* Microsoft Teams account
 
 ## Contacts
 
 * Professor: Ramiz Alihodzic
 * Room: CHICHESTER 1 302 \(Monday, Tuesday or Wednesday\) 
 * Email: [r.alihodzic@sussex.ac.uk](mailto:r.alihodzic@sussex.ac.uk)
+
+## Reading List
+
+| Title | Author | Year Published | Mandatory? |
+| :--- | :--- | :--- | :--- |
+| The Study Skills Handbook | Stella Cottrell | 2008 | No |
+| Study Skills on Sussex Website | University Of Sussex | - | No |
+| Learning How to Learn \(Great book\) | Barbara Oakley | 2018 | No, recommended |
 
 
 

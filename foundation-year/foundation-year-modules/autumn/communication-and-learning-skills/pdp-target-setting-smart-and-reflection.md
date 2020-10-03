@@ -1,23 +1,5 @@
 # PDP/Target Setting \(SMART\) and Reflection
 
-## ------------------ NOTES FROM 1/10
-
- there is a key information on canvas, for example a section where you can find recordings, the outline in the module information section, a reading list
-
-reading list: the study skills handbook by stella cottrell and skills hub on sussex website
-
-need to download microsoft teams, will replace zoom went over the presentation
-
-this whole topic is about personal development and being a uni student, will have group work
-
-Went through Skills Hub, might be good to make a section for study skills under the meta for this space
-
-Presentation is in week 7, this is important
-
-week 9 is when the presentation work is due
-
-Went over the brief of module content and stuff
-
 #### Learning Diary
 
 Learning diary is important, kind of like a blog entry, but needs to have a section with key topics covered, and my **honest thoughts** 
