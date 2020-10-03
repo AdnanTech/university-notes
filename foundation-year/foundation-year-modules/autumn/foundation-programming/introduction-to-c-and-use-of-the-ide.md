@@ -13,9 +13,11 @@ The Integrated Development Environment \(IDE\) we use is called Dev C++, it is w
 C is compiled, compilation has some main stages: Lexical analysis, syntax analysis, code generation and code optimization. The end result an executable file of machine code.
 
 * Preprocessor uses a macro language to transform C code before compilation, for example adding in code from header files.
+* The compiler then translates the C code into assembly code
+* The assembler converts assembly code into machine code to create a binary object code file
 * Linkers combines binary files together along with operating system static library files so they can be used in tandem to form an executable file. A good example of this is how Windows links all the .dll libraries together.
 
- There are different file states during C compilation:
+There are different file states during C compilation:
 
 * Source Code \(.c\)
 * Substitutions \(.i\)

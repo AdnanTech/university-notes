@@ -10,8 +10,8 @@ Long version is that the types of **programming languages** go under the class o
   * **Procedural**: in which a program is constructed by composing subroutines \(functions\), these subroutines contain a series of computational steps to be carried out, at any time when called during program execution.
     * Examples include: C and Pascal, and in older times FORTRAN and COBOL.
   * **Object Oriented**: in which a program is contructed by "_objects_", which contain data and code. _**Data**_ in the form form of _fields_ \(attributes and properties\), and _**code**_ in the form of _procedures_ \(methods\)
+
     * Examples include: C++, Java, C\#, VB.NET, PHP
-  * 
 * **Declarative**: in which you tell the computer _what_ to do
   * **Functional**: in which a program is constructed by applying \(passing arguments\) and composing \(combining\) functions. _Functions_ can be defined as **trees of expressions** \(entities: variables, constants, operators\) that can compound to each return a \(new\) value.
     * Examples include: Common Lisp, Wolfram Language [\(used to calculate the variables of the simulation of our universe!\)](https://www.youtube.com/watch?v=-t1_ffaFXao), Erlang, Haskell, Scheme
@@ -22,7 +22,7 @@ Long version is that the types of **programming languages** go under the class o
   * **Data flow**: in which a program is a directed graph of the data flowing between operations
     * Examples include: Microsoft Visual Programming Language \(MVLP\), Prograph, Lucid
 
-> Python and MATLAB are multi-paradigm
+> Python, MATLAB are multi-paradigm
 
 {% hint style="info" %}
 The difference between functional and procedural is that functional takes arguments and returns a value, whereas procedural is simply a sequence of computational sequential steps
@@ -30,10 +30,21 @@ The difference between functional and procedural is that functional takes argume
 
 ### Range of Programming languages
 
-High level
+* H**igh level** languages include C\#, Python, SQL, PHP
+  * High level languages are _compiled into low level machine code_
+  * These high level languages usually have specific purposes
+    * SQL is for databses
+    * C\# for windows applications
+    * PHP for web applications. 
+* **Low level languages** include assembly code and machine code \(C is assembly code with syntatic sugar\)
+  * Low level languages are compiled into executable files
+* **Scripting languages** such as PHP and JavaScript use **interpreters**, where each line is intepreted one line at a time as being run.
 
-* 
-Low level
+
+
+{% hint style="info" %}
+Java is compiled into byte code \(virtual assembly code\), and then interpreted by a JVM \(java virutal machine\)
+{% endhint %}
 
 ### Machine and Assmebly Code
 
@@ -52,8 +63,6 @@ All code is eventually turned into machine code. Assembly code is the more legib
   * **&xx - Immediate Addresssing** - The operand contains the **value** of the element to be operated on 
   * **\#xx - Indirect Addressing** - The operand contains the **address** of the location in the physical memory, this location contains the physical address of the location in the memory where the value is stored 
   * **xx\[\] - Indexed Addressing** - Indexed addressing is used in machines containing an index register. With this mode of addressing, values in the operand are **offset** by the value stored in the index register
-
-Higher level programming languages usually have specific purposes, SQL is for databses, C\# for windows applications, PHP for web applications. High level languages are also compiled into low level machine code. Scripting languages, such as PHP and JavaScript use interpreters, where each line is compiled as being run. Java is compiled into byte code \(virtual assembly code\), and then interpreted by a JVM \(java virutal machine\). Compilers turn high level code into machine code
 
 ### Sources
 
