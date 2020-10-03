@@ -41,6 +41,7 @@
         * [Technical Writing, Evaluation](foundation-year/foundation-year-modules/autumn/communication-and-learning-skills/study-skills/technical-writing-evaluation.md)
         * [Revision and Exams](foundation-year/foundation-year-modules/autumn/communication-and-learning-skills/study-skills/revision-and-exams.md)
     * [Mathematics for Computing 1](foundation-year/foundation-year-modules/autumn/mathematics-for-computing-1/README.md)
+      * [Module Overview](foundation-year/foundation-year-modules/autumn/mathematics-for-computing-1/module-overview.md)
       * [Equations, Graphs and Functions](foundation-year/foundation-year-modules/autumn/mathematics-for-computing-1/equations-graphs-and-functions.md)
       * [Factorisation and Functions](foundation-year/foundation-year-modules/autumn/mathematics-for-computing-1/factorisation-and-functions.md)
       * [Trigonometry](foundation-year/foundation-year-modules/autumn/mathematics-for-computing-1/trigonometry.md)
