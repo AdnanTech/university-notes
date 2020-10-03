@@ -8,5 +8,5 @@
 
 **Computing Project:** I found x hard and y easy
 
-**Summative Evaluation:** Overall i think
+**Summative Evaluation:** Overall i think x
 
