@@ -23,10 +23,10 @@ $$
 y = (dy/dx)x + c
 $$
 
-* General form of a polynomial can be respresented like so:
+* General form of a polynomial \(qudratic, cubic, etc\) can be respresented like so:
 
 $$
-y = ax^2 + bx + c
+y = ax^2 + bx + c || y = ax^3+bx^2+cx+d
 $$
 
 ### Fractions
