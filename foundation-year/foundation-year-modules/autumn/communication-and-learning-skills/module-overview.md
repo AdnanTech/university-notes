@@ -2,8 +2,6 @@
 
 ## Learning Outcomes
 
-By the end of this module a successful student should be able to:
-
 * Present technical information in a clear and structured fashion
 * Demonstrate familiarity with techniques for conducting, evaluating and reporting on research
 * Reflect on their own approach to study and how to improve their learning experience

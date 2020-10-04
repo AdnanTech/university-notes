@@ -54,6 +54,7 @@
       * [Binary Number Systems and Logic](foundation-year/foundation-year-modules/autumn/mathematics-for-computing-1/binary-number-systems-and-logic.md)
       * [Combinational Logic](foundation-year/foundation-year-modules/autumn/mathematics-for-computing-1/combinational-logic.md)
     * [Computing Project](foundation-year/foundation-year-modules/autumn/computing-project/README.md)
+      * [Module Overview](foundation-year/foundation-year-modules/autumn/computing-project/module-overview.md)
       * [Introduction to the Internet and World Wide Web](foundation-year/foundation-year-modules/autumn/computing-project/introduction-to-the-internet-and-world-wide-web.md)
       * [HTML \(Hyper Text Markup Language\) Basics and Tables](foundation-year/foundation-year-modules/autumn/computing-project/html-hyper-text-markup-language-basics-and-tables.md)
       * [Introduction to CSS \(Cascading Style Sheets\)](foundation-year/foundation-year-modules/autumn/computing-project/introduction-to-css-cascading-style-sheets.md)

@@ -2,8 +2,6 @@
 
 ## Learning Outcomes
 
-By the end of this module a successful student should be able to:
-
 * Employ a range of basic programming constructs to develop a programming solution in a high-level programming language
 * Transform a simple program specification into a design using a standard design technique
 * Use a programming environment to edit, debug and compile a simple program
