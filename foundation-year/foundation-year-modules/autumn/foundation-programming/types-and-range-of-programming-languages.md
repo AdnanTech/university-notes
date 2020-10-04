@@ -42,8 +42,6 @@ The difference between functional and procedural is that functional takes argume
   * Low level languages are compiled into executable files
 * **Scripting languages** such as PHP and JavaScript use **interpreters**, where each line is intepreted one line at a time as being run.
 
-
-
 {% hint style="info" %}
 Java is compiled into byte code \(virtual assembly code\), and then interpreted by a JVM \(java virutal machine\)
 {% endhint %}
@@ -68,6 +66,6 @@ All code is eventually turned into machine code. Assembly code is the more legib
 
 ### Sources
 
-[https://en.wikipedia.org/wiki/Object-oriented\_programming](https://en.wikipedia.org/wiki/Object-oriented_programming)  
-[https://www.typesnuses.com/types-of-programming-languages-with-differences/](https://www.typesnuses.com/types-of-programming-languages-with-differences/)
+* [https://en.wikipedia.org/wiki/Object-oriented\_programming](https://en.wikipedia.org/wiki/Programming_paradigm)
+* [https://www.typesnuses.com/types-of-programming-languages-with-differences/](https://www.typesnuses.com/types-of-programming-languages-with-differences/)
 
