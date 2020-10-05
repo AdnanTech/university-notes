@@ -11,13 +11,15 @@ PRE READING:
 
 ### Operators
 
-An **operator** is generally a mapping or function that acts on elements of a space to produce elements of another space \(possibly the same space, sometimes required to be the same space\)
+An **operator** is a symbol that tells the compiler or interpreter to perform specific mathematical, relational or logical operation and produce final result, the main types are arithmetic, assignment and relational
 
-There are 3 types of operators
+{% hint style="info" %}
+**Operators follow the order of precedence \(BEDMAS\)**
+{% endhint %}
 
-_**Operators follow the order of precedence**_
+### There are 3 main types of operators
 
-### Arithmetic Operators
+#### Arithmetic Operators
 
 * An operator is like a function, where things get worked out and a value is returned. For example, with x + y the addition operator causes the value of x plus y to be returned. For an operator to work, it requires one or more OPERAND. So in the previous example, x and y are both operands. They would be called parameters for a function. Without one or the other, the addition operator won't work.
 
@@ -41,9 +43,9 @@ _**Operators follow the order of precedence**_
 | x /= y; | x = x / y; |
 | x %= y; | x = x % y; |
 
-* Relational Operators
+#### Relational Operators
 
-| Relational Operator | Operat |
+| Relational Operator | Operation |
 | :--- | :--- |
 | &lt; | Less than |
 | &gt; | Greater than |
