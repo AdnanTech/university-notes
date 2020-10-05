@@ -2,10 +2,8 @@
 
 ### The Internet
 
-Pre Reading
-
 *  The **Internet** is the global system of interconnected computer networks that uses the Internet protocol suite \(TCP/IP\) to communicate between networks and devices. Essentially, a _network of_ private, public, academic, business, and government _networks_ to a global \(WAN\) or local \(LAN\) scale.
-* The **infastructure** of the internet consits of different **data networks,** like layers, the most exposed data networks we know today are the WAN, and the LAN :
+* The **infrastructure** of the internet consits of different **data networks,** like layers, the most exposed data networks we know today are the WAN, and the LAN :
   * [Nanoscale](https://en.wikipedia.org/wiki/Nanonetwork): A nanonetwork or nanoscale network is a set of interconnected nanomachines \(devices a few hundred nanometers or a few micrometers at most in size\), which are able to perform only very simple tasks such as computing, data storing, sensing and actuation
   * [Near-field \(NFC\)](https://en.wikipedia.org/wiki/Near-field_communication)
   * [Body \(BAN\)](https://en.wikipedia.org/wiki/Body_area_network)
@@ -37,26 +35,33 @@ _Nobody owns the internet, it is an entity_
 
 ### World Wide Web
 
+The **World Wide Web** is an information system where documents and other web resources are identified by Uniform Resource Locators \(URLs\), which may be interlinked by hypertext, and are accessible over the Internet
+
 Who invented the World Wide Web \(WWW\)? 
 
 * English scientist **Tim Berners-Lee** invented the World Wide Web in 1989. 
-* He wrote the first web browser in 1990 while employed at CERN near Geneva, Switzerland.
+* He wrote the first web browser \(called WorldWideWeb\) in 1990 while employed at CERN near Geneva, Switzerland.
 * The browser was released outside CERN to other research institutions starting in January 1991
 * Then to the general public in August 1991
 
 #### Transmission Control Protocol \(TCP\)
 
 * The **Transmission Control Protocol** \(**TCP**\) is one of the main protocols of the Internet protocol suite. It originated in the initial network implementation in which it complemented the Internet Protocol \(IP\). Therefore, the entire suite is commonly referred to as TCP/IP. TCP provides reliable, ordered, and error-checked delivery of a stream of octets \(bytes\) between applications running on hosts communicating via an IP network. Major internet applications such as the World Wide Web, email, remote administration, and file transfer rely on TCP, which is part of the Transport Layer of the TCP/IP suite. SSL/TLS often runs on top of TCP.
-  * TCP is connection-oriented, and a connection between client and server is established before data can be sent. The server must be listening \(passive open\) for connection requests from clients before a connection is established. Three-way handshake \(active open\), retransmission, and error-detection adds to reliability but lengthens latency. Applications that do not require reliable data stream service may use the User Datagram Protocol \(UDP\), which provides a connectionless datagram service that prioritizes time over reliability. TCP employs network congestion avoidance. However, there are vulnerabilities to TCP including denial of service, connection hijacking, TCP veto, and reset attack. For network security, monitoring, and debugging, TCP traffic can be intercepted and logged with a packet sniffer.
+  * TCP is connection-oriented, and a connection between client and server is established before data can be sent. The server must be listening \(passive open\) for connection requests from clients before a connection is established. Three-way handshake \(active open\), re transmission, and error-detection adds to reliability but lengthens latency. Applications that do not require reliable data stream service may use the User Datagram Protocol \(UDP\), which provides a connectionless datagram service that prioritizes time over reliability. TCP employs network congestion avoidance. However, there are vulnerabilities to TCP including denial of service, connection hijacking, TCP veto, and reset attack. For network security, monitoring, and debugging, TCP traffic can be intercepted and logged with a packet sniffer.
   * Though TCP is a complex protocol, its basic operation has not changed significantly since its first specification. TCP is still dominantly used for the web, i.e. for the HTTP protocol, and later HTTP/2, while not used by latest standard HTTP/3.
 * Verifies the correct delivery of data from its source to destination It can also: 
+
   * Detect errors 
   * Detect duplicate messages and discard them
   * Detect lost data
   * Request retransmission of data until it is correct and complete
   * Use flow control to slow down the data transfer if the receiver cannot keep up
 
-#### IPv4 vs IPv6
+#### User Datagram Protocol \(UDP\)
+
+UDP uses a simple connectionless communication model with a minimum of protocol mechanisms. UDP provides checksums for data integrity, and port numbers for addressing different functions at the source and destination of the datagram \(A **datagram** is a basic transfer unit associated with a packet-switched network\). It has no handshaking dialogues, and thus exposes the user's program to any unreliability of the underlying network; there is no guarantee of delivery, ordering, or duplicate protection
+
+#### Internet Protocol \(IPv4 and IPv6\)
 
 The Internet Protocol \(IP\) is the principal communications protocol in the Internet protocol suite for relaying datagrams across network boundaries. Its routing function enables internetworking, and essentially establishes the Internet.
 
@@ -72,19 +77,77 @@ IP has the task of delivering packets from the source host to the destination ho
   * 128-bit number
   * 2^128
   * 2001:4860:4860::8888 \(Google's IPv6 address\)
+    * Benefits of IPv6
+      * Has more addresses available, due to the higher number of bits, thus more devices can be registered
+      * No more NAT \(Network Address Translation\)
+      * Auto-configuration
+      * No more private address collisions
+      * Better multicast routing
+      * Simpler header format
+      * Simplified, more efficient routing
+      * True quality of service \(QoS\), also called "flow labeling"
+      * Built-in authentication and privacy support
+      * Flexible options and extensions
+      * Easier administration \(no more DHCP\)
 
-As we can see, IPv6 has more addresses avaliable, due to the higher nymber of bits
+#### DNS \(Domain Name System\)
 
-DNS \(Domain Name Server\)
+**Domain Name System** \(**DNS**\) is a hierarchical and decentralized **naming system** for computers, services, or other resources connected to the Internet or a private network.
+
+* The **DNS server** connects these computers together
+* Domain name
+* Domain Structure
+* Domain Registars
 
 #### Architecture and Components
 
-* hardware
+* Hardware
 * Software
 * Networking
 * Protocols
 
-#### Static vs Dynamic Page requests
+
+
+* Web Hosting
+* Internet Service Provider
+* Domain name, structure and registers
+* Web Servers
+
+#### Static Page requests
+
+A **static web page** is a web page that is delivered to the user's web browser exactly as stored, using a web server interacting with one or more files \(HTML, CSS, JS\) for one web page
+
+Advantages of a static website
+
+* Provide improved security over dynamic websites \(dynamic websites are at risk to web shell attacks if a vulnerability is present\)
+* Improved performance for end users compared to dynamic websites
+* Fewer or no dependencies on systems such as databases or other application servers
+* Cost savings from utilizing cloud storage, as opposed to a hosted environment
+
+Disadvantages of a static website
+
+* Dynamic functionality must be performed on the client side
+
+#### Dynamic Page requests
+
+Dynamic web pages are produced by dynamic web apps, in which HTML pages interact with the web server, application server, database server, which recreates a web page from data to the user.
+
+A **server-side dynamic web page** is a web page whose construction is controlled by an **application server** processing server-side scripts. In server-side scripting, parameters determine how the assembly of every new web page proceeds, including the setting up of more client-side processing.
+
+A **client-side dynamic web page** processes the web page using HTML scripting running in the **browser software** as it loads. JavaScript and other scripting languages determine the way the HTML in the received page is parsed into the Document Object Model \(DOM\), that represents the loaded web page. The same client-side techniques can then dynamically update or change the DOM in the same way. Even though a web page can be dynamic on the client-side, it can still be hosted on a static hosting service such as GitHub Pages or Amazon S3 as long as there isn't any server-side code included.
+
+Advantages
+
+* You can have a template of the website that can be used across every webpage on the website
+* You can create a back-end to update the website without adding any new code functionality to the website
+
+Disadvantages
+
+* Dynamic hosting of web applications can be expensive
+
+**Question for next session: describe and identify one exampe where hexadecimal numbers used in websites**
+
+* **colour palette, using cascading style sheets, you can change the colour of a HTML attributes \(id, class or tag\) by linking the attribute to the CSS code \(.body { background-color: \#ff0000 } \)**
 
 ### Sources
 
