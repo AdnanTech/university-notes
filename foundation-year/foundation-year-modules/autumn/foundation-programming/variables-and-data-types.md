@@ -13,7 +13,17 @@
 
 ### Data types
 
-There are lots of data types, below i have listed a few. in C, data types come with format specifiers, which means that the types are also stored in memory differently:
+There are lots of data types, below are some of the primitive data types. In C, data types come with format specifiers, which means that the types are also stored in memory differently:
+
+| Data Type | Format \(field\) Specifier | Examples \(in C\) |
+| :--- | :--- | :--- |
+| char | %c | printf\("char var = %c", var\); |
+| int | %d / %i | printf\("int var = %d", var\); |
+| float | %f | printf\("float var = %f", var\); |
+| double | %lf \(LF\) | printf\("double var = %lf", var\); |
+| double \(engineer notation\) | %e | printf\("double var = %e", var\); |
+| \(string\) literals | %s | printf\("string var = %s", var\); |
+| bool | %d | printf\("bool var = %d\n", var\); |
 
 * **%c - char** - a single character 'A' \(notice the single quotes for a char\)
 * **%d/%i - int** - an integer value 5
@@ -22,13 +32,14 @@ There are lots of data types, below i have listed a few. in C, data types come w
 * **%s - `char string_name[] (string)`** - string literal**s** "Hello World" \(notice the double quotes\)
 * **%d - bool** - a boolean value 1 \(true\)
 
- Data types can also be _modified_:
+ Data types can also be _**modified**_:
 
 *  int can be modified:
   *  long int
   *  short int
   *  long long int
   *  unsigned int
+  * signed int
 *  double can be modified:
   *  long double
 

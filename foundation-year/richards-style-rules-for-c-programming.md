@@ -1,6 +1,6 @@
 # Richard's Style Rules for C Programming
 
-### DEV-C++
+### IDE Options \(DEV-C++\)
 
 * DEV-C++ is the IDE we use
   * [Desktop App Download Link](https://sourceforge.net/projects/orwelldevcpp/files/Setup%20Releases/)
@@ -24,6 +24,7 @@
 * You must start with include stdio.h And an int main that has void in parenthesis 
 * Curly brackets must have their own line
 * You have add void in the brackets for functions that do not return anything: void function\_name\(**void**\)
+* count variables also must be declared before the block of code
 * Programs must start with the following multiline comment
   * ```c
     /***********************************************************************
@@ -33,4 +34,10 @@
     * Version Number/Start Date
 
     ```
-* 
+
+### Functions
+
+* Function prototypes listed before main\(\)
+* Function definitions after main\(\). 
+* Every function definition should be preceded by a comment.
+
