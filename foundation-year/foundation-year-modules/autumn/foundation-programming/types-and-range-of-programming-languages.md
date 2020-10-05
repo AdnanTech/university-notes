@@ -60,7 +60,7 @@ All code is eventually turned into machine code. Assembly code is the more legib
 *  **Opcode** - A Single instruction displayed as a **mnemonic** \(ADD, LOAD, STORE, BRANCH, INPUT\)
 *  **Operand** - The address of an element as an **integer** \(12, 04, 50, 38\) with an addressing type: 
   * **xx - Direct Addressing** - The operand holds the **physical memory location** of the element to be operated on 
-  * **&xx - Immediate Addresssing** - The operand contains the **value** of the element to be operated on 
+  * **&xx - Immediate Addresssing** - The operand contains the **value** of the element to be operated on  \(uses pointers\)
   * **\#xx - Indirect Addressing** - The operand contains the **address** of the location in the physical memory, this location contains the physical address of the location in the memory where the value is stored 
   * **xx\[\] - Indexed Addressing** - Indexed addressing is used in machines containing an index register. With this mode of addressing, values in the operand are **offset** by the value stored in the index register
 

@@ -2,11 +2,9 @@
 
 ### Functions
 
-PRE READING: 
-
-* In **maths** a function is an equation for which any given x into the equation, it will return exactly one y.
-* In **programming** a function \(method in OOP, procedure/subroutine if nothing is returned\) a block of code, which **given a set of any amount of parameters**, performs a task and can **return exactly one value**. Every C program has at least one function, which is main\(\). The main\(\) function in turn calls \(runs\) standard library functions and also user defined functions.
-* A function prototype \(declaration\) tells the compiler about a function's name, return type, and parameters. A function definition provides the actual body of the function
+* In **programming** a function \(method in OOP, procedure/subroutine if nothing is returned\) a block of code, which **given a set of any amount of parameters**, performs a task and can **return exactly one value**. Every C program has at least one function, which is main\(\), the main\(\) function is run on program execution, main\(\) in turn calls \(runs\) standard library functions and also user defined functions.
+* In **maths** a function is an equation for which any given x into the equation, it will return exactly one y
+* A **function prototype** \(declaration\) tells the compiler about a _function's name, return type, and parameters_. A function definition provides the actual body of the function
 * **Refer to** [**Code Base** ](https://adnantech.gitbook.io/code/)**for C Function Examples**
 
 ### Operators

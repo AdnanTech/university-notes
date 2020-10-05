@@ -17,22 +17,22 @@ There are lots of data types, below are some of the primitive data types. In C, 
 
 | Data Type | Format \(field\) Specifier | Examples \(in C\) |
 | :--- | :--- | :--- |
-| char | %c | printf\("char var = %c", var\); |
-| signed int | %d / %i | printf\("int var = %d", var\); |
-| unsigned int | %u | printf\("int var = %u", var\); |
-| short int | %dh / %ih | printf\("int var = %dh", var\); |
-| float | %f | printf\("float var = %f", var\); |
-| long double | %lf \(LF\) | printf\("double var = %lf", var\); |
-| double \(engineer notation\) | %e | printf\("double var = %e", var\); |
-| \(string\) literals | %s | printf\("string var = %s", var\); |
-| bool | %d | printf\("bool var = %d\n", var\); |
+| char | %c | `printf("char var = %c", var);` |
+| signed int | %d / %i | `printf("int var = %d", var);` |
+| unsigned int | %u | `printf("int var = %u", var);` |
+| short int | %dh / %ih | `printf("int var = %dh", var);` |
+| float | %f | `printf("float var = %f", var);` |
+| long double | %lf \(LF\) / .1lf \(1 d.p\) | `printf("double var = %lf", var);` |
+| double \(engineer notation\) | %e | `printf("double var = %e", var);` |
+| \(string\) literals | %s | `printf("string var = %s", var);` |
+| bool | %d | `printf("bool var = %d\n", var);` |
 
 * **%c - char** - a single character 'A' \(notice the single quotes for a char\)
 * **%d/%i - int** - an integer value 5
 * **%f - float** - A floating-point number to 7 significant places 0.123456
   * Use an exponent and mantissa
 * **%e - double** - a floating-point number to 15 significant places 0.1234567891234
-* **%s - `char string_name[] (string)`** - string literal**s** "Hello World" \(notice the double quotes\)
+* **%s - `char string_name[] = "Hello World"`** - string literal**s** "Hello World" \(notice the double quotes\)
 * **%d - bool** - a boolean value 1 \(true\)
 
  Data types can also be _**modified**_:
@@ -53,4 +53,8 @@ There are lots of data types, below are some of the primitive data types. In C, 
     * 16 bytes \(128 bit\)
 
 ### [C code examples on my Codebase](https://adnantech.gitbook.io/code/code/c)
+
+### Sources
+
+* Week 1/2 of Foundation Programming lecture slides \(Module: G6065\)
 
