@@ -7,9 +7,9 @@
   * [Portable USB Application Download Link](https://sourceforge.net/projects/orwelldevcpp/files/Portable%20Releases/)
 * Compiler Options:
   * Go into Tools -&gt; Compiler options at the top
-    * Go into settings and under C Options, Support all ANSI Standard C Programs should be set to Yes
+    * _Go into settings and under C Options, Support all ANSI Standard C Programs should be set to Yes \(?\)_
     * Under Code generation, Language Standard is ISO C99
-    * Under Warnings, Show most warnins should be set to Yes
+    * Under Warnings, Show most warnings should be set to Yes
 * Editor Options
   * Go into Tools -&gt; Editor options at the Top
     * Under Right Margin, the Enabled box should be checked, and the width should be set to 72
