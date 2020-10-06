@@ -6,6 +6,8 @@
 * In **maths** a function is an equation for which any given x into the equation, it will return exactly one y
 * A **function prototype** \(declaration\) tells the compiler about a _function's name, return type, and parameters_. A function definition provides the actual body of the function
 * printf\(\) and scanf\(\) are functions that are taken from the header file library
+* You can define how many columns can be displayed to the console using a numeric precessor;
+  * `printf("%2d", var)`- here var is displayed in a column that is 2 wide
 * **Refer to** [**Code Base** ](https://adnantech.gitbook.io/code/)**for C Function Examples**
 
 ### Operators
