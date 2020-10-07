@@ -2,7 +2,22 @@
 
 ### Factorisation
 
-* Lorem Ipsum
+* Factorisation is the process of breaking down a mathematical expression into its constituent parts
+  * if you multiply the parts, you get the original expressio
+* Prime numbers' factors are special becayse they are only 1 and itself, assuming only integer values
+* When factorising, we use the smallest prime number factors \(1,2 \(only even prime number!\),3,5,7,11\)
+* The point of factorisation is to simplify expressions into smaller, more digestable expressins to solve
+  * for example:
+
+$$
+\tfrac{72}{108} = \tfrac{2*2*2*3*3}{2*2*3*3*3} =\tfrac{2}{3}
+$$
+
+* When factors are multiplied together, they must equal 0
+
+$$
+(2x^2+x-1) =(2x-1)(x+1) \\x = \tfrac{1}{2}=(2x-1) =0\\x = -1 =(x+1) = 0
+$$
 
 ### Functions
 
