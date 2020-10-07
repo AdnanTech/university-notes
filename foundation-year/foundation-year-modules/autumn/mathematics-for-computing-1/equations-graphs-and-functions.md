@@ -67,5 +67,11 @@ BEDMAS is the order of precedence in which calculations are executed:
 | [Fractions](https://github.com/AdnanTech/maths-for-computing-worksheets/blob/master/equations-graphs-and-fractions/Fractions.pdf) | [FractionsAnswers](https://github.com/AdnanTech/maths-for-computing-worksheets/blob/master/equations-graphs-and-fractions/FractionsAnswers.pdf) | FractionsWorkedSolutions |
 | [Fractions2](https://github.com/AdnanTech/maths-for-computing-worksheets/blob/master/equations-graphs-and-fractions/Fractions2.pdf) | [Fractions2Answers](https://github.com/AdnanTech/maths-for-computing-worksheets/blob/master/equations-graphs-and-fractions/Fractions2Answers.pdf) | Fractions2WorkedSolutions |
 
+### Formulae
 
+* Solving linear equations
+* factorising
+* completing the square
+* solving polynomail \(substitution\)
+* difference of 2 squares
 

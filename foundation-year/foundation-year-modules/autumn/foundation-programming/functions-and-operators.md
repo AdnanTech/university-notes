@@ -12,7 +12,7 @@
 
 ### Operators
 
-An **operator** is a symbol that tells the compiler or interpreter to perform specific mathematical, relational or logical operation and produce final result, the main types are arithmetic, assignment and relational
+An **operator** is a symbol that tells the compiler or interpreter to perform specific mathematical, relational or logical operation and produce final result, the main types are arithmetic, assignment and relational.
 
 {% hint style="info" %}
 **Operators follow the order of precedence \(BEDMAS\)**
@@ -22,7 +22,7 @@ An **operator** is a symbol that tells the compiler or interpreter to perform sp
 
 #### Arithmetic Operators
 
-* An operator is like a function, where things get worked out and a value is returned. For example, with x + y the addition operator causes the value of x plus y to be returned. For an operator to work, it requires one or more OPERAND. So in the previous example, x and y are both operands. They would be called parameters for a function. Without one or the other, the addition operator won't work.
+* An **operator is like a function**, where things get worked out and a value is returned. For example, with x + y the addition operator causes the value of x plus y to be returned. For an operator to work, it requires one or more OPERAND. So in the previous example, x and y are both operands. They would be called parameters for a function. Without one or the other, the addition operator won't work.
 
 | Arithmetic operator | Operation |
 | :--- | :--- |

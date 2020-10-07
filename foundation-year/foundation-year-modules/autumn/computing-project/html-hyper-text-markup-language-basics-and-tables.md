@@ -23,14 +23,20 @@ Hyper Text Markup Language \(HTML\) is a markup language that defines the struct
       *          `<p id="example-class">Lorem Ipsum</p>`
   * \(Identifier, not the same as selector\) The **`id` global attribute** defines an identifier \(ID\) which must be **unique in the whole document**. Its purpose is to identify the element when linking and styling \(with CSS\)
     * id is the attribute _name_ and example-id is the attribute value
-* You can crate [web forms using the input tags nested within a block](https://developer.mozilla.org/en-US/docs/Learn/Forms/HTML5_input_types)
+      * `<p class="example-id">Lorem Ipsum</p>`
+        *          `<p id="example-id">Lorem Ipsum</p>`
+* You can create web forms using the [&lt;input&gt; tags](https://developer.mozilla.org/en-US/docs/Learn/Forms/HTML5_input_types) nested within a [&lt;form&gt; block](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
+  * using the`<input>` element, you can specify the type to create an input form
+    * phone number input type`<input type="tel" id="tel" name="tel">`
+    * password input type `<input type="password" id="pwd" name="pwd">`
+  * \`\`
 * The **HTML Content Division element** \(**`<div>`**\) is the generic container for flow content. it has no styling until applied with CSS. It basically just defines a container for HTML content
 
 **HTML Tables**
 
 The **HTML `<table>` element** represents tabular data — that is, information presented in a two-dimensional table comprised of rows and columns of cells containing data
 
-Examples are in the code base
+Examples are in the [code base](https://adnantech.gitbook.io/code/code/html/tables)
 
 **Hyper text transfer protocol \(http://\)**
 
