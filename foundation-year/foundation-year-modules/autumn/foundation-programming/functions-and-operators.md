@@ -30,8 +30,8 @@ An **operator** is a symbol that tells the compiler or interpreter to perform sp
 | - | Subtraction |
 | \* | Multiplacation |
 | / | Division |
-| % | Modulus \(remainder of division\) |
-| ++ | Increment |
+| % \(%% as a string\) | Modulus \(remainder of division\) |
+| ++ \(var++ _for c_ or ++var for _c++_\) | Increment |
 | -- \(- -\) | Decrement |
 
 #### Arithmetic assignment Operators
