@@ -34,6 +34,49 @@ An **operator** is a symbol that tells the compiler or interpreter to perform sp
 | ++ \(var++ _for c_ or ++var for _c++_\) | Increment |
 | -- \(- -\) | Decrement |
 
+_Note on increment/decrement operator: if you assign a new variable, to the original variable, the order of precedence is **left to right**, for example:_
+
+{% tabs %}
+{% tab title="Incrementing and Decrementing when assigning variables" %}
+```c
+#include <stdio.h>
+
+void TestingOne(void);
+void TestingTwo(void);
+
+int main(void)
+{
+    TestingOne();
+    printf("\n");
+    TestingTwo();
+    return 0;                    
+}
+
+void TestingOne(void)
+{
+    int x = 5;
+    int b;
+    
+    b = x++;
+    printf("%d", b); /* 5 */
+    printf("%d", x); /* 6 */
+}
+
+void TestingTwo(void)
+{
+    int x = 5;
+    int b;
+    
+    b = ++x;
+    printf("%d", b); /* 6 */
+    printf("%d", x); /* 6 */
+}
+```
+{% endtab %}
+{% endtabs %}
+
+
+
 #### Arithmetic assignment Operators
 
 | Arithmetic Assignment Operator | Less efficient equivalent |
