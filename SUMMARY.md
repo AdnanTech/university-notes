@@ -1,6 +1,7 @@
 # Table of contents
 
 * [University Notes](README.md)
+* [Workflow](workflow.md)
 
 ## Foundation Year
 
