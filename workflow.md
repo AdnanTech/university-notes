@@ -8,7 +8,7 @@
 ### Communication and Learning Skills
 
 * \(daily\) 1 Hour pre reading ahead of time 
-* \(weekly\) Learning Diary Entry
+* \(weekly\) Learning Diary Entry \(500 words\)
 * \(weekly\) Work on Portfolio \(PHP blog\) \(project space\)
 * \(daily\) 30 mins of Study Skills Hub reading
 
