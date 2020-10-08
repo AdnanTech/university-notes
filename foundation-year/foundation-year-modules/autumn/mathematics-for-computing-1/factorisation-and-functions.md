@@ -21,8 +21,11 @@ $$
 
 ### Functions
 
-* Lorem Ipsum
-
+* Functions are the idea of how computers work
+  * Input\(s\)
+  * Internal working \(process\)
+  * Output
+* 
 ### Worksheets
 
 | Worksheet Questions | Worksheet Answers | Worked Solutions |
