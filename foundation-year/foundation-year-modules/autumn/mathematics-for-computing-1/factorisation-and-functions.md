@@ -64,7 +64,13 @@ if \thickspace f(x)=2x \thickspace  then \thickspace f(x)^{-1} = \tfrac{x}{2}
 $$
 
 * To solve these, we just make the independant variable the subject of the equation
+* Covered composition of functions: g\(f\(x\)\), for example
 
+$$
+f(x) = x^2 \space \space \space \space g(x)=x+2 \\ g(f(x)): \space \space \space x^2+2
+$$
+
+* 
 ### Worksheets
 
 | Worksheet Questions | Worksheet Answers | Worked Solutions |

@@ -94,7 +94,7 @@ IP has the task of delivering packets from the source host to the destination ho
 
 **Domain Name System** \(**DNS**\) is a hierarchical and decentralized **naming system** for computers, services, or other resources connected to the Internet or a private network.
 
-* The **DNS server** connects these computers together
+* The **DNS server** connects these computers together, like a phone book
 * Domain name
 * Domain Structure
 * Domain Registars
@@ -105,10 +105,7 @@ IP has the task of delivering packets from the source host to the destination ho
 * Software
 * Networking
 * Protocols
-
-
-
-* Web Hosting
+* * Web Hosting
 * Internet Service Provider
 * Domain name, structure and registers
 * Web Servers
@@ -145,9 +142,9 @@ A **client-side dynamic web page** processes the web page using HTML scripting r
 
 * Dynamic hosting of web applications can be expensive
 
-**Question for next session: describe and identify one exampe where hexadecimal numbers used in websites**
+Question for next session: describe and identify one exampe where hexadecimal numbers used in websites
 
-* **colour palette, using cascading style sheets, you can change the colour of a HTML attributes \(id, class or tag\) by linking the attribute to the CSS code \(.body { background-color: \#ff0000 } \)**
+* colour palette, using cascading style sheets, you can change the colour of a HTML attributes \(id, class or tag\) by linking the attribute to the CSS code \(.body { background-color: \#ff0000 } \)
 
 ### Sources
 
