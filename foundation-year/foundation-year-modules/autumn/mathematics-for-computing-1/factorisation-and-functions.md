@@ -23,17 +23,27 @@ $$
 
 * Functions are the idea of how computers work
   * Input\(s\)
-  * Internal working \(process\)
+  * Internal working \(process, algorithms\)
   * Output
+* Output = name\(input\):
+  * where name \(f\) can be synonymous with internal working
+* x is the input \(independant variable\)
+* y is the output \(dependant variable\)
+
+$$
+y = f(x)
+$$
+
+* Mathematical functions are very similar to computational functions, because computational functions were built from mathematicians
 * 
 ### Worksheets
 
 | Worksheet Questions | Worksheet Answers | Worked Solutions |
 | :--- | :--- | :--- |
-| [FactorisationExercises](https://github.com/AdnanTech/maths-for-computing-worksheets/blob/master/factorisation-and-functions/FactorisationExercises.pdf) | [FactorisationExercisesAnswers](https://github.com/AdnanTech/maths-for-computing-worksheets/blob/master/factorisation-and-functions/FactorisationExercisesAnswers.pdf) |  FactorisationExercisesWorkedSolutions |
-| [FactorisingAndSolving](https://github.com/AdnanTech/maths-for-computing-worksheets/blob/master/factorisation-and-functions/FactorisingAndSolving.pdf) | [FactorisingAndSolvingAnswers](https://github.com/AdnanTech/maths-for-computing-worksheets/blob/master/factorisation-and-functions/FactorisingAndSolvingAnswers.pdf) |  FactorisingAndSolvingWorkedSolutions |
-| [ManipulationAndFactorisation](https://github.com/AdnanTech/maths-for-computing-worksheets/blob/master/factorisation-and-functions/ManipulationAndFactorisation.pdf) | [ManipulationAndFactorisationAnswers](https://github.com/AdnanTech/maths-for-computing-worksheets/blob/master/factorisation-and-functions/ManipulationAndFactorisationAnswers.pdf) | ManipulationAndFactorisationWorkedSolutions |
-| [SolvingOneUnknown](https://github.com/AdnanTech/maths-for-computing-worksheets/blob/master/factorisation-and-functions/SolvingOneUnknown.pdf) | [SolvingOneUnknownAnswers](https://github.com/AdnanTech/maths-for-computing-worksheets/blob/master/factorisation-and-functions/SolvingOneUnknownSolutions.pdf) |  SolvingOneUnknownWorkedSolutions |
+| [FactorisationExercises](https://github.com/AdnanTech/maths-for-computing-worksheets/blob/master/factorisation-and-functions/FactorisationExercises.pdf) | [FactorisationExercisesAnswers](https://github.com/AdnanTech/maths-for-computing-worksheets/blob/master/factorisation-and-functions/FactorisationExercisesAnswers.pdf) | [FactorisationExercisesWorkedSolutions](https://github.com/AdnanTech/maths-for-computing-worksheets/blob/master/factorisation-and-functions/FactorisationExercisesWorkedSolutions.pdf) |
+| [FactorisingAndSolving](https://github.com/AdnanTech/maths-for-computing-worksheets/blob/master/factorisation-and-functions/FactorisingAndSolving.pdf) | [FactorisingAndSolvingAnswers](https://github.com/AdnanTech/maths-for-computing-worksheets/blob/master/factorisation-and-functions/FactorisingAndSolvingAnswers.pdf) | [FactorisingAndSolvingWorkedSolutions](https://github.com/AdnanTech/maths-for-computing-worksheets/blob/master/factorisation-and-functions/FactorisingAndSolvingWorkedSolutions.pdf) |
+| [ManipulationAndFactorisation](https://github.com/AdnanTech/maths-for-computing-worksheets/blob/master/factorisation-and-functions/ManipulationAndFactorisation.pdf) | [ManipulationAndFactorisationAnswers](https://github.com/AdnanTech/maths-for-computing-worksheets/blob/master/factorisation-and-functions/ManipulationAndFactorisationAnswers.pdf) | [ManipulationAndFactorisationWorkedSolutions](https://github.com/AdnanTech/maths-for-computing-worksheets/blob/master/factorisation-and-functions/ManipulationAndFactorisationWorkedSolutions.pdf) |
+| [SolvingOneUnknown](https://github.com/AdnanTech/maths-for-computing-worksheets/blob/master/factorisation-and-functions/SolvingOneUnknown.pdf) | [SolvingOneUnknownAnswers](https://github.com/AdnanTech/maths-for-computing-worksheets/blob/master/factorisation-and-functions/SolvingOneUnknownSolutions.pdf) | [SolvingOneUnknownWorkedSolutions](https://github.com/AdnanTech/maths-for-computing-worksheets/blob/master/factorisation-and-functions/SolvingOneUnknownWorkedSolutions.pdf) |
 
 
 
