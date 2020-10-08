@@ -1,5 +1,7 @@
 # Web Activity Worksheet
 
+### Worksheet can be found [here](https://github.com/AdnanTech/UniversityOfSussex/blob/master/ComputingProject/WebActivityWorksheet.pdf)
+
 ### W3C
 
 World Wide Web Consortium \(W3C\) is an organization created by Tim Bernes Lee , they overlook the rules of web, such as protocols, guidelines
@@ -14,7 +16,7 @@ World Wide Web Consortium \(W3C\) is an organization created by Tim Bernes Lee ,
 
 ### FTP
 
-File transfer protocols are the standard network protocol used for the transfer of files between a client  \(personal machine\) and server on a computer network
+File transfer protocols are the standard network protocol used for the transfer of files between a client  \(personal machine\) and server on a computer network. Basically, they connect your web pages, in the form of files to the server where the website is being hosted.
 
 1. At Tradeviews I used FileZilla to connect to the server
 2. At FinancialJuice I use Microsoft azure web services
