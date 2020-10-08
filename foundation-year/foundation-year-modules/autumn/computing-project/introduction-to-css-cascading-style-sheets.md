@@ -54,4 +54,5 @@ _Cascading Style Sheets \(CSS\) is a stylesheet language used to define the pres
     *  The user \(or reader\) of the web site can choose to override styles in many browsers using a custom **user stylesheet** designed to tailor the experience to the user's wishes.
 * Why use a CSS reset file?
   * A CSS reset file allows you to clear an elements attributes so that you can stylize them with a clear formatting, this can help reduce ambiguity when stylizing a website
+* !important will override any properties, giving the element that specific !important element instead
 

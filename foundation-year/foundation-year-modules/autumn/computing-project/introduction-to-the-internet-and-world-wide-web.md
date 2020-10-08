@@ -22,7 +22,7 @@
   * [Cloud \(IAN\)](https://en.wikipedia.org/wiki/Internet_area_network)
 
 {% hint style="info" %}
-_Nobody owns the internet, it is an entity_
+_Nobody owns the internet, it is an entity as such_
 {% endhint %}
 
 * The largest users of the internet, in order:
@@ -49,7 +49,7 @@ Who invented the World Wide Web \(WWW\)?
 * The **Transmission Control Protocol** \(**TCP**\) is one of the main protocols of the Internet protocol suite. It originated in the initial network implementation in which it complemented the Internet Protocol \(IP\). Therefore, the entire suite is commonly referred to as TCP/IP. TCP provides reliable, ordered, and error-checked delivery of a stream of octets \(bytes\) between applications running on hosts communicating via an IP network. Major internet applications such as the World Wide Web, email, remote administration, and file transfer rely on TCP, which is part of the Transport Layer of the TCP/IP suite. SSL/TLS often runs on top of TCP.
   * TCP is connection-oriented, and a connection between client and server is established before data can be sent. The server must be listening \(passive open\) for connection requests from clients before a connection is established. Three-way handshake \(active open\), re transmission, and error-detection adds to reliability but lengthens latency. Applications that do not require reliable data stream service may use the User Datagram Protocol \(UDP\), which provides a connectionless datagram service that prioritizes time over reliability. TCP employs network congestion avoidance. However, there are vulnerabilities to TCP including denial of service, connection hijacking, TCP veto, and reset attack. For network security, monitoring, and debugging, TCP traffic can be intercepted and logged with a packet sniffer.
   * Though TCP is a complex protocol, its basic operation has not changed significantly since its first specification. TCP is still dominantly used for the web, i.e. for the HTTP protocol, and later HTTP/2, while not used by latest standard HTTP/3.
-* Verifies the correct delivery of data from its source to destination It can also: 
+* TCP verifies the correct delivery of **data from** its **source** to **destination,** It can also: 
 
   * Detect errors 
   * Detect duplicate messages and discard them
@@ -59,7 +59,7 @@ Who invented the World Wide Web \(WWW\)?
 
 #### User Datagram Protocol \(UDP\)
 
-UDP uses a simple connectionless communication model with a minimum of protocol mechanisms. UDP provides checksums for data integrity, and port numbers for addressing different functions at the source and destination of the datagram \(A **datagram** is a basic transfer unit associated with a packet-switched network\). It has no handshaking dialogues, and thus exposes the user's program to any unreliability of the underlying network; there is no guarantee of delivery, ordering, or duplicate protection
+UDP uses a simple connectionless communication model with a minimum of protocol mechanisms. UDP provides checksums for data integrity, and port numbers for addressing different functions at the source and destination of the datagram \(A **datagram** is a basic transfer unit associated with a packet-switched network\). It has no handshaking dialogues, and thus exposes the user's program to any unreliability of the underlying network; there is no guarantee of delivery, ordering, or duplicate protection.
 
 #### Internet Protocol \(IPv4 and IPv6\)
 
@@ -136,12 +136,12 @@ A **server-side dynamic web page** is a web page whose construction is controlle
 
 A **client-side dynamic web page** processes the web page using HTML scripting running in the **browser software** as it loads. JavaScript and other scripting languages determine the way the HTML in the received page is parsed into the Document Object Model \(DOM\), that represents the loaded web page. The same client-side techniques can then dynamically update or change the DOM in the same way. Even though a web page can be dynamic on the client-side, it can still be hosted on a static hosting service such as GitHub Pages or Amazon S3 as long as there isn't any server-side code included.
 
-Advantages
+**Advantages**
 
 * You can have a template of the website that can be used across every webpage on the website
 * You can create a back-end to update the website without adding any new code functionality to the website
 
-Disadvantages
+**Disadvantages**
 
 * Dynamic hosting of web applications can be expensive
 

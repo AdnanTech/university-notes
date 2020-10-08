@@ -1,9 +1,8 @@
 # HTML  Basics and Tables
 
-**HTML basics**
+_Hyper Text Markup Language \(HTML\) is a markup language that defines the structure of content on a webpage_
 
-Hyper Text Markup Language \(HTML\) is a markup language that defines the structure of your content
-
+* HTML is a upgraded version of XML
 * HTML consists of a series of elements, which you use to enclose or wrap different parts of the content to make it appear or act a certain way
   * The opening tag defines the way an element is displayed, some examples
     * image
