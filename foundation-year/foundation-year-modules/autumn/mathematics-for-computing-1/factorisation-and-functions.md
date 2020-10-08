@@ -22,20 +22,49 @@ $$
 ### Functions
 
 * Functions are the idea of how computers work
-  * Input\(s\)
+  * Input \(**can be many**\)
   * Internal working \(process, algorithms\)
-  * Output
+  * Output \(**only one**\)
 * Output = name\(input\):
   * where name \(f\) can be synonymous with internal working
 * x is the input \(independant variable\)
 * y is the output \(dependant variable\)
 
 $$
-y = f(x)
+x \space \epsilon \space R \space \space \space \space \space \space y = f(x)
 $$
 
 * Mathematical functions are very similar to computational functions, because computational functions were built from mathematicians
-* 
+* Definitons
+  * **N**: the set of all natural numbers \(integers excluding 0 and &lt;0\)
+  * **Z**: the set of all natural numbers \(all of N, plus 0 and &lt;0\)
+  * **R**: ****A value along a continuous line \(floating point numbers\)
+  * **Domain**: the set of numbers that the _independant_ variable can take
+  * **Co-domain/Range**: the set of numbers that the _dependent_ variable can take
+
+$$
+f(x) = x^2 \space \space \space \space \space -> \space \space \space \space R \overset{f}{=>}R
+$$
+
+* A fundamental principle of functions is that every mapping in the domain, maps to one co-domain
+* take f\(x\) = x^2
+
+| Domain \(x\) | Co-Domain mapping \(y\) |
+| :--- | :--- |
+| -2 | 4 |
+| 1 | 1 |
+| 2 | 4 |
+| -3 | 9 |
+
+* As we can see, one domain \(input\) has an unambigous one co-domain mapping \(output\)
+* There are also **Inverse functions**
+
+$$
+if \thickspace f(x)=2x \thickspace  then \thickspace f(x)^{-1} = \tfrac{x}{2}
+$$
+
+* To solve these, we just make the independant variable the subject of the equation
+
 ### Worksheets
 
 | Worksheet Questions | Worksheet Answers | Worked Solutions |
