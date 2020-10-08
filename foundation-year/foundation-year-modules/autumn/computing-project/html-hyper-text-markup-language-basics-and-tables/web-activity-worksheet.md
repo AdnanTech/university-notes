@@ -7,9 +7,9 @@ World Wide Web Consortium \(W3C\) is an organization created by Tim Bernes Lee ,
 ### Have you created a website?
 
 1. Yes, I have created my own Django, a python framework to make a blog that I use offline as a local server
-2. I also work currently as a back-end developer with the ASP.NET \(C\#\) core framework for [FinancialJuice](https://www.financialjuice.com/home), currently working on an NLP machine learning program
+2. I also work currently as a back-end developer with the ASP.NET \(C\#\) core framework for [FinancialJuice](https://www.financialjuice.com/home), currently working on an new NLP machine learning feature
 3. In the past I've worked at [Tradeviews](https://tradeviews.net/) where we had a PHP backend, with no framework
-4. I have roughly dabbled in flask for some \(unfinished\) side projects
+4. I have roughly dabbled in flask \(python\) for some \(unfinished\) side projects
 
 ### FTP
 
