@@ -30,6 +30,7 @@ _Hyper Text Markup Language \(HTML\) is a markup language that defines the struc
     * password input type `<input type="password" id="pwd" name="pwd">`
   * \`\`
 * The **HTML Content Division element** \(**`<div>`**\) is the generic container for flow content. it has no styling until applied with CSS. It basically just defines a container for HTML content
+* CSS **Flexbox** has replaced XHTML **framesets**
 
 **HTML Tables**
 
