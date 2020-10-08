@@ -6,18 +6,20 @@ World Wide Web Consortium \(W3C\) is an organization created by Tim Bernes Lee ,
 
 ### Have you created a website?
 
-1. Yes, I have created my own Django, a python framework to make a blog that I use offline as a local server
+1. Yes, I have created my own Django \(python\) framework to make a blog that I use offline as a local server, planned to move it to a NGINX server but a bit overloaded with time currently, and it doesnt have all the features I wanted to implement
 2. I also work currently as a back-end developer with the ASP.NET \(C\#\) core framework for [FinancialJuice](https://www.financialjuice.com/home), currently working on an new NLP machine learning feature
 3. In the past I've worked at [Tradeviews](https://tradeviews.net/) where we had a PHP backend, with no framework
 4. I have roughly dabbled in flask \(python\) for some \(unfinished\) side projects
+5. Looking to redesign my blog in PHP and js, without any frameworks, to get a stronger grasp on the programming languages
 
 ### FTP
 
-File transfer protocols are the standard network protocol used for the transfer of files between a client and server on a computer network
+File transfer protocols are the standard network protocol used for the transfer of files between a client  \(personal machine\) and server on a computer network
 
-1. At Tradeviews I used FileZilla
+1. At Tradeviews I used FileZilla to connect to the server
 2. At FinancialJuice I use Microsoft azure web services
 3. For personal projects, SiteGround have an FTP backend, or you can integrate FileZilla
+4. For static pages, Github have [Github pages ](https://pages.github.com/)that I use for free hosting for static websites
 
 ### ISP
 
@@ -25,18 +27,18 @@ An Internet service provider \(ISP\) is an organisation that provides services f
 
 ### URL
 
-Uniform Resource Locators \(URLs\) are the addresses of web pages, linking the physical storage of files to the network address, they are nicknames for the ip address essentially.
+Uniform Resource Locators \(URLs\) are used by web browsers. The browser looks up the IP address for the domain name \(URL\) via their DNS. The browser sends a HTTP request to the server. The server sends back a HTTP response.
 
 ### IP
 
 The Internet Protocol \(IP\) is the principal communications protocol in the Internet protocol suite for relaying datagrams \(A datagram is a basic transfer unit associated with a packet-switched network\). across network boundaries. Its routing function enables internetworking, and essentially establishes the Internet.
 
-* IPv4 
+* **IPv4** 
   * Denary notation
   * 32-bit number 
   * 2^32
   * 8.8.8.8 \(Google's IPv4 address\)
-* IPv6 
+* **IPv6** 
   * Hexadecimal notation
   * 128-bit number
   * 2^128
@@ -103,7 +105,7 @@ HTML history can be found [here](https://www.w3schools.in/html-tutorial/history/
 
 ### HTML Error Fixing
 
-Lots of errors, tags arent closed properly, random spaces, no indentation makes it harder to read, semantics are the wrong way around, clean, working version
+Lots of errors, tags arent closed properly, random spaces, no indentation makes it harder to read, semantics are the wrong way around. Here is a clean, working version:
 
 {% code title="index.html" %}
 ```php
@@ -127,14 +129,14 @@ Lots of errors, tags arent closed properly, random spaces, no indentation makes 
 
 A **static web page** is a web page that is delivered to the user's web browser exactly as stored, using a web server interacting with one or more files \(HTML, CSS, JS\) for one web page
 
-Advantages of a static website
+Advantages of a static website:
 
 * Provide improved security over dynamic websites \(dynamic websites are at risk to web shell attacks if a vulnerability is present\)
 * Improved performance for end users compared to dynamic websites
 * Fewer or no dependencies on systems such as databases or other application servers
 * Cost savings from utilizing cloud storage, as opposed to a hosted environment
 
-Disadvantages of a static website
+Disadvantages of a static website:
 
 * Dynamic functionality must be performed on the client side
 
@@ -146,12 +148,12 @@ A **server-side dynamic web page** is a web page whose construction is controlle
 
 A **client-side dynamic web page** processes the web page using HTML scripting running in the **browser software** as it loads. JavaScript and other scripting languages determine the way the HTML in the received page is parsed into the Document Object Model \(DOM\), that represents the loaded web page. The same client-side techniques can then dynamically update or change the DOM in the same way. Even though a web page can be dynamic on the client-side, it can still be hosted on a static hosting service such as GitHub Pages or Amazon S3 as long as there isn't any server-side code included.
 
-**Advantages**
+Advantages:
 
 * You can have a template of the website that can be used across every webpage on the website
 * You can create a back-end to update the website without adding any new code functionality to the website
 
-**Disadvantages**
+Disadvantages:
 
 * Dynamic hosting of web applications can be expensive
 
@@ -175,5 +177,5 @@ A Scripting language is a programming language for a special run-time environmen
 
 ### UDP vs TCP
 
-UDP has no handshaking dialogues, and thus exposes the user's program to any unreliability of the underlying network; there is no guarantee of delivery, ordering, or duplicate protection, therefore less reliable than TCP
+UDP has no handshaking \(confirming correct packet transfer\) dialogues, and thus exposes the user's program to any unreliability of the underlying network; there is no guarantee of delivery, ordering, or duplicate protection, therefore less reliable than TCP
 
