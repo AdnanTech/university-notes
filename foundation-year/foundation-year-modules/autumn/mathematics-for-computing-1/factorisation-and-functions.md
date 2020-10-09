@@ -70,7 +70,8 @@ $$
 f(x) = x^2 \space \space \space \space g(x)=x+2 \\ g(f(x)): \space \space \space x^2+2
 $$
 
-* 
+* Can factorise \(solving for x\) using Excel, like the **goal seeking** function and **graphing**
+
 ### Worksheets
 
 | Worksheet Questions | Worksheet Answers | Worked Solutions |

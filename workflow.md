@@ -20,7 +20,7 @@
 * \(weekly\) Worksheet
   * Answer and Mark worksheet
   * Scan \(Office Lens\) and upload to Uni OneDrive
-  * Move from OneDrive to [git repo](https://github.com/AdnanTech/maths-for-computing-worksheets)
+  * Move from OneDrive \(office lens repo\) to [git repo](https://github.com/AdnanTech/maths-for-computing-worksheets)
   * Add to worked solutions in [module](foundation-year/foundation-year-modules/autumn/mathematics-for-computing-1/)
 * [Math markdown \(KaTeX\)](https://katex.org/docs/supported.html)
 
