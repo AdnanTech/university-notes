@@ -55,6 +55,8 @@ All code is eventually turned into machine code. Assembly code is the more legib
 * **Opcode** - A Single specific **numeric** instruction \(0001, 1000, 0101, 1000\)
 * **Operand** - The **numeric** address of an element in the memory \(0000 0000 0011, 0000 0000 1101, 0000 0000 0110, 0000 0000 1101\)
 
+### **Addressing**
+
 **Assembly code** uses the same approach of Opcodes and Operatoes, in a more legible approach:
 
 *  **Opcode** - A Single instruction displayed as a **mnemonic** \(ADD, LOAD, STORE, BRANCH, INPUT\)

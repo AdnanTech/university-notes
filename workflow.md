@@ -9,6 +9,7 @@
 
 * \(daily\) 1 Hour pre reading ahead of time 
 * \(weekly\) Learning Diary Entry \(500 words\)
+* \(daily\) Add to PDP documents
 * \(weekly\) Work on Portfolio \(PHP blog\) \(project space\)
 * \(daily\) 30 mins of Study Skills Hub reading
 
