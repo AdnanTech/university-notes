@@ -29,7 +29,7 @@ An Internet service provider \(ISP\) is an organisation that provides services f
 
 ### URL
 
-Uniform Resource Locators \(URLs\) are used by web browsers. The browser looks up the IP address for the domain name \(URL\) via their DNS. The browser sends a HTTP request to the server. The server sends back a HTTP response.
+Uniform Resource Locators \(URLs\) are used by web browsers. The web browser looks up the IP address for the domain name \(URL\) via their DNS. The browser sends a HTTP request to the server. The server sends back a HTTP response, which is then displayed as a viewable web page.
 
 ### IP
 
