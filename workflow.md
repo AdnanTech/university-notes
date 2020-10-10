@@ -11,12 +11,12 @@
 
 ### Foundation Programming
 
-* \(daily\) 1 Hour pre reading ahead of time 
+* \(daily/bi-daily\) 1 Hour pre reading ahead of time 
 * \(post-lecture\) Follow in class code examples and upload to [git repo](https://github.com/AdnanTech/UniversityOfSussex)
 
 ### Communication and Learning Skills
 
-* \(daily\) 1 Hour pre reading ahead of time 
+* \(daily/bi-daily\) 1 Hour pre reading ahead of time 
 * \(weekly\) Learning Diary Entry \(500 words\)
 * \(daily\) Add to PDP documents
 * \(weekly\) Work on Portfolio \(PHP blog\) \(project space\)
@@ -24,7 +24,7 @@
 
 ### Maths For Computing
 
-* \(daily\) 1 Hour pre reading ahead of time
+* \(daily/bi-daily\) 1 Hour pre reading ahead of time
 * \(post-lecture\) Write up notes
 * \(weekly\) Worksheet
   * Answer and Mark worksheet
@@ -36,7 +36,7 @@
 
 ### Computing Project
 
-* \(daily\) 2 Hour pre reading ahead of time
+* \(daily/bi-daily\) 2 Hour pre reading ahead of time
 * \(weekly\) Work on \(private\) space for end of year project
   * Thoroughly break down and design before coding
 
