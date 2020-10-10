@@ -1,5 +1,13 @@
 # Workflow
 
+### Meta
+
+* **Trello** for To Do list
+* **Google Calendar** for time management
+* **GitBook** for Notes
+* **MindNode** for brief summary
+* **Anki** for Revision
+
 ### Foundation Programming
 
 * \(daily\) 1 Hour pre reading ahead of time 
@@ -22,6 +30,7 @@
   * Scan \(Office Lens\) and upload to Uni OneDrive
   * Move from OneDrive \(office lens repo\) to [git repo](https://github.com/AdnanTech/maths-for-computing-worksheets)
   * Add to worked solutions in [module](foundation-year/foundation-year-modules/autumn/mathematics-for-computing-1/)
+* \(weekly\) Update MindNode with any new formulae or definitons
 * [Math markdown \(KaTeX\)](https://katex.org/docs/supported.html)
 
 ### Computing Project
