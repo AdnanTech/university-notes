@@ -120,7 +120,7 @@ Lots of errors, tags arent closed properly, random spaces, no indentation makes 
 
 <body>
     <h1>Welcome to Foundation Year in Computing Sciences</h1>
-    <p>HTML basics and <center>beyond session</center></p>
+    <p><center>HTML basics and beyond session</center></p>
 </body>
 
 </html>

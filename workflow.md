@@ -4,6 +4,7 @@
 
 * **Trello** for To Do list
 * **Google Calendar** for time management
+* **GitHub** as a form of Version Control for in-class work
 * **GitBook** for Notes
 * **MindNode** for brief summary
 * **Anki** for Revision
