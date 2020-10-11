@@ -4,5 +4,5 @@ These are my notes whilst studying at the University Of Sussex. Going to try and
 
 Programming languages we are going to learn, in order: C -&gt; C++ -&gt; Java, depending on the specialty field you decide to pursure there may be others.
 
-sussex direct you can check your attendance CLS learning diary attendance is in module progress and feedback - and in the column on the furthest right it says attendance CLS seems to be how they track your progress
+Within Sussex Direct, you can check your attendance in module progress and feedback -&gt; and in the column on the furthest right it says attendance
 
