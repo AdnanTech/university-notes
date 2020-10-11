@@ -2,12 +2,12 @@
 
 ### Meta
 
-* **Trello** for To Do list
-* **Google Calendar** for time management
-* **GitHub** as a form of Version Control for in-class work
-* **GitBook** for Notes
-* **MindNode** for brief summary
-* **Quizlet** for Revision
+* \*\*\*\*[**Trello** ](https://trello.com/b/n5R1j8pH/to-do)for To Do list
+* \*\*\*\*[**Google Calendar**](https://calendar.google.com/calendar/u/1/r) for time management
+* \*\*\*\*[**GitHub** ](https://github.com/AdnanTech/UniversityOfSussex)as a form of Version Control for in-class work
+* \*\*\*\*[**GitBook** ](https://adnantech.gitbook.io/university-notes/)for Notes
+* \*\*\*\*[**MindNode**](https://github.com/AdnanTech/UniversityOfSussex/blob/master/Revision/Foundation%20Year%20Computer%20Science.pdf) ****for Brief Summary
+* \*\*\*\*[**Quizlet** ](https://quizlet.com/AdnanTech/folders/foundation-year/sets)for Revision
 
 ### Foundation Programming
 
