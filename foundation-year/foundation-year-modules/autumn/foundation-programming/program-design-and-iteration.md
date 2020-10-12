@@ -205,7 +205,7 @@ getchar();
 
 ## Iteration
 
-Iteration is repitition until 
+Iteration is repitition until a condition is met, or forever.
 
 ### ASCII
 
