@@ -8,6 +8,10 @@
 * printf\(\) and scanf\(\) are functions that are taken from the header file library
 * You can define how many columns can be displayed to the console using a numeric precessor;
   * `printf("%2d", var)`- here var is displayed in a column that is 2 wide
+* in C, there is a difference between num++ and ++num
+  * `++i` will increment the value of `i`, and then return the incremented value.
+  *  `i++` will increment the value of `i`, but return the original value that `i` held before being incremented.
+* The **sizeof**\(\) **function** in C is a built-in **function** that is used to calculate the **size** \(in bytes\)that a data type occupies in ​the computer's memory
 * **Refer to** [**Code Base** ](https://adnantech.gitbook.io/code/)**for C Function Examples**
 
 ### Operators
