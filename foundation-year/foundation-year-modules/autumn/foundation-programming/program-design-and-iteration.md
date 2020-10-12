@@ -46,7 +46,7 @@ Secondly, we desing the structure and logic of the code
 * We use the screen design to work out the order of the actions involved in the program. We put a comment in main\(\) for each task identified. Compile and test the program.
 
 {% tabs %}
-{% tab title="Design Structure & Logic" %}
+{% tab title="2. Design Structure & Logic" %}
 ```csharp
 /***********************************************************************
 * timesTable.c
@@ -80,6 +80,8 @@ Thirdly. we design protoype functions, these meet the following criteria
 * In this example the displayTitle\(\) is entered first as it is an easy display function
 * Compile and test the program.
 
+{% tabs %}
+{% tab title="3. Creating Prototype Functions" %}
 ```csharp
 /***********************************************************************
 * timesTable.c
@@ -135,11 +137,15 @@ void pause(void)
 {
 }
 ```
+{% endtab %}
+{% endtabs %}
 
 ### Creating Functions
 
 Lastly, we tackle the functions in chroniclogical order, and compile and test the program
 
+{% tabs %}
+{% tab title="4. Creating Functions" %}
 ```csharp
 /***********************************************************************
 * timesTable.c
@@ -202,6 +208,8 @@ printf("\nPress the Enter key to continue.\n");
 getchar();
 }
 ```
+{% endtab %}
+{% endtabs %}
 
 ## Iteration
 
@@ -251,7 +259,7 @@ int main(void)
 
 ### Tables
 
-Refer to [Code base](https://adnantech.gitbook.io/code/code/c/iteration) for Iteration examples
+Refer to [**Code base**](https://adnantech.gitbook.io/code/code/c/iteration) for Iteration examples
 
 A small block of code to print out the times table up to 12.
 
