@@ -1,6 +1,6 @@
 # Introduction To C, use of the IDE, C Compilation
 
-### Introduction to C
+## Introduction to C
 
 * C is a low level language, its essentially assembly code with syntatic sugar \(caveat is essentially, there are differences\).
 * **For code examples visit** [**my codebase**](https://adnantech.gitbook.io/code/code/c/)\*\*\*\*
@@ -14,11 +14,11 @@
 * Malloc can allocate dynamic memory to an element. f
 * .exe files are technically not machine code, as it is just instructions to the operating system, as the OS is a c program essentially. The OS takes those instructions and executes them as machine code instructions
 
-### Use of the IDE
+## Use of the IDE
 
 The Integrated Development Environment \(IDE\) we use is called Dev C++, it is windows only, and is possible to be downloaded as a portable application. IDE's allow us to compile and run code and keep track of files easier, as they come with customisable integrated compilers, text editors, linkers and assemblers.
 
-### Compilation
+## Compilation
 
 C is compiled, general compilation has some main stages: Lexical analysis, syntax analysis, code generation and code optimization. The end result an executable file of machine code, below is the C compilation process
 

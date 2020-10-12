@@ -1,6 +1,6 @@
 # Types and Range of Programming Languages
 
-### Types of Programming Languages
+## Types of Programming Languages
 
 **TLDR:** there are 2 main types of programming languages:  
 **High level**, which is compiled into assembly code, which is then turned into machine code to be executed, examples include Python, C\#  
@@ -30,7 +30,7 @@ Long version is that the types of **programming languages** go under the class o
 The difference between functional and procedural is that functional takes arguments and returns a value, whereas procedural is simply a sequence of computational sequential steps
 {% endhint %}
 
-### Range of Programming languages
+## Range of Programming languages
 
 * **High level** languages include C\#, Python, SQL, PHP
   * High level languages are _compiled into low level machine code_
@@ -46,7 +46,7 @@ The difference between functional and procedural is that functional takes argume
 Java is compiled into byte code \(virtual assembly code\), and then interpreted by a JVM \(java virutal machine\)
 {% endhint %}
 
-### Machine and Assembly Code
+## Machine and Assembly Code
 
 All code is eventually turned into machine code. Assembly code is the more legible format of machine code. Machine \(binary\) code instructions consist of 1 and 0s and is used to communicate with hardware. Because it was so hard to write, assembly code was invented, where mnemonics were added. Converting assembly code to machine code is a one to one ratio.
 
@@ -66,7 +66,7 @@ All code is eventually turned into machine code. Assembly code is the more legib
   * **\#xx - Indirect Addressing** - The operand contains the **address** of the location in the physical memory, this location contains the physical address of the location in the memory where the value is stored 
   * **xx\[\] - Indexed Addressing** - Indexed addressing is used in machines containing an index register. With this mode of addressing, values in the operand are **offset** by the value stored in the index register
 
-### Sources
+## Sources
 
 * [https://en.wikipedia.org/wiki/Object-oriented\_programming](https://en.wikipedia.org/wiki/Programming_paradigm)
 * [https://www.typesnuses.com/types-of-programming-languages-with-differences/](https://www.typesnuses.com/types-of-programming-languages-with-differences/)

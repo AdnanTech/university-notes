@@ -1,6 +1,6 @@
 # Variables and Data Types
 
-### Variables
+## Variables
 
 *  A variable is a container in which a data value is stored inside the physical memory
 *  Variables can be called by their assigned name
@@ -11,7 +11,7 @@
 *  Declaration syntax: **data-type variable-name**
 * There is no way to declare strings, you have to declare an array of characters that contain the string: `char c[] = "c string";`
 
-### Data types
+## Data types
 
 There are lots of data types, below are some of the primitive data types. In C, data types come with format specifiers, depending on the data type, will determine how the data is stored in malloc \(memory\) differently:
 
@@ -52,9 +52,5 @@ There are lots of data types, below are some of the primitive data types. In C, 
   *  long double
     * 16 bytes \(128 bit\)
 
-### [C code examples on my Codebase](https://adnantech.gitbook.io/code/code/c)
-
-### Sources
-
-* Week 1/2 of Foundation Programming lecture slides \(Module: G6065\)
+### [Code Base C examples](https://adnantech.gitbook.io/code/code/c)
 
