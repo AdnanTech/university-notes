@@ -44,7 +44,7 @@
       * [Module Overview](foundation-year/foundation-year-modules/autumn/mathematics-for-computing-1/module-overview.md)
       * [Equations, Graphs, Fractions and BEDMAS](foundation-year/foundation-year-modules/autumn/mathematics-for-computing-1/equations-graphs-and-functions.md)
       * [Factorisation and Functions](foundation-year/foundation-year-modules/autumn/mathematics-for-computing-1/factorisation-and-functions.md)
-      * [Trigonometry](foundation-year/foundation-year-modules/autumn/mathematics-for-computing-1/trigonometry.md)
+      * [Trigonometry and SOHCAHTOA](foundation-year/foundation-year-modules/autumn/mathematics-for-computing-1/trigonometry.md)
       * [More Trigonometry, Logs and Exponents](foundation-year/foundation-year-modules/autumn/mathematics-for-computing-1/more-trigonometry-logs-and-exponents.md)
       * [Lines and Curves](foundation-year/foundation-year-modules/autumn/mathematics-for-computing-1/lines-and-curves.md)
       * [Simultaneous Equations](foundation-year/foundation-year-modules/autumn/mathematics-for-computing-1/simultaneous-equations.md)
