@@ -1,4 +1,4 @@
-# HTML  Basics and Tables
+# HTML Basics and Tables
 
 _Hyper Text Markup Language \(HTML\) is a markup language that defines the structure of content on a webpage_
 
@@ -31,6 +31,8 @@ _Hyper Text Markup Language \(HTML\) is a markup language that defines the struc
   * \`\`
 * The **HTML Content Division element** \(**`<div>`**\) is the generic container for flow content. it has no styling until applied with CSS. It basically just defines a container for HTML content
 * CSS **Flexbox** has replaced XHTML **framesets**
+* There is also `<pre>` tags, which stands for pre formatted text
+* There are also description lists, with discription tag and discription data that has its own set of tags respectively
 
 **HTML Tables**
 
