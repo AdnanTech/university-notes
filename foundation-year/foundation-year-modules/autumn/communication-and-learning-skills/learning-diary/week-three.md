@@ -1,12 +1,12 @@
 # Week three
 
-**Foundation Programming:** 
+**Foundation Programming:** This week we covered operators and iteration
 
-**Communiaction and Learning Skills:** 
+**Communication and Learning Skills:** This week we did x
 
-**Mathematics For Computing 1:** 
+**Mathematics For Computing 1:** The past week we have covered trigonometry.
 
-**Computing Project:** 
+**Computing Project:** The past week we have covered HTML.
 
 **Summative Evaluation:** 
 
