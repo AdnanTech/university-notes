@@ -251,6 +251,8 @@ int main(void)
 
 ### Tables
 
+Refer to [Code base](https://adnantech.gitbook.io/code/code/c/iteration) for Iteration examples
+
 A small block of code to print out the times table up to 12.
 
 {% tabs %}
