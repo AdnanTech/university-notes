@@ -1,6 +1,6 @@
 # Richard's Style Rules for C Programming
 
-### IDE Options \(DEV-C++\)
+## IDE Options \(DEV-C++\)
 
 * DEV-C++ is the IDE we use
   * [Desktop App Download Link](https://sourceforge.net/projects/orwelldevcpp/files/Setup%20Releases/)
@@ -15,7 +15,7 @@
     * Under Right Margin, the Enabled box should be checked, and the width should be set to 72
     * Under Tabs, Use tab character should be unchecked, and Tab Automatically indents should be checked, along with the default tab size being 4
 
-### General C Notes
+## General C Notes
 
 * /\* comment \*/ is the standard for comments, any other method will be penalised
 * All variables have to be **camel case**, this is set to fileNames as well
@@ -35,9 +35,15 @@
 
     ```
 
-### Functions
+## Functions
 
 * Function prototypes listed before main\(\)
 * Function definitions after main\(\). 
 * Every function definition should be preceded by a comment.
+
+## Program Design
+
+Refer to Program Design notes, as a guideline, 2-7 lines of code per function, but only as a guideline
+
+* level 1 skeleton code
 
