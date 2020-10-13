@@ -34,6 +34,8 @@ _Hyper Text Markup Language \(HTML\) is a markup language that defines the struc
 * There is also `<pre>` tags, which stands for pre formatted text
 * There are also description lists, with discription tag and discription data that has its own set of tags respectively
 
+Talked about HTML Semantics, HTML entities \(symbols that are reserved by html\), and common HTML section tags
+
 **HTML Tables**
 
 The **HTML `<table>` element** represents tabular data — that is, information presented in a two-dimensional table comprised of rows and columns of cells containing data

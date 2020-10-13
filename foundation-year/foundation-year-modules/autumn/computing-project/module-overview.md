@@ -22,8 +22,8 @@ This module provides an introduction to a number of key areas of computing \(e.g
 | Assessment Type | Assessment Mode | Due Date | Worth |
 | :--- | :--- | :--- | :--- |
 | Exam | Report \(1500 words\) | Thu 26 Nov 2020 16:00 | 10% |
-| Coursework | Presentation \(10 mins\) | Thu 18 Feb 2021 16:00 | 80% |
-| Coursework | Report \(4000 words\) | Wed 19 May 2021 16:00 | 10% |
+| Coursework | Presentation \(10 mins\) | Thu 18 Feb 2021 16:00 | 10% |
+| Coursework | Report \(4000 words\) | Wed 19 May 2021 16:00 | 80% |
 
 ## Technical Requirements
 

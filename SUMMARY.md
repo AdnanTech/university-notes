@@ -5,6 +5,7 @@
 
 ## Foundation Year
 
+* [Assesments](foundation-year/assesments.md)
 * [Modules](foundation-year/foundation-year-modules/README.md)
   * [Autumn](foundation-year/foundation-year-modules/autumn/README.md)
     * [Foundation Programming](foundation-year/foundation-year-modules/autumn/foundation-programming/README.md)
