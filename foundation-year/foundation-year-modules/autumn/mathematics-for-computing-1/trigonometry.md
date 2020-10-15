@@ -41,6 +41,8 @@ $$
 sin^{-1} \space \space \space | \space \space \space cos^{-1} \space \space \space | \space \space \space tan^{-1}
 $$
 
+* Triangles are important because every other shape is built on them, they are the fundamental triangles
+
 ## **Fourier Transformation**
 
 * **Fourier transform** is a coordinate transformation
