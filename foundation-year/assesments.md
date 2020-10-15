@@ -26,6 +26,20 @@
 ## Mathematics For Computing 1
 
 * [ ] Problem Set 1 \(12 Nov\)
+  * [ ] Q1
+    * [ ] c
+  * [x] Q2
+  * [x] Q3
+  * [x] Q4
+  * [x] Q5
+  * [ ] Q6
+    * [ ] b
+    * [ ] c
+  * [ ] Q7
+  * [ ] Q8
+    * [ ] c
+  * [x] Q9
+  * [ ] Q10
 * [ ] Problem Set 2 \(3 Dec\)
 * [ ] Exam \(4 Jan\)
 
