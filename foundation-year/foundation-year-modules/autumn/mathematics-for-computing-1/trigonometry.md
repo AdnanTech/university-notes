@@ -41,6 +41,23 @@ $$
 sin^{-1} \space \space \space | \space \space \space cos^{-1} \space \space \space | \space \space \space tan^{-1}
 $$
 
+## **Fourier Transformation**
+
+* **Fourier transform** is a coordinate transformation
+* It derives originates from the heat equation
+* It is now used in image compression, solvbing other partial differential equations
+* So we can approximate a sum, as a sum of sin and cosine
+* So the sin graph can be represented as a sum of sine and cosine, this isnt bound to sine graphs, it applies to all functions within a 2D space
+
+![](../../../../.gitbook/assets/image.png)
+
+* **Fourier analysis** is the study of the way general functions may be represented or approximated by sums of simpler trigonometric functions
+* The most basic\(fundemental\) sine wave has a frequency of 1Hz
+* Digital communication is built on the FAST FOURIER TRANSFORM
+  * sending pictures
+  * audio clips
+  * even sattelite communication
+
 ## SOHCAHTOA
 
 * SOHCAHTOA exists cause of the trig circles, where if you draw a right angled triangle that constitutes 2 radius'. you get an unknown angle in the center between the radius' that is equal to tan\(o/a\)
