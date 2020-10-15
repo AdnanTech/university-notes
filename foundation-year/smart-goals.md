@@ -25,19 +25,21 @@
     <tr>
       <td style="text-align:left">Fitness</td>
       <td style="text-align:left">Run 2 miles in less than 10 minutes</td>
-      <td style="text-align:left">Run 2 times a week, logging times</td>
-      <td style="text-align:left">Since less than 10 minutes is cross-country level, i must be careful not
-        to injure myself by overtraining and</td>
-      <td style="text-align:left">So that my cognitive abilites stay sharp and my <a href="https://www.youtube.com/watch?v=CPcQ5ZojGw8">fluid IQ decreases slower over time</a>,
-        as well as enhancing <a href="https://www.businessinsider.com/health-benefits-of-running-2018-4?r=US&amp;IR=T#running-helps-young-people-sleep-better-improves-their-mood-and-boosts-their-ability-to-focus-3">focus</a>.
-        This helps achieve peak performance during cognitive tasks.</td>
-      <td style="text-align:left">
-        <p>Due: 1/1/2021
-          <br />
-        </p>
-        <p>Actual:</p>
-        <p>14/4/2021</p>
-      </td>
+      <td style="text-align:left">Run 2 times a week, logging times as well as the date of the run</td>
+      <td
+      style="text-align:left">Sub 10 mins is athlete level, so I need to be be careful not to injure
+        myself by overtraining and make sure I am resting adquately</td>
+        <td style="text-align:left">So that my cognitive abilites stay sharp and my <a href="https://www.youtube.com/watch?v=CPcQ5ZojGw8">fluid IQ decreases slower over time</a>,
+          as well as enhancing <a href="https://www.businessinsider.com/health-benefits-of-running-2018-4?r=US&amp;IR=T#running-helps-young-people-sleep-better-improves-their-mood-and-boosts-their-ability-to-focus-3">focus</a>.
+          This helps achieve peak performance during cognitive tasks. Running also
+          reduces stress, and stress has been prevalent through my life</td>
+        <td style="text-align:left">
+          <p>Due: 1/1/2021
+            <br />
+          </p>
+          <p>Actual:</p>
+          <p>14/4/2021</p>
+        </td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
