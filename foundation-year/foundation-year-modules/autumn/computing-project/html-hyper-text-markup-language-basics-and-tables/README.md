@@ -2,6 +2,7 @@
 
 _Hyper Text Markup Language \(HTML\) is a markup language that defines the structure of content on a webpage_
 
+* You can verify your HTML [here](https://validator.w3.org/).
 * HTML is a upgraded version of XML
 * HTML consists of a series of elements, which you use to enclose or wrap different parts of the content to make it appear or act a certain way
   * The opening tag defines the way an element is displayed, some examples
@@ -34,11 +35,13 @@ _Hyper Text Markup Language \(HTML\) is a markup language that defines the struc
 * There is also `<pre>` tags, which stands for pre formatted text
 * There are also description lists, with discription tag and discription data that has its own set of tags respectively
 
-Talked about HTML Semantics, HTML entities \(symbols that are reserved by html\), and common HTML section tags
+HTML **Semantics \(section tags\)** and HTML entities \(symbols that are reserved by html\) are important and have their respective uses
 
 **HTML Tables**
 
 The **HTML `<table>` element** represents tabular data — that is, information presented in a two-dimensional table comprised of rows and columns of cells containing data
+
+Tables have their own [attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table), you can merge them, nest them, dictate rows and columns etc
 
 Examples are in the [code base](https://adnantech.gitbook.io/code/code/html/tables)
 
