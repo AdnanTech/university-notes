@@ -2,7 +2,7 @@
 
 ## Foundation Programming
 
-* [ ] Exam \(26 Oct\)
+* [ ] Exam \(**26 Oct**\)
 * [ ] Project 1
 * [ ] Project 2
 
@@ -21,11 +21,13 @@
   * [ ] W11
 * [ ] Portfolio
   * [ ] PDP
+  * [ ] Skills Audit
 * [ ] Group Presentation
+  * [ ] Groups allocated \(via Belbin\)
 
 ## Mathematics For Computing 1
 
-* [ ] Problem Set 1 \(12 Nov\)
+* [ ] Problem Set 1 \(**12 Nov**\)
   * [ ] Q1
     * [ ] c
   * [x] Q2
