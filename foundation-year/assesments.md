@@ -28,19 +28,16 @@
 ## Mathematics For Computing 1
 
 * [ ] Problem Set 1 \(**12 Nov**\)
-  * [ ] Q1
-    * [ ] c
+  * [x] Q1
   * [x] Q2
   * [x] Q3
   * [x] Q4
   * [x] Q5
   * [ ] Q6
-    * [ ] b
     * [ ] c
   * [ ] Q7
     * [ ] a
-  * [ ] Q8
-    * [ ] c
+  * [x] Q8
   * [x] Q9
   * [x] Q10
 * [ ] Problem Set 2 \(3 Dec\)
