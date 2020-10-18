@@ -38,10 +38,11 @@
     * [ ] b
     * [ ] c
   * [ ] Q7
+    * [ ] a
   * [ ] Q8
     * [ ] c
   * [x] Q9
-  * [ ] Q10
+  * [x] Q10
 * [ ] Problem Set 2 \(3 Dec\)
 * [ ] Exam \(4 Jan\)
 
