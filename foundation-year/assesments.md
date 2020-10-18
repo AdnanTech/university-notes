@@ -10,7 +10,7 @@
 
 * [ ] Learning Diary
   * [x] W1/2
-  * [ ] W3
+  * [x] W3
   * [ ] W4
   * [ ] W5
   * [ ] W6
