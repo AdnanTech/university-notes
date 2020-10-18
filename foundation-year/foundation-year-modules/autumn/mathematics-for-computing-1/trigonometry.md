@@ -2,6 +2,8 @@
 
 ## Trigonmetry
 
+### Fundamental of trig
+
 * **Galileo Galilei** was the inventor of Trigonometry as we know it today, he was bored looking at a pendulum ina catherdral one morning and then here we are
 * All functions are an axiom of y = f\(x\), trig functions included
   * Sin's real function can be found [here](https://mathworld.wolfram.com/Sine.html)
@@ -43,7 +45,7 @@ $$
 
 * Triangles are important because every other shape is built on them, they are the fundamental triangles
 
-## **Fourier Transformation**
+### **Fourier Transformation**
 
 * **Fourier transform** is a coordinate transformation
 * It derives originates from the heat equation
@@ -60,10 +62,16 @@ $$
   * audio clips
   * even sattelite communication
 
-## SOHCAHTOA
+### SOHCAHTOA
 
-* SOHCAHTOA exists cause of the trig circles, where if you draw a right angled triangle that constitutes 2 radius'. you get an unknown angle in the center between the radius' that is equal to tan\(o/a\)
+* SOHCAHTOA exists cause of the trig circles, where if you draw a **right angled triangle** that constitutes 2 radius'. you get an unknown angle in the center between the radius' that is equal to tan\(o/a\)
   * Thus triangles map to circles in trig
+
+![](../../../../.gitbook/assets/image%20%282%29.png)
+
+### Trig Identities
+
+![](../../../../.gitbook/assets/image%20%287%29.png)
 
 ## Misc
 
