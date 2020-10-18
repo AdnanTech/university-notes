@@ -42,7 +42,7 @@ else {max = num2;
 }
 
 /* is equivalent to: */
-max = (num1 > num2) ? num1 :num2;
+max = (num1 > num2) ? num1 : num2;
 ```
 {% endtab %}
 
