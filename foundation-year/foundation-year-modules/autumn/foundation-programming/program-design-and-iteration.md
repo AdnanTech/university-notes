@@ -215,7 +215,28 @@ getchar();
 
 Iteration is repitition until a condition is met, or forever.
 
-### ASCII
+### For
+
+A **for loop** is a control flow statement for specifying iteration, which allows code to be executed repeatedly. Then the loop will finish and the rest of the code after the for loop block will execute.
+
+### While
+
+A **while** loop is a control flow statement that allows code to be executed repeatedly based on a given Boolean condition. The **while** loop can be thought of as a repeating if statement. While\(1\) will loop forever as it is always true.
+
+While loops can be used to validate input data. As while the input data doesnt return true for the boolean conditions, we can prompt the program to keep iterating the block of code until the input data is valid
+
+### Break
+
+The **break** statement in C **programming** has the following two usages 
+
+* When a **break** statement is encountered inside a loop, the loop is immediately terminated and the **program** control resumes at the next statement following the loop.
+* It can be used to terminate a case in the switch statement Example can be found here.
+
+### Do
+
+A **do while** loop **is** similar to **while loop** with the only **difference** that it checks for the condition after executing the statements, and therefore **is** an example of Exit Control **Loop**.
+
+### Printing the ASCII Table
 
 Printing out UNICODE symbols \(must be run on UNICODE layout, not ASCII\), in hexademical form \(base 16\). Seperated by a tab. Note that the ASCII codes early on are empty because they cant be directly represented by a character \(NULL, Backspace, End, Shift, Return, Escape etc
 
@@ -257,7 +278,7 @@ int main(void)
 {% endtab %}
 {% endtabs %}
 
-### Tables
+### Printing Tables
 
 Refer to [**Code base**](https://adnantech.gitbook.io/code/code/c/iteration) for Iteration examples
 
