@@ -10,6 +10,10 @@ The general form of a pointer variable declaration is − `type *var-name;`
 
 Examples can be found [here](https://adnantech.gitbook.io/code/code/c/pointers).
 
+## Buffers
+
+Buffers can be flushed with `setbuf(stdout, NULL);` .**C** uses a **buffer** to output or input variables. The **buffer** stores the variable that is supposed to be taken in \(input\) or sent out \(output\) of the program. A **buffer** needs to be cleared before the next input is taken in.
+
 ## Array
 
 Arrays a kind of **data structure** that can store a **fixed-size** sequential **collection** of elements \(variables\) of the **same** \(primitive\) **data type**. ****All arrays consist of contiguous **memory locations**. The _lowest_ address corresponds to the **first** element and the _highest_ address to the **last** element.
