@@ -63,7 +63,7 @@
         * [Web Activity Worksheet](foundation-year/foundation-year-modules/autumn/computing-project/html-hyper-text-markup-language-basics-and-tables/web-activity-worksheet.md)
         * [Web Activity Worksheets 2](foundation-year/foundation-year-modules/autumn/computing-project/html-hyper-text-markup-language-basics-and-tables/web-activity-worksheets-2.md)
         * [Web Activity w3schools quiz](foundation-year/foundation-year-modules/autumn/computing-project/html-hyper-text-markup-language-basics-and-tables/web-activity-w3schools-quiz.md)
-      * [Introduction to CSS \(Cascading Style Sheets\)](foundation-year/foundation-year-modules/autumn/computing-project/introduction-to-css-cascading-style-sheets.md)
+      * [Introduction to CSS](foundation-year/foundation-year-modules/autumn/computing-project/introduction-to-css-cascading-style-sheets.md)
       * [Images](foundation-year/foundation-year-modules/autumn/computing-project/images.md)
       * [Artificial Intelligence](foundation-year/foundation-year-modules/autumn/computing-project/artificial-intelligence.md)
       * [eBusiness and Forms](foundation-year/foundation-year-modules/autumn/computing-project/ebusiness-and-forms.md)

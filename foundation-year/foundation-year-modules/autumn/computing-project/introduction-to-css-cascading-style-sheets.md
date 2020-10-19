@@ -1,4 +1,6 @@
-# Introduction to CSS \(Cascading Style Sheets\)
+# Introduction to CSS
+
+## **CSS**
 
 _Cascading Style Sheets \(CSS\) is a stylesheet language used to define the presentation of a document written in HTML \(less commonly, XML as well\)_
 
@@ -35,8 +37,6 @@ _Cascading Style Sheets \(CSS\) is a stylesheet language used to define the pres
 | 24px | 1.5000em | 150.00% |
 | 25px | 1.5625em | 156.25% |
 
-\*\*\*\*
-
 * A core concept in CSS is inheritance, where some CSS properties by default inherit values set on the current element's parent element, depending on how you choose so
 * The two CSS attributes you can use to move an element around the page is position
   * this can be absolute 
@@ -55,4 +55,97 @@ _Cascading Style Sheets \(CSS\) is a stylesheet language used to define the pres
 * Why use a CSS reset file?
   * A CSS reset file allows you to clear an elements attributes so that you can stylize them with a clear formatting, this can help reduce ambiguity when stylizing a website
 * !important will override any properties, giving the element that specific !important element instead
+
+## Lecture Notes
+
+### CSS has the following uses:
+
+* Keep web page content separate from its formatting \(makes editing easier\)
+* Save time by allowing multiple web pages to share the same formatting
+* Ensure web pages are consistently formatted, e.g. corporate colours
+* Make it easy to set appropriate formats for different output devices
+* Make file downloads quicker as formatting instructions are not duplicated
+
+### CSS Implementation and priority
+
+* Browser has the LEAST priority \(how the browser interprets CSS\)
+* Then its external style sheets \(style.css file\)
+* Embedded or Internal Styles \(in the &lt;head&gt; tag\)
+* Inline Styles has the MOST priority
+
+### CSS general form
+
+{% tabs %}
+{% tab title="External" %}
+```css
+<link rel="stylesheet" type="text/css" href=“test.css" />
+
+a {
+	text-decoration: none !important;
+	color: #65bfdd;
+}
+```
+{% endtab %}
+
+{% tab title="Embedded/Internal" %}
+```css
+<style type="text/css">
+p {
+text-align: center;
+color: red;
+font-family: arial
+}
+</style>
+```
+{% endtab %}
+
+{% tab title="Inline" %}
+```php
+<p style=”text-align: center; color: red; font-family: arial;”>
+    HTML basics session
+</p>
+```
+{% endtab %}
+{% endtabs %}
+
+* Where color: \#65bfdd; is the declaration
+  * where a is the selector
+  * color is the property
+  * hashtag65bfdd is the value
+
+### General Notes
+
+* The end semi colon is not actually neccessary, only the semi colons to separate the declarations are required
+* /\* Short Note \*/ for making notes
+
+### Pseduo Classes
+
+A pseudo-class is used to define a special state of an element.
+
+For example, it can be used to:
+
+* Style an element when a user mouses over it
+* Style visited and unvisited links differently
+* Style an element when it gets focus
+
+For example, a link may change colour when hovered over or you are on the active link.
+
+```text
+a:link {color: #FF0000}
+a:visited {color: #00FF00}
+a:hover {color: #FF00FF}
+a:active {color: #0000FF}
+```
+
+### ID Selector
+
+* Used to apply specific instructions to one or more HTML elements \(should be unique to one element\)
+* Defined using a \#id
+* It uses HTML id attribute as a point of call
+
+### Class Selector
+
+* Used to apply specific instructions to one or more HTML elements
+* Defined using a .className
+* It uses HTML class attribute as a point of call
 

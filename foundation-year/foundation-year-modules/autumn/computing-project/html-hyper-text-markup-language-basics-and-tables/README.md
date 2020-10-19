@@ -1,5 +1,7 @@
 # HTML Basics and Tables
 
+## HTML
+
 _Hyper Text Markup Language \(HTML\) is a markup language that defines the structure of content on a webpage_
 
 * You can verify your HTML [here](https://validator.w3.org/).
@@ -9,7 +11,13 @@ _Hyper Text Markup Language \(HTML\) is a markup language that defines the struc
     * image
     * url
     * italics
+
+### General Form
+
 * General form of a HTML element `<opening tag> Content </closing tag>`
+
+### Notes
+
 * A **html tag i**s a set of characters that sets the way content is displayed on a web page
 * An **element** comprises of the opening tag, closing tag, and the content within the tags
 * **Attributes** contain extra information about the element that you don't want to appear in the actual content, they tend to be classes or ids.
@@ -35,15 +43,19 @@ _Hyper Text Markup Language \(HTML\) is a markup language that defines the struc
 * There is also `<pre>` tags, which stands for pre formatted text
 * There are also description lists, with discription tag and discription data that has its own set of tags respectively
 
+## HTML Semantics
+
 HTML **Semantics \(section tags\)** and HTML entities \(symbols that are reserved by html\) are important and have their respective uses
 
-**HTML Tables**
+[w3Schools Link on HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
+
+## **HTML Tables**
 
 The **HTML `<table>` element** represents tabular data — that is, information presented in a two-dimensional table comprised of rows and columns of cells containing data
 
 Tables have their own [attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table), you can merge them, nest them, dictate rows and columns etc
 
-Examples are in the [code base](https://adnantech.gitbook.io/code/code/html/tables)
+Examples are in the [code base](https://adnantech.gitbook.io/code/code/html/tables), as well as in the personal University Of Sussex [git repo](https://github.com/AdnanTech/UniversityOfSussex/blob/master/ComputingProject/html-basics.html), in answering the second worksheet we were given
 
 **Hyper text transfer protocol \(http://\)**
 

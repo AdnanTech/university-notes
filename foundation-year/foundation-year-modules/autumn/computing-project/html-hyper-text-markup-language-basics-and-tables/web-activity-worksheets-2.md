@@ -16,7 +16,7 @@ Yes, even if empty, still a value is required
 
 ### HTML and relevant attributes should be used to format all page content
 
-Yes, this helps the browers format so they can show the webpage to you, and helps you edit the webpage in the future if neccessary
+Yes, this helps the browers format so they can show the webpage to you, and helps you edit the webpage in the future if necessary
 
 {% tabs %}
 {% tab title="Summary" %}
