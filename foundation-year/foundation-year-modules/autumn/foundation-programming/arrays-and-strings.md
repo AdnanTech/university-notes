@@ -14,6 +14,10 @@ Examples can be found [here](https://adnantech.gitbook.io/code/code/c/pointers).
 
 Buffers can be flushed with `setbuf(stdout, NULL);` .**C** uses a **buffer** to output or input variables. The **buffer** stores the variable that is supposed to be taken in \(input\) or sent out \(output\) of the program. A **buffer** needs to be cleared before the next input is taken in.
 
+Buffers are important because if not emptied, the input and output of any variables read from a user can be incorrectly displayed or cause the program to crash if the data types don't correspond to the incorrect data type. It's essentially validation of input data.
+
+"A buffer is a block of memory where things can be stored" - Richard
+
 ## Array
 
 Arrays a kind of **data structure** that can store a **fixed-size** sequential **collection** of elements \(variables\) of the **same** \(primitive\) **data type**. ****All arrays consist of contiguous **memory locations**. The _lowest_ address corresponds to the **first** element and the _highest_ address to the **last** element.
@@ -29,8 +33,8 @@ Another example of initializing arrays:
 * An array is a list of variables with a shared name and data type.
 * Each variable in the list is indexed by an integer inside square brackets and starts at 0.
 * The square brackets tell the compiler that we are dealing with an array.
-* The name of an array is a constantpointerthat contains the address of the first variable\(slot\) in the array and its data type.
-* The assignment operator, ‘=’, can be used to initialise an array when it is declared. After that, the assignment operator can only be used with individual slots within the array.
+* The name of an array is a constant pointer that contains the address of the first variable\(slot\) in the array and its data type.
+* The assignment operator, ‘=’, can be used to initialize an array when it is declared. After that, the assignment operator can only be used with individual slots within the array.
 * Relational operators can only be used with individual slots within arrays.
 * To copy an array or to compare arrays you will need to use a loop to access all the slots individually
 
