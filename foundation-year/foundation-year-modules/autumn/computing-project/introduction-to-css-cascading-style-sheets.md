@@ -1,6 +1,6 @@
 # Introduction to CSS
 
-## **CSS**
+## CSS **Pre Reading Notes**
 
 _Cascading Style Sheets \(CSS\) is a stylesheet language used to define the presentation of a document written in HTML \(less commonly, XML as well\)_
 

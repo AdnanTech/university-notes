@@ -29,6 +29,7 @@
       * [Module Overview](foundation-year/foundation-year-modules/autumn/communication-and-learning-skills/module-overview.md)
       * [PDP/Target Setting \(SMART\) and Reflection](foundation-year/foundation-year-modules/autumn/communication-and-learning-skills/untitled.md)
       * [Learning Diary](foundation-year/foundation-year-modules/autumn/communication-and-learning-skills/learning-diary/README.md)
+        * [Week four](foundation-year/foundation-year-modules/autumn/communication-and-learning-skills/learning-diary/week-four.md)
         * [Week three](foundation-year/foundation-year-modules/autumn/communication-and-learning-skills/learning-diary/week-three.md)
         * [Week one/two](foundation-year/foundation-year-modules/autumn/communication-and-learning-skills/learning-diary/week-one-two.md)
       * [Portfolio](foundation-year/foundation-year-modules/autumn/communication-and-learning-skills/portfolio/README.md)
