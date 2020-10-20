@@ -82,7 +82,7 @@ void TestingTwo(void)
 
 
 
-### Arithmetic assignment Operators
+### Assignment Operators
 
 | Arithmetic Assignment Operator | Less efficient equivalent |
 | :--- | :--- |

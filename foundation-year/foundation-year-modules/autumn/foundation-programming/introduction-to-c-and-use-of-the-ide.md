@@ -14,9 +14,9 @@
 * Malloc can allocate dynamic memory to an element. f
 * .exe files are technically not machine code, as it is just instructions to the operating system, as the OS is a c program essentially. The OS takes those instructions and executes them as machine code instructions
 
-### Header files
+## Header files
 
-Header files serve two purposes.
+Header files serve two purposes. Header files are linked by the **preprocessor**
 
 *  System header files declare the interfaces to parts of the operating system. You include them in your program to supply the definitions and declarations you need to invoke system calls and libraries.
 * Your own header files contain declarations for interfaces between the source files of your program. Each time you have a group of related declarations and macro definitions all or most of which are needed in several different source files, it is a good idea to create a header file for them.

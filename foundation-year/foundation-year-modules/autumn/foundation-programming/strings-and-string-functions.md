@@ -1,2 +1,4 @@
 # String Functions
 
+## String Functions
+

@@ -13,6 +13,8 @@
 
 ## Data types
 
+### Primitive Data Types
+
 There are lots of data types, below are some of the primitive data types. In C, data types come with format specifiers, depending on the data type, will determine how the data is stored in malloc \(memory\) differently:
 
 | Data Type | Format \(field\) Specifier | Examples \(in C\) |
@@ -35,7 +37,9 @@ There are lots of data types, below are some of the primitive data types. In C, 
 * **%s - `char string_name[] = "Hello World"`** - string literal**s** "Hello World" \(notice the double quotes\)
 * **%d - bool** - a boolean value 1 \(true\)
 
- Data types can also be _**modified**_:
+### Long and Short
+
+Data types can also be _**modified**_, they also depend on whether you are running 32-bit or 64-bit, for example, if you are on 32-bit, a float is 4 bytes in size, whereas on a 64-bit machine a float consists of 8 bytes of size
 
 *  int can be modified:
   *  long int

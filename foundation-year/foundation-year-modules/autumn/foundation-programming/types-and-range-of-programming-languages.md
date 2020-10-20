@@ -8,6 +8,8 @@
 
 Long version is that the types of **programming languages** go under the class of **programming** **paradigms**. These paradigms can be further broken down, here i will cover 2 significant paradigms:
 
+### Programming Paradigms
+
 * **Imperative**: in which you instruct the computer _how_ to do a task
   * **Procedural**: in which a program is constructed by composing subroutines \(functions\), these subroutines contain a series of computational steps to be carried out, at any time when called during program execution
     * Examples include: C and Pascal, and in older times FORTRAN and COBOL.
@@ -31,6 +33,8 @@ The difference between functional and procedural is that functional takes argume
 {% endhint %}
 
 ## Range of Programming languages
+
+### High and Low Level
 
 * **High level** languages include C\#, Python, SQL, PHP
   * High level languages are _compiled into low level machine code_
