@@ -26,6 +26,7 @@
       * [Files](foundation-year/foundation-year-modules/autumn/foundation-programming/files.md)
       * [Bitwise Operators](foundation-year/foundation-year-modules/autumn/foundation-programming/bitwise-operators.md)
       * [Heap and Malloc](foundation-year/foundation-year-modules/autumn/foundation-programming/heap-and-malloc.md)
+      * [MYSYS2 & Clang](foundation-year/foundation-year-modules/autumn/foundation-programming/mysys2-and-clang.md)
     * [Communication and Learning Skills](foundation-year/foundation-year-modules/autumn/communication-and-learning-skills/README.md)
       * [Module Overview](foundation-year/foundation-year-modules/autumn/communication-and-learning-skills/module-overview.md)
       * [PDP/Target Setting \(SMART\) and Reflection](foundation-year/foundation-year-modules/autumn/communication-and-learning-skills/untitled.md)
