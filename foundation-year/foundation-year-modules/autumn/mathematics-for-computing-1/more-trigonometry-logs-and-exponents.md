@@ -2,7 +2,7 @@
 
 ## Sin and Cosine Rule
 
-Sine and Cosine rules are used when we have triangles that to _not_ have a right angle to them.
+Sine and Cosine rules are used when we have triangles that to _not_ have a right angle to them. Thus, due to no right angle, there is no such thing as a hypotenuse.
 
 ![](../../../../.gitbook/assets/image%20%285%29.png)
 
@@ -23,6 +23,12 @@ We use the cosine rule when you are given:
 ### Area of a triangle
 
 ![](../../../../.gitbook/assets/image%20%286%29.png)
+
+Essentially, we look for 1/2 x perpendicular height
+
+### Triangles and Pythagoras linked to Trig
+
+This triangle also proves that the cosine rule is an extension of pythagoras' theorem, this proves that there is no such thing as different types of triangles, its just that in the right angle triangles, its very simplified. You can also prove sin using this, if we consider sohcahtoa.
 
 ## Logarithms and Exponents
 
