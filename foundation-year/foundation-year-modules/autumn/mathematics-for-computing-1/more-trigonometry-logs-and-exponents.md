@@ -51,3 +51,13 @@ This triangle also proves that the cosine rule is an extension of pythagoras' th
 
 ![](../../../../.gitbook/assets/image%20%284%29.png)
 
+## Lecture Notes
+
+* Logarithms are a form of transform
+  * this means one the key uses is to take a harder problem, into a simpler one
+* John Napier invented logarithms
+* log\(0\) doesn't exit nor does 10^x = 0
+* logarithms come up in science and nature, such as volume, the way your ear listens to volume, is through amplifiers, which is adjusted in headphones
+
+
+
