@@ -1,4 +1,4 @@
-# HTML Basics and Tables
+# HTML
 
 ## HTML
 
