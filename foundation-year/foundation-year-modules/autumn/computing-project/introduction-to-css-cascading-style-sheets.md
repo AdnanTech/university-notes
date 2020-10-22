@@ -149,3 +149,38 @@ a:active {color: #0000FF}
 * Defined using a .className
 * It uses HTML class attribute as a point of call
 
+## Lecture 2 Notes
+
+### Box model
+
+![](../../../../.gitbook/assets/image%20%2810%29.png)
+
+### Positioning
+
+* Fixed
+* Absolute
+* Relative
+
+### Properties \(positioning elements\)
+
+* Position property –determines how an element is positioned. Its values are absolute, fixed and relative
+* Top property –value that determines the top position of an element’s box
+* Bottom property -value that determines the bottom position of an element’s box
+* Left property -value that determines the left position of an element’s box
+* Right property -value that determines the right position of an element’s box
+* Z-index property –a number that is used to determine a stack level of an element
+
+## Notes
+
+### size and space, box model and borders
+
+* Height
+* Width
+* Float
+* Padding
+* Margin
+
+### TRBL
+
+Top, Right, Bottom, Left is order of precedence for spacing
+
