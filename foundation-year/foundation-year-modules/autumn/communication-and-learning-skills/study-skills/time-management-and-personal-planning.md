@@ -8,7 +8,9 @@
 * Are you all about study and find little or no time to relax?
 * Do you meet deadlines?
 
+## Time Circle
 
+![](../../../../../.gitbook/assets/image%20%289%29.png)
 
 ## CREAM strategy
 
