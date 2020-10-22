@@ -69,6 +69,13 @@ $$
 
 ![](../../../../.gitbook/assets/image%20%282%29.png)
 
+### Kingsleys Rule for solvign Trig proofs
+
+1. Get RID of TAN and COT
+2. Try to REDUCE to SIN and COS
+3. Group FRACTIONS
+4. SIMPLIFY
+
 ### Trig Identities
 
 ![](../../../../.gitbook/assets/image%20%287%29.png)
