@@ -7,7 +7,7 @@ Below are the SMART goals I am looking to achieve, based on these [categories](h
 <table>
   <thead>
     <tr>
-      <th style="text-align:center">Category</th>
+      <th style="text-align:center">Life&apos;s Sub-Component</th>
       <th style="text-align:center"><em><b>S</b></em>pecific</th>
       <th style="text-align:center"><em><b>M</b></em>easurable</th>
       <th style="text-align:center"><em><b>A</b></em>chievable</th>
