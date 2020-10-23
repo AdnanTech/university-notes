@@ -36,6 +36,7 @@
         * [Week one/two](foundation-year/foundation-year-modules/autumn/communication-and-learning-skills/learning-diary/week-one-two.md)
       * [Portfolio](foundation-year/foundation-year-modules/autumn/communication-and-learning-skills/portfolio/README.md)
         * [Portfolio Review](foundation-year/foundation-year-modules/autumn/communication-and-learning-skills/portfolio/portfolio-review.md)
+      * [Group Presentation](foundation-year/foundation-year-modules/autumn/communication-and-learning-skills/group-presentation.md)
       * [Study Skills](foundation-year/foundation-year-modules/autumn/communication-and-learning-skills/study-skills/README.md)
         * [Meta](foundation-year/foundation-year-modules/autumn/communication-and-learning-skills/study-skills/meta.md)
         * [Working in Groups](foundation-year/foundation-year-modules/autumn/communication-and-learning-skills/study-skills/working-in-groups.md)
