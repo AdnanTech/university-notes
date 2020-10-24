@@ -2,7 +2,7 @@
 
 ## SMART Goals
 
-Below are the SMART goals I am looking to achieve, based on these [categories](https://app.gitbook.com/@adnanquisar/s/wiki/categories-of-life).
+Below are the SMART goals I am looking to achieve, based on these [categories](https://adnantech.gitbook.io/wiki/categories-of-life).
 
 <table>
   <thead>
