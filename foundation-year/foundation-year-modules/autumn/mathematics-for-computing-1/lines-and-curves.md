@@ -2,6 +2,10 @@
 
 ## Lines
 
+### Pre reading
+
+
+
 ### Polar Co-Ordinates
 
 Polar co-ordinates are diffrent function to a graph, for example, cartesian follows \(point a, point b\), where you go across a and up b to find a point on the line, that is the function. Whereas polar co-ordinates, map to \(r, theta\) for a point
