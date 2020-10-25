@@ -2,7 +2,7 @@
 
 ## SMART Goals
 
-Below are the SMART goals I am looking to achieve, based on these [categories](https://adnantech.gitbook.io/wiki/categories-of-life).
+Below are the SMART goals I am looking to achieve, based on these [categories](https://adnantech.gitbook.io/wiki/categories-of-life). There is currently no priority to these goals, this is something I intend to add in the future.
 
 <table>
   <thead>
@@ -21,7 +21,7 @@ Below are the SMART goals I am looking to achieve, based on these [categories](h
       <td style="text-align:center"><b>Run 2 miles in less than 10 minutes</b>
       </td>
       <td style="text-align:center">Run once a week, slowly incrementing to 3 times a week over time, logging
-        times as well as the date of the run</td>
+        times as well as the date of the run in my personal notes.</td>
       <td style="text-align:center">Sub 10 mins is athlete level, so I need to be be careful not to injure
         myself by overtraining and make sure I am resting adquately</td>
       <td style="text-align:center">So that my cognitive abilites stay sharp and my <a href="https://www.youtube.com/watch?v=CPcQ5ZojGw8">fluid IQ decreases slower over time</a>,
@@ -120,7 +120,7 @@ Below are the SMART goals I am looking to achieve, based on these [categories](h
           </td>
     </tr>
     <tr>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">Acadaemia</td>
       <td style="text-align:center">Increase focus</td>
       <td style="text-align:center"></td>
       <td style="text-align:center">Place my phone away from me when studying, use pomodoro technqiue</td>
@@ -149,6 +149,23 @@ Below are the SMART goals I am looking to achieve, based on these [categories](h
         <p></p>
         <p>1/11/2020</p>
         </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Academia</td>
+      <td style="text-align:center">Get &gt; 90% in all assessments this semester</td>
+      <td style="text-align:center">Record the result of each assessment</td>
+      <td style="text-align:center">A lot of the content I have covered from either previous education, or
+        work. So a lot of the content I am familiar with. Therefore should have
+        no problem getting close to perfect grades.</td>
+      <td style="text-align:center">Personal achievement is the short term relevance. The long term relevance,
+        is understanding information and processing it appropiately to get high
+        grades. As well as refactoring notes and revising effeciently to achieve
+        high grades.</td>
+      <td style="text-align:center">
+        <p>(Actual)</p>
+        <p></p>
+        <p>11/12/2020</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:center"></td>
