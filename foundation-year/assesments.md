@@ -11,7 +11,7 @@
 * [ ] Learning Diary
   * [x] W1/2
   * [x] W3
-  * [ ] W4
+  * [x] W4
   * [ ] W5
   * [ ] W6
   * [ ] W7
@@ -20,24 +20,26 @@
   * [ ] W10
   * [ ] W11
 * [ ] Portfolio
-  * [ ] PDP
-  * [ ] Skills Audit
+  * [x] PDP
+  * [x] Skills Audit
 * [ ] Group Presentation
-  * [ ] Groups allocated \(via Belbin\)
+  * [x] Groups allocated \(via Belbin\)
+  * [ ] Powerpoint made
+  * [ ] Powerpoint test runs
+  * [ ] Powerpoint presented
+  * [ ] Report made
 
 ## Mathematics For Computing 1
 
-* [ ] Problem Set 1 \(**12 Nov**\)
+* [x] Problem Set 1 \(**12 Nov**\)
   * [x] Q1
   * [x] Q2
   * [x] Q3
   * [x] Q4
   * [x] Q5
   * [x] Q6
-  * [ ] Q7
-    * [ ] a
-  * [ ] Q8
-    * [ ] c
+  * [x] Q7
+  * [x] Q8
   * [x] Q9
   * [x] Q10
 * [ ] Problem Set 2 \(3 Dec\)
