@@ -129,6 +129,24 @@ Below are the SMART goals I am looking to achieve, based on these [categories](h
         <td style="text-align:center"></td>
     </tr>
     <tr>
+      <td style="text-align:center">Quality Of Life</td>
+      <td style="text-align:center"><b>Use time circles to evaluate my time</b>
+      </td>
+      <td style="text-align:center">Record planned time circle vs actual time circle in personal notes</td>
+      <td
+      style="text-align:center">Only a week of commitemnt, will plan the night before the day, and asses
+        the actual at the end of the dat</td>
+        <td style="text-align:center">This activity will help me see where my hours are going each week and
+          how much of them are beneficial. The goal is to figure out <a href="https://adnantech.gitbook.io/wiki/productivity/busy-vs-productive">being busy vs being productive</a>.
+          By this, i mean seeing how much effective work I am doing vs forced, low
+          quality work</td>
+        <td style="text-align:center">
+          <p>(Actual)</p>
+          <p></p>
+          <p>1/11/2020</p>
+        </td>
+    </tr>
+    <tr>
       <td style="text-align:center"></td>
       <td style="text-align:center">More leetcode</td>
       <td style="text-align:center"></td>
