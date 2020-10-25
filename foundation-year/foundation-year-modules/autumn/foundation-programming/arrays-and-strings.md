@@ -27,4 +27,5 @@ Another example of initializing arrays:
 * The assignment operator, ‘=’, can be used to initialize an array when it is declared. After that, the assignment operator can only be used with individual slots within the array.
 * Relational operators can only be used with individual slots within arrays.
 * To copy an array or to compare arrays you will need to use a loop to access all the slots individually
+* Arrays can also be 2d, this can be useful for storing things such as co-ordinates
 

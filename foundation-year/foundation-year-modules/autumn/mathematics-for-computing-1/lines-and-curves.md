@@ -22,7 +22,7 @@ A general rule for polynomials:
 * So a quadratic has exactly 1 turn with no exceptions
 * And a linear equation has no turns at all, for example
 
-![](../../../../.gitbook/assets/image%20%2811%29.png)
+![](../../../../.gitbook/assets/image%20%2812%29.png)
 
 ### Quadratics vs Linear
 

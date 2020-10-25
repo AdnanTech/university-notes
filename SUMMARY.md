@@ -18,7 +18,7 @@
       * [Program Design and Iteration](foundation-year/foundation-year-modules/autumn/foundation-programming/program-design-and-iteration.md)
       * [Selection and Branching](foundation-year/foundation-year-modules/autumn/foundation-programming/more-iteration-plus-selection.md)
       * [Arrays and Buffers](foundation-year/foundation-year-modules/autumn/foundation-programming/arrays-and-strings.md)
-      * [String Functions](foundation-year/foundation-year-modules/autumn/foundation-programming/strings-and-string-functions.md)
+      * [Strings and String Functions](foundation-year/foundation-year-modules/autumn/foundation-programming/strings-and-string-functions.md)
       * [Passing Arrays and Strings to Functions](foundation-year/foundation-year-modules/autumn/foundation-programming/passing-arrays-to-functions.md)
       * [Testing Programs](foundation-year/foundation-year-modules/autumn/foundation-programming/testing-programs.md)
       * [Structs and Pointers](foundation-year/foundation-year-modules/autumn/foundation-programming/structs-and-pointers.md)

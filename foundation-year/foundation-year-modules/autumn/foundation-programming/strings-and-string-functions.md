@@ -1,4 +1,20 @@
-# String Functions
+# Strings and String Functions
+
+## String
+
+* C does **not** have a string data type
+* C does have string literals
+* A string literal is a group of chars enclosed in double quotes.
+* A string can be stored in a char arraybut must be terminated with a NULL character, ‘\0’.
+* The assignment operator, ‘=’, can onlybe used when an array is declared. So a string cannotbe copied using the assignment operator, ‘=’, in the body of your code.
+* Relational operators cannotbe used with strings.
+* To copy strings and to compare strings we will need to use special functions in the string.h header file.
+
+### Example of string in memory
+
+![](../../../../.gitbook/assets/image%20%2811%29.png)
+
+[Examples on Code Base](https://adnantech.gitbook.io/code/code/c/arrays)
 
 ## String Functions
 
