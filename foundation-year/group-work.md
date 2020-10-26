@@ -4,9 +4,19 @@
 
 ### What is the Turing Test?
 
-### Can machines think?
+The Turing test is a test of a machine's ability to exhibit intelligent behaviour equivalent to, or indistinguishable from, that of a human.
 
-### Reading List
+### Rewiring the question "Can machines think?" 
+
+Turing stated that the question "can machines think?" is too vague, instead he proposed the concept of the "imitation game" instead, which a lot more "unambigous" than the former question.
+
+### Imitation game
+
+The imitation game is a game of three players, having two humans and one computer, an interrogator \(as human\) is isolated from other two players. The interrogator job is to try and figure out _which one_ is **human** and which one is **computer** by asking questions from both of them. To make the things harder computer is trying to make the interrogator guess wrongly. In other words computer would try to indistinguishable from human as much as possible.
+
+![The imitation game](../.gitbook/assets/image%20%2813%29.png)
+
+## Reading List
 
 * [Turing's paper](https://academic.oup.com/mind/article/LIX/236/433/986238)
 * [Turing's paper 2](https://www.abelard.org/turpap/turpap.php#the_imitation_game)
@@ -22,5 +32,8 @@
 * [More lessons to be learnt about the Alexa prize](https://chatbotsmagazine.com/13-lessons-we-have-to-learn-from-amazon-alexa-prize-965628e38ccb)
 * [Lovelace test \(creativity test\)](https://developer.amazon.com/alexaprize)
 
-### Sources
+## Sources
+
+* [Turing's paper](https://academic.oup.com/mind/article/LIX/236/433/986238)
+* [Wikipage for Turing test](https://en.wikipedia.org/wiki/Turing_test)
 
