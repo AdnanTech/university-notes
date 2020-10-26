@@ -8,7 +8,8 @@ These are my time circles, where I will experiment recording my events, in the f
 
 ### Evalutation
 
-* Morning session from 8-11 can get very unfocused, I tend to drift, as I am not writing down defined objectives, merely "University pre reading" instead.
+* Morning session from 8-9 can get very unfocused, I tend to drift, checking messages and emails. This could be as I am not writing down defined objectives, merely "University pre reading" instead.
+* Around 9:30 I got intot the flow of things, turning off WhatsApp notifications and making great progress on my [group work](group-work.md)
 * 
 ## 26/10/2020
 
