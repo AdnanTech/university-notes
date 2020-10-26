@@ -14,7 +14,9 @@
 
 ![](../../../../.gitbook/assets/image%20%2811%29.png)
 
-[Examples on Code Base](https://adnantech.gitbook.io/code/code/c/arrays)
+### [Examples on Code Base](https://adnantech.gitbook.io/code/code/c/arrays)
+
+
 
 ## String Functions
 
