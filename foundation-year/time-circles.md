@@ -4,14 +4,12 @@ These are my time circles, where I will experiment recording my events, in the f
 
 ## 26/10/2020
 
-### Prediction
-
 ![](../.gitbook/assets/prediction-26-10-2020.png)
-
-### Actual
 
 ### Evalutation
 
+* Morning session from 8-11 can get very unfocused, I tend to drift, as I am not writing down defined objectives, merely "University pre reading" instead.
+* 
 ## 26/10/2020
 
 
