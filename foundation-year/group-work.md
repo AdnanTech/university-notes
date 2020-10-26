@@ -4,7 +4,7 @@
 
 ### What is the Turing Test?
 
-The Turing test is a test of a machine's ability to exhibit **intelligent behaviour** equivalent to, or indistinguishable from, that of a human. It still acts as the benchmark for machine intelligence as we see it today. The conversation during the test would be limited to a **text-only** channel such as a computer keyboard and screen so the result would **not** depend on the machine's ability to _render words as speech_.
+Turing defined intelligence as the ability to achieve human-level performance in al cognitive tasks, sufficient to fool an interrogator. Thus the interrigation game \(The Turing test\), was made. The Turing test is a test of a machine's ability to exhibit **intelligent behaviour** equivalent to, or indistinguishable from, that of a human. It still acts as the benchmark for machine intelligence as we see it today. The conversation during the test would be limited to a **text-only** channel such as a computer keyboard and screen so the result would **not** depend on the machine's ability to _render words as speech_. Although in recent times, we assume a machine must be able to render words as speech?
 
 ### What exactly are the human intelligent behaviours?
 

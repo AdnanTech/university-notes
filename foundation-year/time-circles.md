@@ -13,6 +13,9 @@ These are my time circles, where I will experiment recording my events, in the f
 * After my lecture finished at 1pm, I pranced around and eased my mind and body for 45 mins, considering commuting for my 3pm class takes 15 minutes, this means I was only able to do an hour of work, leaving another hour to be made up for in the afternoon.
 * I can get distracted with YouTube **comments** and **recommendations** easily
 * I also get distracted by my phone
+* After my class finished at 4pm, commute home took 20 minutes, eating and hanging up clothes etc took 20, and marking my little brothers homework also took 20 minutes
+* Currently 5pm, this leaves me with 3 hours of free time left, as one hour is the work that I still need to do.
+* Did an hour of work from 5-6, then a work call that lasted 30 mins. So i have from 6:30 onwards as free time.
 
 ## 26/10/2020
 
