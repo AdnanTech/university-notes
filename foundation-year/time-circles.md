@@ -18,11 +18,12 @@ These are my time circles, where I will experiment recording my events, in the f
 * Did an hour of work from 5-6, then a work call that lasted 30 mins. So i have from 6:30 onwards as free time.
 * 6:30 to 7:15pm I created tomorrow's time circle and then took a _mental break._
 * 7:15 to 8:15pm dinner
-* * Overall I think I was about 65% accurate in my planning today, didn't account for getting distractd, as well as commuting time
+* 8:15 to 10:15 I worked on the yt-downloader project
+* Overall I think I was about 65% accurate in my planning today, didn't account for getting distractd, as well as commuting time
 
-## 26/10/2020
+## 27/10/2020
 
-![](../.gitbook/assets/prediction-27-10-2020.png)
+![](../.gitbook/assets/prediction-27-10-2020%20%281%29.png)
 
 ### Evaluation
 
