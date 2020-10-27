@@ -11,6 +11,7 @@
   * [Turing Test](foundation-year/group-work/turing-test.md)
 * [Time Circles](foundation-year/time-circles.md)
 * [SMART Goals](foundation-year/smart-goals.md)
+* [Programming Assignment 1](foundation-year/programming-assignment-1.md)
 * [Modules](foundation-year/foundation-year-modules/README.md)
   * [Autumn](foundation-year/foundation-year-modules/autumn/README.md)
     * [Foundation Programming](foundation-year/foundation-year-modules/autumn/foundation-programming/README.md)

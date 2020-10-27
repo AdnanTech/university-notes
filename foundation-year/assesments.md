@@ -2,13 +2,13 @@
 
 ## Foundation Programming
 
-* [ ] Exam \(**26 Oct**\)
-* [ ] Project 1
+* [x] Exam \(**26 Oct**\)
+* [ ] Project 1 \(**16 Nov**\)
 * [ ] Project 2
 
 ## Communication & Learning Skills
 
-* [ ] Learning Diary
+* [ ] [Learning Diary](foundation-year-modules/autumn/communication-and-learning-skills/learning-diary/)
   * [x] W1/2
   * [x] W3
   * [x] W4
@@ -22,7 +22,7 @@
 * [ ] Portfolio
   * [x] PDP
   * [x] Skills Audit
-* [ ] Group Presentation
+* [ ] [Group Presentation](group-work/)
   * [x] Groups allocated \(via Belbin\)
   * [ ] Powerpoint made
   * [ ] Powerpoint test runs
