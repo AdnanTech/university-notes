@@ -27,5 +27,6 @@ These are my time circles, where I will experiment recording my events, in the f
 
 ### Evaluation
 
-
+* Spent 8-9:30 finishing my youtube-downloader project
+* 9:45 left for town
 
