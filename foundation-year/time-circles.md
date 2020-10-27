@@ -12,8 +12,9 @@ These are my time circles, where I will experiment recording my events, in the f
 * 9:45 left for town
 * 12-12:20 commute home
 * 12:20 - 2 ate food, mental break
-* 2-8 doing half of the dedicated 16 hours of work today, as i usually do 2 hours mon to thur and 8 hours friday. Doing 6 hours today means that tomorrow and thursday are free for other activities.
-* 
+* 2-6 doing half of the dedicated 16 hours of work today, as i usually do 2 hours mon to thur and 8 hours friday. Doing 4 hours today means that thursday is free for other activities.
+* 6-6:30  mental break
+
 ## 26/10/2020
 
 ![](../.gitbook/assets/prediction-26-10-2020.png)
