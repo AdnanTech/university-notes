@@ -1,6 +1,8 @@
 # Selection and Branching
 
-## . Selection and branching dictate whether code should be run, or skipped, or go to another function, based on their boolean condition. Selection
+Selection and branching dictate whether code should be run, or skipped, or go to another function, based on their boolean condition.
+
+## Selection
 
 A **selection** is used to make decisions on code to execute, depending on information such as a boolean condition being true or false. These condition involve _operators_ such as **relational, conditional,** **logical** or sometimes **all of themSelection**: used for _decisions_, **branching** -- choosing between _2 or_ more _alternative paths_.
 

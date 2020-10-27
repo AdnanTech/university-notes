@@ -280,3 +280,5 @@ The general form of a pointer variable declaration is − `type *var-name;`
 
 Examples can be found [here](https://adnantech.gitbook.io/code/code/c/pointers).
 
+Pointers are the reason C is super fast. But also the reason why C is hard to manage.
+

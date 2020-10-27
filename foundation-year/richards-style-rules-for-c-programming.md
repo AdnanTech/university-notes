@@ -47,3 +47,7 @@ Refer to Program Design notes, as a guideline, 2-7 lines of code per function, b
 
 * level 1 skeleton code
 
+Arrays cannot be dynamic in ANSI standard. They can only be a fixed size. There must also be a space beside either side of the curly brackets.
+
+Constants are to be in ALL UPPERCASE letters
+

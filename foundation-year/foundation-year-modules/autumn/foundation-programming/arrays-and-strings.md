@@ -28,4 +28,9 @@ Another example of initializing arrays:
 * Relational operators can only be used with individual slots within arrays.
 * To copy an array or to compare arrays you will need to use a loop to access all the slots individually
 * Arrays can also be 2d, this can be useful for storing things such as co-ordinates
-
+* The variable name of the Array is a pointer itself, it cannot be changed once the array has been declare
+* The pointer points to the first item in the array
+* You can only copy items of an array to another array. You cannot copy a whole array.
+* If you declare an array of one size, it is \[1\], even though it only has 1 item \(2 memory pieces\), this is so you have at least one pointer for the array, and then that can point to the array name and the first slot.
+* The end of the array is only known at compile time
+* 
