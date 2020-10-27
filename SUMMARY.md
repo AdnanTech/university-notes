@@ -6,7 +6,9 @@
 ## Foundation Year
 
 * [Assesments](foundation-year/assesments.md)
-* [Group Work](foundation-year/group-work.md)
+* [Group Work](foundation-year/group-work/README.md)
+  * [Introduction](foundation-year/group-work/introduction.md)
+  * [Turing Test](foundation-year/group-work/turing-test.md)
 * [Time Circles](foundation-year/time-circles.md)
 * [SMART Goals](foundation-year/smart-goals.md)
 * [Modules](foundation-year/foundation-year-modules/README.md)
