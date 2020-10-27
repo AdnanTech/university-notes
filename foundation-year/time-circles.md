@@ -2,6 +2,13 @@
 
 These are my time circles, where I will experiment recording my events, in the form of time, during a 24 hour period, in order to get better at time management.This test begins the week beginning 26/10/2020 and will end  1/11/2020
 
+## 28/10/2020
+
+![](../.gitbook/assets/prediction-28-10-2020.png)
+
+### Evaluation
+
+* 
 ## 27/10/2020
 
 ![](../.gitbook/assets/prediction-27-10-2020%20%281%29.png)
@@ -13,7 +20,8 @@ These are my time circles, where I will experiment recording my events, in the f
 * 12-12:20 commute home
 * 12:20 - 2 ate food, mental break
 * 2-6 doing half of the dedicated 16 hours of work today, as i usually do 2 hours mon to thur and 8 hours friday. Doing 4 hours today means that thursday is free for other activities.
-* 6-6:30  mental break
+* 6-6:45pm  mental break
+* 6:45-7:30 light reading, created time circle for tomorrow, refactoring group work
 
 ## 26/10/2020
 
