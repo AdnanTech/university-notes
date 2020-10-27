@@ -22,6 +22,7 @@ These are my time circles, where I will experiment recording my events, in the f
 * 2-6 doing half of the dedicated 16 hours of work today, as i usually do 2 hours mon to thur and 8 hours friday. Doing 4 hours today means that thursday is free for other activities.
 * 6-7:30pm  mental break
 * 7:30-8pm light reading, created time circle for tomorrow, refactoring group work
+* 9-10pm group work
 
 ## 26/10/2020
 
