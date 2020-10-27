@@ -2,6 +2,18 @@
 
 These are my time circles, where I will experiment recording my events, in the form of time, during a 24 hour period, in order to get better at time management.This test begins the week beginning 26/10/2020 and will end  1/11/2020
 
+## 27/10/2020
+
+![](../.gitbook/assets/prediction-27-10-2020%20%281%29.png)
+
+### Evaluation
+
+* Spent 8-9:30 finishing my youtube-downloader project - not a lot of uni reading to do
+* 9:45 left for town
+* 12-12:20 commute home
+* 12:20 - 2 ate food, mental break
+* 2-8 doing half of the dedicated 16 hours of work today, as i usually do 2 hours mon to thur and 8 hours friday. Doing 6 hours today means that tomorrow and thursday are free for other activities.
+* 
 ## 26/10/2020
 
 ![](../.gitbook/assets/prediction-26-10-2020.png)
@@ -20,13 +32,4 @@ These are my time circles, where I will experiment recording my events, in the f
 * 7:15 to 8:15pm dinner
 * 8:15 to 10:15 I worked on the yt-downloader project
 * Overall I think I was about 65% accurate in my planning today, didn't account for getting distractd, as well as commuting time
-
-## 27/10/2020
-
-![](../.gitbook/assets/prediction-27-10-2020%20%281%29.png)
-
-### Evaluation
-
-* Spent 8-9:30 finishing my youtube-downloader project
-* 9:45 left for town
 
