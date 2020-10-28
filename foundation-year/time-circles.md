@@ -9,6 +9,11 @@ These are my time circles, where I will experiment recording my events, in the f
 ### Evaluation
 
 * 7:30-8:15 light reading on theories surrounding blue light, programming assignment planning
+* 11-1pm Trim and shower
+* 2-3pm phoned a friend
+* 3-4pm set up a new [gadget ](https://www.amazon.co.uk/gp/product/B074W8YPK3/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)i ordered
+* 4-4:30 mental break
+* 5:30-8:15pm work - got distracted, sloppy and careless work
 
 ## 27/10/2020
 
