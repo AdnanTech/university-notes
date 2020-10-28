@@ -16,8 +16,6 @@
 
 ### [Examples on Code Base](https://adnantech.gitbook.io/code/code/c/arrays)
 
-
-
 ## String Functions
 
 String Functions can be used to handle strings, such as manipulating strings, counting them, taking string input and more. This is important because most programs will eventually need string manipulation, and C does not have string handling functions in its original state.
@@ -49,7 +47,7 @@ These are included in the stdio.h header file, but have massive usage in string 
 * LIBRARY FILE is that in which definition of a particular function is written. MATH.H is a HEADER FILE while MATH.LIB is library file.
 
   
-Header Files : These are the files that are included at the top of any program. If we use any function inside a program, then the header file containing declaration or definition of that function ,has to be included.Like printf\(\) is defined in stdio.h.So, we must include it \(by \#include in order to use printf\(\).
+Header Files : These are the files that are included at the top of any program. If we use any function inside a program, then the header file containing declaration or definition of that function ,has to be included. Like printf\(\) is defined in stdio.h.So, we must include it \(by \#include in order to use printf\(\).
 
-Library Files: These are the files which the compiler uses in order to define the functions which have been used in the program and had been declared inside the header file.Like, printf\(\) has its complete definition ,like how it will work etc. in an I/O library! So, the compiler uses that library to get the machine code for printf.
+Library Files: These are the files which the compiler uses in order to define the functions which have been used in the program and had been declared inside the header file. Like, printf\(\) has its complete definition ,like how it will work etc. in an I/O library! So, the compiler uses that library to get the machine code for printf\(\).
 

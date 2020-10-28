@@ -24,12 +24,12 @@ We can split players into a struct?
 
 ### Struct idea 2
 
-Player Struct
+**Player Struct**
 
 * playerName \(string literal\)
 * wonRound \(bool\)
 
-Match Struct
+**Match Struct**
 
 * Match number \(int\)
 * roundMatchResults \(arr Char\)
@@ -57,12 +57,14 @@ Then we can re declare wonRound and roundMatchResults every round
 There are 4 main functions, with 2 of them being reusable
 
 * **Initialize**
-  * take 16 names, one by one as input, and enter them into the first round appropiately
-* **Enter a match result**
-  * x, y \(player 1 x, player 2 y\) enter 1w if player 1 won the round, enter 2w if player 2, y, won the round. _\(conversely, you have the option to enter 1L if player 1 lost the round, this assumes player 2 has won the round\)_
-* **Display a round**
-  * refer to bleow for design
-* **Exit the program**
+  * take 16 names, one by one as input, and enter them into the first round appropriately
+* **Menu**
+  * Switch case statement, takes input as char \(mr/dr/e\), check style rules for switch case statements
+    * **Enter a match result**
+      * x, y \(player 1 x, player 2 y\) enter 1w if player 1 won the round, enter 2w if player 2, y, won the round. _\(conversely, you have the option to enter 1L if player 1 lost the round, this assumes player 2 has won the round\)_
+    * **Display a round**
+      * refer to bleow for design
+    * **Exit the program**
 
 ### The grid \(Display a round\)
 
@@ -80,6 +82,7 @@ Winner: [Player 1]
 
 * [Random old logic example](https://cboard.cprogramming.com/cplusplus-programming/108295-table-tennis-scoring-system.html)
 * [Tournament bracket logic](https://stackoverflow.com/questions/6071563/algorithms-for-tournament-brackets-ncaa-etc)
-* 
+* [scanf the effecient way](https://stackoverflow.com/questions/30065675/what-does-scanf-nc-mean)
+
 {% file src="../.gitbook/assets/ip14\_advanced-4slides.pdf" caption="Reading Paper" %}
 

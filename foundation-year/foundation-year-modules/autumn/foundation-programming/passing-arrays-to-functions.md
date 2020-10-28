@@ -5,7 +5,8 @@
 Formal parameters as a pointer −
 
 ```text
-void myFunction(int *param) {
+void myFunction(int *param)
+{
    .
    .
    .
@@ -17,7 +18,8 @@ void myFunction(int *param) {
 Formal parameters as a sized array −
 
 ```text
-void myFunction(int param[10]) {
+void myFunction(int param[10])
+{
    .
    .
    .
@@ -29,7 +31,8 @@ void myFunction(int param[10]) {
 Formal parameters as an unsized array −
 
 ```text
-void myFunction(int param[]) {
+void myFunction(int param[])
+{
    .
    .
    .
