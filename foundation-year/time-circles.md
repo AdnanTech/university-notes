@@ -8,7 +8,8 @@ These are my time circles, where I will experiment recording my events, in the f
 
 ### Evaluation
 
-* 
+* 7:30-8:15 light reading on theories surrounding blue light, programming assignment planning
+
 ## 27/10/2020
 
 ![](../.gitbook/assets/prediction-27-10-2020%20%281%29.png)
@@ -25,6 +26,7 @@ These are my time circles, where I will experiment recording my events, in the f
 * 9-9:30 chilled
 * 9:30-10pm group work
 * 10-11 thinking and planning programming assignment
+* I I think I was around 70% accurate today, using pomodoros, I was able to smash out 4 hours of work, I also need to reduce screen time, and take shorter but better breaks
 
 ## 26/10/2020
 

@@ -10,6 +10,8 @@ There can be a total of 15 matches \(8 first round, 4 quarter finals, 2 semi fin
 
 We can split players into a struct?
 
+### Struct idea 1
+
 * playerName \(string literal\)
 * wonFirstRound \(bool\)
 * firstRoundMatchResults \(arr Char\)
@@ -20,25 +22,47 @@ We can split players into a struct?
 * wonFinalsRound \(bool\)
 * finalsToundMatchResults \(arr Char\)
 
-Or we can just have matchNumber and matchResult \(arr char\), instead of seperate data types for every round, and re declare this every round?
+### Struct idea 2
 
+Player Struct
 
+* playerName \(string literal\)
+* wonRound \(bool\)
+
+Match Struct
+
+* Match number \(int\)
+* roundMatchResults \(arr Char\)
+* Player 1 \(str\)
+* Player 2 \(str\)
+* State \(int\)
+
+Then we can re declare wonRound and roundMatchResults every round
+
+### Program Design
+
+1. We start with prompting the user with 16 users
+   1. For loop from 0 to 15, creating a new player struct after entered
+2. Then go to the menu
+   1. Enter a match result
+      1. Ask user for a match number to enter results for
+      2. Present board with input options \(print grid idea\)
+   2. Display a round
+      1. print grid idea \* round number
+   3. Exit the program
+      1. if user enters exit, exit
 
 ### Top Down Design
 
 There are 4 main functions, with 2 of them being reusable
 
-* Initialize
+* **Initialize**
   * take 16 names, one by one as input, and enter them into the first round appropiately
-* Enter a match result
+* **Enter a match result**
   * x, y \(player 1 x, player 2 y\) enter 1w if player 1 won the round, enter 2w if player 2, y, won the round. _\(conversely, you have the option to enter 1L if player 1 lost the round, this assumes player 2 has won the round\)_
-* Display a round
+* **Display a round**
   * refer to bleow for design
-* Exit the program
-
-
-
-
+* **Exit the program**
 
 ### The grid \(Display a round\)
 
