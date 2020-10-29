@@ -61,6 +61,10 @@ if it = 0, it has 2 roots that are the same, since it was one turning point
 
  if it is &lt; 0, it has no **real** roots
 
+### Imaginary Unit \(i\)
+
+Since b^2 - 4ac can &lt; 0, it gave birth the to the [imaginary number](https://en.wikipedia.org/wiki/Imaginary_unit#Matrices)
+
 ### Excel
 
 We can sketch out quadratic graphs in excel.
