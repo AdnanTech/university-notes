@@ -4,7 +4,7 @@
 
 ### What is the Turing Test?
 
-Turing defined intelligence as the ability to achieve human-level performance in al cognitive tasks, sufficient to fool an interrogator. Thus the interrigation game \(The Turing test\), was made. The Turing test is a test of a machine's ability to exhibit **intelligent behaviour** equivalent to, or indistinguishable from, that of a human. It still acts as the benchmark for machine intelligence as we see it today. The conversation during the test would be limited to a **text-only** channel such as a computer keyboard and screen so the result would **not** depend on the machine's ability to _render words as speech_. Although in recent times, we assume a machine must be able to render words as speech?
+Turing defined intelligence as the ability to achieve human-level performance in al cognitive tasks, sufficient to fool an interrogator. Thus the interrogation game \(The Turing test\), was made. The Turing test is a test of a machine's ability to exhibit **intelligent behaviour** equivalent to, or indistinguishable from, that of a human. It still acts as the benchmark for machine intelligence as we see it today. The conversation during the test would be limited to a **text-only** channel such as a computer keyboard and screen so the result would **not** depend on the machine's ability to _render words as speech_. Although in recent times, we assume a machine must be able to render words as speech?
 
 ### What exactly are the human intelligent behaviours?
 
@@ -54,7 +54,7 @@ Until a chatbot truly has every human behaviour, I think it will be possible, ma
 * [Turing's paper](https://academic.oup.com/mind/article/LIX/236/433/986238)
 * [Turing's paper 2](https://www.abelard.org/turpap/turpap.php#the_imitation_game)
 * [Turing's Paper 3](https://docs.google.com/spreadsheets/d/1pu6PqO4WioJPEA0e5RIflYHqw60SOkqwvrFLyousy3Y/edit#gid=0&range=B2)
-* [Stanford Encyclopedia of Philosophy Turing Test analysis](https://plato.stanford.edu/entries/turing-test/)
+* [Stanford Encyclopedia of Philosoph y Turing Test analysis](https://plato.stanford.edu/entries/turing-test/)
 * [Short notes on the Turing Test](https://www.geeksforgeeks.org/turing-test-artificial-intelligence/)
 * [Lex Fridman analysis of the Turing Test](https://www.youtube.com/watch?v=MGW_Qcqr9eQ)
 * [Short snippet of the Turing Test from Geeks for Geeks](https://www.geeksforgeeks.org/turing-test-artificial-intelligence/)
