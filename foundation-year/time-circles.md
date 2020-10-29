@@ -2,6 +2,13 @@
 
 These are my time circles, where I will experiment recording my events, in the form of time, during a 24 hour period, in order to get better at time management.This test begins the week beginning 26/10/2020 and will end  1/11/2020
 
+## 29/10/2020
+
+![](../.gitbook/assets/prediction-29-10-2020.png.png)
+
+### Evaluation
+
+* 
 ## 28/10/2020
 
 ![](../.gitbook/assets/prediction-28-10-2020.png)
@@ -13,7 +20,9 @@ These are my time circles, where I will experiment recording my events, in the f
 * 2-3pm phoned a friend
 * 3-4pm set up a new [gadget ](https://www.amazon.co.uk/gp/product/B074W8YPK3/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)i ordered
 * 4-4:30 mental break
-* 5:30-8:15pm work - got distracted, sloppy and careless work
+* 5:30-8:15pm work - got distracted, sloppy and careless work, didnt get a lot done
+* 9:30-11pm got a better 1 and a half hours of word done
+* Today was kind of unproductive, I feel as if I just wondered off a lot a didn't do the tasks I set out the night before. About 50% accuracy
 
 ## 27/10/2020
 
