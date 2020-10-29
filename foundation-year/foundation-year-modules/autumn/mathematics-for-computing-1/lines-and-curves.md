@@ -24,13 +24,19 @@ A general rule for polynomials:
 
 ![](../../../../.gitbook/assets/image%20%2812%29.png)
 
+## Curves \(quadratics\)
+
+### Quadratic
+
+A quadratic equation is a polynomial equation with the power of two. Invented by Rene Descartes, the man famous for saying "I think, therefore I am".
+
 ### Quadratics vs Linear
 
 The key difference between a linear equation and a quadratic equation, is that in quadratic equations, each co-domain \(x\) value maps to 2 domains \(y\). Where in linear it was a 1 to 1 relationship. There is a caveat to this rule for quadratic, and that is where the has a turning point, meaning the tangent to the curve, also known as the gradient, is zero, at this point the co domain will map to only one domain value. Quadratic equations are also harder to inverse than linear equations.
 
 ### Solving Quadratics
 
- There are 3 main methods:
+ There are 4 main methods:
 
 1. Factorisation
    1. \(x + a\)\(a + b\) where x = -a or x = -b
@@ -38,6 +44,8 @@ The key difference between a linear equation and a quadratic equation, is that i
    1. \(x+a\)^2 + d where x = +/- sqrt\(d\) - a
 3. Quadratic Formula
    1. See quadratic formula
+4. Trial and Improvement
+   1. Keep testing values till you get y = 0
 
 ### The discriminant
 
@@ -47,7 +55,11 @@ $$
 b^2-4ac
 $$
 
-If the equation is &gt; 0, we have 2 real roots \(solutions\) for the quadratic, so it passes the x axis at 2 seperate points, if it = 0, it has 2 roots that are the same, since it was one turning point, and if it is &lt; 0, it has no **real** roots
+If the equation is &gt; 0, we have 2 real roots \(solutions\) for the quadratic, so it passes the x axis at 2 seperate points, 
+
+if it = 0, it has 2 roots that are the same, since it was one turning point
+
+ if it is &lt; 0, it has no **real** roots
 
 ### Excel
 
