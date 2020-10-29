@@ -1,4 +1,4 @@
-# Lines and Curves
+# Quadratics and Polar Co-ordinates
 
 ## Lines and Curves
 
@@ -69,14 +69,13 @@ Since b^2 - 4ac can &lt; 0, it gave birth the to the [imaginary number](https://
 
 We can sketch out quadratic graphs in excel.
 
-### [Polar Co-Ordinates](https://www.mathsisfun.com/polar-cartesian-coordinates.html)
+## [Polar Co-Ordinates](https://www.mathsisfun.com/polar-cartesian-coordinates.html)
 
 Polar co-ordinates are diffrent function to a graph, for example, cartesian follows \(point a, point b\), where you go across a and up b to find a point on the line, that is the function. Whereas polar co-ordinates, map to \(r, theta\) for a point
 
 * Where r is a real number \(when squared at least\), that is the radial distance from the distance
 * Theta is the **anti-clockwise** angle from the x axis
 * the polar origin is also considered \(0, 0\), as in cartesian equations
-* Radial axis is?
 * A polar equation can directly correlate to a cartesian equation
 
 It allows us to split a line into triangles, and hence integration, as it essentially is just a bunch of triangles
@@ -94,16 +93,7 @@ It allows us to split a line into triangles, and hence integration, as it essent
 3. This gives you an \(x, y\) value
 4. Polar co-ordiantes are always from the origin, so you can use the point and \(0, 0\) to find the equation
 
-## Lecture notes
-
-* x = 3, or any vertical line, has a gradient of positive or negative infinity, this doesnt follow the rule of y = mx + c. It is NOT a function
-* this line creates problem in graphics chips, as it means that graphics cannot process straight lines, unless you use polar co-ordinates
-* your retina has high res in the center, and low res around the outside
-* This is where polar co-ordinates are a lot better than y= mx+c
-* used in computer vision and graphics
-* Polar co-ordinates is the minimum distance to a line from the origin
-
-### To solve polar co-ordinates
+### Solving polar co-ordinates
 
 * Given equation
 * Find perpendicular equation
@@ -112,6 +102,10 @@ It allows us to split a line into triangles, and hence integration, as it essent
 * Then sub x to find y
 * using that, you can find r
 * Using that, you can find theta
+
+x = 3, or any vertical line, has a gradient of positive or negative infinity, this doesnt follow the rule of y = mx + c. It is NOT a function, this line creates problem in graphics chips, as it means that graphics cannot process straight lines, unless you use polar co-ordinates. x = 3 can be represented in polar co-ordinates as \(3, 0\) where 3 is the length towards the line, and 0 is theta
+
+Your **retina** has high res in the center, and low res around the outside. This is where polar co-ordinates are a lot better than y= mx+c. Used in computer vision and graphics. Polar co-ordinates is the minimum distance to a line from the origin
 
 
 

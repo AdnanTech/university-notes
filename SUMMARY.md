@@ -60,7 +60,7 @@
       * [Factorisation and Functions](foundation-year/foundation-year-modules/autumn/mathematics-for-computing-1/factorisation-and-functions.md)
       * [Trigonometry and SOHCAHTOA](foundation-year/foundation-year-modules/autumn/mathematics-for-computing-1/trigonometry.md)
       * [More Trigonometry, Logs and Exponents](foundation-year/foundation-year-modules/autumn/mathematics-for-computing-1/more-trigonometry-logs-and-exponents.md)
-      * [Lines and Curves](foundation-year/foundation-year-modules/autumn/mathematics-for-computing-1/lines-and-curves.md)
+      * [Quadratics and Polar Co-ordinates](foundation-year/foundation-year-modules/autumn/mathematics-for-computing-1/lines-and-curves.md)
       * [Simultaneous Equations](foundation-year/foundation-year-modules/autumn/mathematics-for-computing-1/simultaneous-equations.md)
       * [Matrices and MATLAB](foundation-year/foundation-year-modules/autumn/mathematics-for-computing-1/matrices-and-matlab.md)
       * [Differentiation](foundation-year/foundation-year-modules/autumn/mathematics-for-computing-1/differentiation.md)

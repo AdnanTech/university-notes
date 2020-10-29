@@ -10,7 +10,9 @@ These are my time circles, where I will experiment recording my events, in the f
 
 * I've added three hours of work instead of two to account for commuting and small distractions/obstacles
 * 7:30-8am sorted out maths assignment questions that were likely wrong, which I found out after learning about polar co-ordinates
-
+* 11am-1pm CLS and relaxing with some classmates
+* 3-4pm commute home, eat food, play with little siblings
+* 
 ## 28/10/2020
 
 ![](../.gitbook/assets/prediction-28-10-2020.png)

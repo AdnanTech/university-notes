@@ -4,6 +4,8 @@
 
 {% embed url="https://en.wikipedia.org/wiki/Binary\_heap" %}
 
+[Stack vs heap](https://www.guru99.com/stack-vs-heap.html)
+
 ## Malloc
 
 ```c

@@ -33,4 +33,4 @@ Another example of initializing arrays:
 * You can only copy items of an array to another array. You cannot copy a whole array.
 * If you declare an array of one size, it is \[1\], even though it only has 1 item \(2 memory pieces\), this is so you have at least one pointer for the array, and then that can point to the array name and the first slot.
 * The end of the array is only known at compile time
-* 
+
