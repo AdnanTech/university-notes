@@ -6,7 +6,7 @@
 
 **Mathematics For Computing 1:** Mathematics this week
 
-**Computing Project:** The focus this week was 
+**Computing Project:** The focus this week was lines and curves.
 
 **Summative Evaluation:** Overall I think the week 
 
