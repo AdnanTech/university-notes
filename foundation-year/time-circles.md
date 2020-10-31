@@ -2,6 +2,19 @@
 
 These are my time circles, where I will experiment recording my events, in the form of time, during a 24 hour period, in order to get better at time management.This test begins the week beginning 26/10/2020 and will end  1/11/2020
 
+## 31/10/2020
+
+![](../.gitbook/assets/prediction-31-10-2020.png)
+
+### Evaluation
+
+* Paid off sleep debt
+* 11-12am Spent time with the kids
+* 12-2pm cleaning up knowledge base gitbook and uni git book
+* 2-5pm work
+* 5-7pm Friend's house
+* 7-10pm Pool at marina
+
 ## 30/10/2020
 
 ![](../.gitbook/assets/prediction-30-10-2020.png)
@@ -11,6 +24,9 @@ These are my time circles, where I will experiment recording my events, in the f
 * Only got 5 hours of sleep, although feeling fine at 6am, but it is likely it will probably hit me later
 * Mainly just a work day with classes inbetween
 * got in a good 3 hour work session in the morning
+* Busy day with work and classes
+* Got home, rested
+* Slept early at 9:30pm to pay off the sleep debt from today
 
 ## 29/10/2020
 
@@ -22,7 +38,7 @@ These are my time circles, where I will experiment recording my events, in the f
 * 7:30-8am sorted out maths assignment questions that were likely wrong, which I found out after learning about polar co-ordinates
 * 11am-1pm CLS and relaxing with some classmates
 * 3-4pm commute home, eat food, play with little siblings
-* 
+
 ## 28/10/2020
 
 ![](../.gitbook/assets/prediction-28-10-2020.png)
