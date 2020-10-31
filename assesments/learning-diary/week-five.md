@@ -6,7 +6,7 @@
 
 **Mathematics For Computing 1:** Mathematics this week was ok. We covered lines and curves, more specifically, quadratics and polar co-ordinates. Polar co-ordinates I found especially interesting, as computer vision, to be more precise, bionic eyes is a topic that I'd like to delve quite deep into. And the concept of polar co-ordinates binds to bionic eyes becuase Kingsley stated in one of the lectures, that polar co-ordinates is the underlying theme of computer vision, and the concept can also be applied to human eyes.
 
-**Computing Project:** The focus this week was CSS, as well as a lecture touching on artificial intelligence. The CSS was fairly straight forward. As with previous topics, even though I know how to write CSS fluently, some lesser known features such as the types of selectors and the range of selectors. This prompted me to think about how to structure my CSS code syntatically to effectively use selectors 
+**Computing Project:** The focus this week was CSS, as well as a lecture touching on artificial intelligence. The CSS was fairly straight forward. As with previous topics, even though I know how to write CSS fluently, some lesser known features such as the types of selectors and the range of selectors. This prompted me to think about how to structure my CSS code syntatically to effectively use the different types of selectors 
 
 **Summative Evaluation:** Overall I think the week 
 

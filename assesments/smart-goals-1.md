@@ -133,7 +133,7 @@ Below are the SMART goals I am looking to achieve, based on these [categories](h
       <td style="text-align:center"><b>Use time circles to evaluate my time</b>
       </td>
       <td style="text-align:center">Record planned time circle vs actual in the form of time circles, which
-        can be found <a href="time-circles.md#26-10-2020">here</a>
+        can be found <a href="../time-circles.md#26-10-2020">here</a>
       </td>
       <td style="text-align:center">Only a week of commitemnt, will plan the night before the day, and asses
         the actual at the end of the day, this also acts a small form of self reflection,
