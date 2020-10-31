@@ -4,7 +4,7 @@ These are my time circles, where I will experiment recording my events, in the f
 
 ## 31/10/2020
 
-![](../.gitbook/assets/prediction-31-10-2020.png)
+![](.gitbook/assets/prediction-31-10-2020.png)
 
 ### Evaluation
 
@@ -17,7 +17,7 @@ These are my time circles, where I will experiment recording my events, in the f
 
 ## 30/10/2020
 
-![](../.gitbook/assets/prediction-30-10-2020.png)
+![](.gitbook/assets/prediction-30-10-2020.png)
 
 ### Evaluation
 
@@ -30,7 +30,7 @@ These are my time circles, where I will experiment recording my events, in the f
 
 ## 29/10/2020
 
-![](../.gitbook/assets/prediction-29-10-2020.png.png)
+![](.gitbook/assets/prediction-29-10-2020.png.png)
 
 ### Evaluation
 
@@ -41,7 +41,7 @@ These are my time circles, where I will experiment recording my events, in the f
 
 ## 28/10/2020
 
-![](../.gitbook/assets/prediction-28-10-2020.png)
+![](.gitbook/assets/prediction-28-10-2020.png)
 
 ### Evaluation
 
@@ -56,7 +56,7 @@ These are my time circles, where I will experiment recording my events, in the f
 
 ## 27/10/2020
 
-![](../.gitbook/assets/prediction-27-10-2020%20%281%29.png)
+![](.gitbook/assets/prediction-27-10-2020%20%281%29.png)
 
 ### Evaluation
 
@@ -74,12 +74,12 @@ These are my time circles, where I will experiment recording my events, in the f
 
 ## 26/10/2020
 
-![](../.gitbook/assets/prediction-26-10-2020.png)
+![](.gitbook/assets/prediction-26-10-2020.png)
 
 ### Evalutation
 
 * Morning session from 8-9 can get very unfocused, I tend to drift, checking messages and emails. This could be as I am not writing down defined objectives, merely "University pre reading" instead.
-* Around 9:30 I got into the flow of things, _turning off WhatsApp notifications_ and making great progress on my [group work](group-work/)
+* Around 9:30 I got into the flow of things, _turning off WhatsApp notifications_ and making great progress on my [group work](assesments/group-work/)
 * After my lecture finished at 1pm, I pranced around and eased my mind and body for 45 mins, considering commuting for my 3pm class takes 15 minutes, this means I was only able to do an hour of work, leaving another hour to be made up for in the afternoon.
 * I can get **distracted** with YouTube **comments** and **recommendations** easily
 * I also get **distracted** by my **phone**

@@ -8,7 +8,7 @@
 
 ## Communication & Learning Skills
 
-* [ ] [Learning Diary](foundation-year-modules/autumn/communication-and-learning-skills/learning-diary/)
+* [ ] [Learning Diary](learning-diary/)
   * [x] W1/2
   * [x] W3
   * [x] W4
