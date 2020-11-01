@@ -51,3 +51,35 @@ Header Files : These are the files that are included at the top of any program. 
 
 Library Files: These are the files which the compiler uses in order to define the functions which have been used in the program and had been declared inside the header file. Like, printf\(\) has its complete definition ,like how it will work etc. in an I/O library! So, the compiler uses that library to get the machine code for printf\(\).
 
+## Pre Reading
+
+## Strings
+
+### gets\(\), fgets\(\), puts\(\), scanf\(\)
+
+These are all standard functions that handle input of strings. These functions do not require any header files, aside stdio. 
+
+You can also make your own function to input strings. I have examples on the code base.
+
+**Normal** operators **do not** work with strings. The reason for this is because each character is stored in an array, thus meaning each has a different value. Normal operators take only 1 value either side. You can create your own function to check if two strings are equal, by checking every character in both of the arrays to each other, one by one. Example is on the code base.
+
+## String functions
+
+### strcpy\(\)
+
+Using the header file **string.h**, we can add some pre built functions to manipulate strings. One example is **strcpy\(\)**, which deletes a character in a string, by replacing the character with the character infront, and contuining the process till all characters are shifted backwards by one, essentially deleting the character chosen to be deleted by method of replacement.
+
+### itoa\(\)
+
+The function scanf\(\) converts keyboard input strings into various formats using field specifiers eg %d.The functions atoi\(\), atoll\(\) and atof\(\) do something similar with strings stored in memory. Using the header file **stdlib.h**. Functions like **itoa\(\)** convert in the opposite direction as shown in the code base.
+
+itoa\(\) can converts a number into a strong of a different digit base. Binary, to hexadecimal, to octal or to denary. Examples on code base.
+
+### strlen\(\)
+
+Used in string.h, the function is used to count length of a string. Example in code base.
+
+### strcmp\(\)
+
+Also used in string.h, the function is used to compare 2 strings.
+

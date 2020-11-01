@@ -35,7 +35,7 @@
       * [Program Design and Iteration](notes/foundation-year-modules/autumn/foundation-programming/program-design-and-iteration.md)
       * [Selection and Branching](notes/foundation-year-modules/autumn/foundation-programming/more-iteration-plus-selection.md)
       * [Arrays and Buffers](notes/foundation-year-modules/autumn/foundation-programming/arrays-and-strings.md)
-      * [Macros](notes/foundation-year-modules/autumn/foundation-programming/macros.md)
+      * [Macros \(headers\)](notes/foundation-year-modules/autumn/foundation-programming/macros.md)
       * [Strings and String Functions](notes/foundation-year-modules/autumn/foundation-programming/strings-and-string-functions.md)
       * [Passing Arrays and Strings to Functions](notes/foundation-year-modules/autumn/foundation-programming/passing-arrays-to-functions.md)
       * [Testing Programs](notes/foundation-year-modules/autumn/foundation-programming/testing-programs.md)
