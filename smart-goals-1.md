@@ -4,6 +4,8 @@
 
 Below are the SMART goals I am looking to achieve, based on these [categories](https://adnantech.gitbook.io/wiki/categories-of-life). There is currently no priority to these goals, this is something I intend to add in the future.
 
+## In Progress
+
 <table>
   <thead>
     <tr>
@@ -37,6 +39,63 @@ Below are the SMART goals I am looking to achieve, based on these [categories](h
       </td>
     </tr>
     <tr>
+      <td style="text-align:center">Quality Of Life</td>
+      <td style="text-align:center"><b>Use time circles to evaluate my time</b>
+      </td>
+      <td style="text-align:center">Record planned time circle vs actual in the form of time circles, which
+        can be found <a href="time-circles.md#26-10-2020">here</a>
+      </td>
+      <td style="text-align:center">Only a week of commitemnt, will plan the night before the day, and asses
+        the actual at the end of the day, this also acts a small form of self reflection,
+        and won&apos;t take too long</td>
+      <td style="text-align:center">This activity will help me see where my hours are going each week and
+        how much of them are beneficial towards achieving my short term and long
+        term goals. The objective with this goal is to figure whether I am <a href="https://adnantech.gitbook.io/wiki/productivity/busy-vs-productive">being busy vs being productive</a>.
+        By this, i mean seeing how much effective work I am doing vs forced, low
+        quality work, so I can start improving this to work at maximum effeciency.</td>
+      <td
+      style="text-align:center">
+        <p>(Actual)</p>
+        <p></p>
+        <p>1/11/2020</p>
+        </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Academia</td>
+      <td style="text-align:center"><b>Get &gt; 90% in all assessments this semester</b>
+      </td>
+      <td style="text-align:center">Record the result of each assessment</td>
+      <td style="text-align:center">A lot of the content I have covered from either previous education, or
+        work. So a lot of the content I am familiar with. Therefore should have
+        no problem getting close to perfect grades.</td>
+      <td style="text-align:center">Personal achievement is the short term relevance. The long term relevance,
+        is understanding information and processing it appropiately to get high
+        grades. As well as refactoring notes and revising effeciently to achieve
+        high grades.</td>
+      <td style="text-align:center">
+        <p>(Actual)</p>
+        <p></p>
+        <p>11/12/2020</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+## Planned
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center">Life&apos;s Sub-Component</th>
+      <th style="text-align:center"><em><b>S</b></em>pecific</th>
+      <th style="text-align:center"><em><b>M</b></em>easurable</th>
+      <th style="text-align:center"><em><b>A</b></em>chievable</th>
+      <th style="text-align:center"><em><b>R</b></em>elevant</th>
+      <th style="text-align:center"><em><b>T</b></em>ime Based</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
       <td style="text-align:center">Intelligence</td>
       <td style="text-align:center"><b>Read a book every month</b>
       </td>
@@ -54,23 +113,6 @@ Below are the SMART goals I am looking to achieve, based on these [categories](h
       <td style="text-align:center">(Recurring)
         <br />
         <br />Due: 1/11/2020</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">Work &amp; Career</td>
-      <td style="text-align:center"><b>Deliver a finished freelance project</b>
-      </td>
-      <td style="text-align:center">By the end of year, complete one full freelance project</td>
-      <td style="text-align:center">I&apos;ve got a client and a half finished project, I just need to find
-        the time to polish the project.</td>
-      <td style="text-align:center">Improve my ability to make static websites (HTML, CSS and JS), financial
-        bonuses, improving time management and project management capabiltiies
-        and to manage my workload better</td>
-      <td style="text-align:center">
-        <p>(Actual)</p>
-        <p></p>
-        <p>Due:</p>
-        <p>1/1/2021</p>
-      </td>
     </tr>
     <tr>
       <td style="text-align:center">Emotional Stability</td>
@@ -128,52 +170,39 @@ Below are the SMART goals I am looking to achieve, based on these [categories](h
       style="text-align:center"></td>
         <td style="text-align:center"></td>
     </tr>
+  </tbody>
+</table>
+
+## Done
+
+<table>
+  <thead>
     <tr>
-      <td style="text-align:center">Quality Of Life</td>
-      <td style="text-align:center"><b>Use time circles to evaluate my time</b>
-      </td>
-      <td style="text-align:center">Record planned time circle vs actual in the form of time circles, which
-        can be found <a href="../time-circles.md#26-10-2020">here</a>
-      </td>
-      <td style="text-align:center">Only a week of commitemnt, will plan the night before the day, and asses
-        the actual at the end of the day, this also acts a small form of self reflection,
-        and won&apos;t take too long</td>
-      <td style="text-align:center">This activity will help me see where my hours are going each week and
-        how much of them are beneficial towards achieving my short term and long
-        term goals. The objective with this goal is to figure whether I am <a href="https://adnantech.gitbook.io/wiki/productivity/busy-vs-productive">being busy vs being productive</a>.
-        By this, i mean seeing how much effective work I am doing vs forced, low
-        quality work, so I can start improving this to work at maximum effeciency.</td>
-      <td
-      style="text-align:center">
-        <p>(Actual)</p>
-        <p></p>
-        <p>1/11/2020</p>
-        </td>
+      <th style="text-align:center">Life&apos;s Sub-Component</th>
+      <th style="text-align:center"><em><b>S</b></em>pecific</th>
+      <th style="text-align:center"><em><b>M</b></em>easurable</th>
+      <th style="text-align:center"><em><b>A</b></em>chievable</th>
+      <th style="text-align:center"><em><b>R</b></em>elevant</th>
+      <th style="text-align:center"><em><b>T</b></em>ime Based</th>
     </tr>
+  </thead>
+  <tbody>
     <tr>
-      <td style="text-align:center">Academia</td>
-      <td style="text-align:center">Get &gt; 90% in all assessments this semester</td>
-      <td style="text-align:center">Record the result of each assessment</td>
-      <td style="text-align:center">A lot of the content I have covered from either previous education, or
-        work. So a lot of the content I am familiar with. Therefore should have
-        no problem getting close to perfect grades.</td>
-      <td style="text-align:center">Personal achievement is the short term relevance. The long term relevance,
-        is understanding information and processing it appropiately to get high
-        grades. As well as refactoring notes and revising effeciently to achieve
-        high grades.</td>
+      <td style="text-align:center">Work &amp; Career</td>
+      <td style="text-align:center"><b>Deliver a finished freelance project</b>
+      </td>
+      <td style="text-align:center">By the end of year, complete one full freelance project</td>
+      <td style="text-align:center">I&apos;ve got a client and a half finished project, I just need to find
+        the time to polish the project.</td>
+      <td style="text-align:center">Improve my ability to make static websites (HTML, CSS and JS), financial
+        bonuses, improving time management and project management capabiltiies
+        and to manage my workload better</td>
       <td style="text-align:center">
         <p>(Actual)</p>
         <p></p>
-        <p>11/12/2020</p>
+        <p>Due:</p>
+        <p>1/1/2021</p>
       </td>
-    </tr>
-    <tr>
-      <td style="text-align:center"></td>
-      <td style="text-align:center">More leetcode</td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
     </tr>
   </tbody>
 </table>

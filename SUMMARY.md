@@ -3,6 +3,7 @@
 * [Meta](README.md)
 * [Workflow](workflow.md)
 * [Time Circles](time-circles.md)
+* [SMART Goals](smart-goals-1.md)
 
 ## Admin
 
@@ -18,7 +19,6 @@
     * [Week three](assesments/learning-diary/week-three.md)
     * [Week one/two](assesments/learning-diary/week-one-two.md)
   * [PDP](assesments/pdp.md)
-  * [SMART Goals](assesments/smart-goals-1.md)
   * [Programming Assignment 1](assesments/programming-assignment-1.md)
   * [Richard's Style Rules for C Programming](assesments/richards-style-rules-for-c-programming.md)
 

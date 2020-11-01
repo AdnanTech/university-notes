@@ -9,6 +9,9 @@ These are my time circles, where I will experiment recording my events, in the f
 ### Evaluation
 
 * After an unproductive Saturday, I figured I should catchup on the Sunday
+* Did my pre reading
+* Cleaned my room
+* Got in a workout
 
 ## 31/10/2020
 
