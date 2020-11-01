@@ -3,7 +3,8 @@
 * [Meta](README.md)
 * [Workflow](workflow.md)
 * [Time Circles](time-circles.md)
-* [SMART Goals](smart-goals-1.md)
+* [SMART Goals](smart-goals-1/README.md)
+  * [SMART Goals Explained](smart-goals-1/smart-goals-explained.md)
 
 ## Admin
 
