@@ -175,37 +175,9 @@ Below are the SMART goals I am looking to achieve, based on these [categories](h
 
 ## Done
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:center">Life&apos;s Sub-Component</th>
-      <th style="text-align:center"><em><b>S</b></em>pecific</th>
-      <th style="text-align:center"><em><b>M</b></em>easurable</th>
-      <th style="text-align:center"><em><b>A</b></em>chievable</th>
-      <th style="text-align:center"><em><b>R</b></em>elevant</th>
-      <th style="text-align:center"><em><b>T</b></em>ime Based</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:center">Work &amp; Career</td>
-      <td style="text-align:center"><b>Deliver a finished freelance project</b>
-      </td>
-      <td style="text-align:center">By the end of year, complete one full freelance project</td>
-      <td style="text-align:center">I&apos;ve got a client and a half finished project, I just need to find
-        the time to polish the project.</td>
-      <td style="text-align:center">Improve my ability to make static websites (HTML, CSS and JS), financial
-        bonuses, improving time management and project management capabiltiies
-        and to manage my workload better</td>
-      <td style="text-align:center">
-        <p>(Actual)</p>
-        <p></p>
-        <p>Due:</p>
-        <p>1/1/2021</p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Life's Sub-Component | **Goal** | Details | Completed Date |
+| :---: | :---: | :---: | :---: |
+| Work & Career | **Deliver a finished freelance project** | Completed 2 months early, I am happy with how the website turned out. Can view [here](https://michaelbingham.co.uk/). Still intend to work with client to make improvements to the website in the future. Bonuses were financial as well as technical experience, along with project management and communication. | 1/11/2020 |
 
 ## 
 
