@@ -3,6 +3,7 @@
 ## Foundation Programming
 
 * [x] Exam \(**26 Oct**\)
+  * [x] 98%
 * [ ] Project 1 \(**16 Nov**\)
 * [ ] Project 2
 
@@ -22,8 +23,9 @@
 * [ ] Portfolio
   * [x] PDP
   * [x] Skills Audit
-* [ ] [Group Presentation](group-work/)
+* [ ] Group Presentation \(**12 Nov**\)
   * [x] Groups allocated \(via Belbin\)
+  * [ ] Research done, with Harvard referencing style
   * [ ] Powerpoint made
   * [ ] Powerpoint test runs
   * [ ] Powerpoint presented
