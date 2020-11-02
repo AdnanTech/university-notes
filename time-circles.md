@@ -2,7 +2,14 @@
 
 These are my time circles, where I will experiment recording my events, in the form of time, during a 24 hour period, in order to get better at time management.This test begins the week beginning 26/10/2020 and will end  1/11/2020
 
-## 1/11/2020
+## 02/11/2020
+
+![](.gitbook/assets/prediction-02-11-2020.png)
+
+### Evaluation
+
+* 
+## 01/11/2020
 
 ![](.gitbook/assets/prediction-01-11-2020.png)
 
@@ -10,7 +17,7 @@ These are my time circles, where I will experiment recording my events, in the f
 
 * After an unproductive Saturday, I figured I should catchup on the Sunday
 * Did my pre reading
-* Cleaned my room
+* Cleaned my room a little
 * Got in a workout
 
 ## 31/10/2020
