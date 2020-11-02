@@ -15,6 +15,7 @@
     * [Introduction](assesments/group-work/introduction.md)
     * [Turing Test](assesments/group-work/turing-test.md)
   * [Learning Diary](assesments/learning-diary/README.md)
+    * [Week six](assesments/learning-diary/week-six.md)
     * [Week five](assesments/learning-diary/week-five.md)
     * [Week four](assesments/learning-diary/week-four.md)
     * [Week three](assesments/learning-diary/week-three.md)
