@@ -2,9 +2,6 @@
 
 * [Meta](README.md)
 * [Workflow](workflow.md)
-* [Time Circles](time-circles.md)
-* [SMART Goals](smart-goals-1/README.md)
-  * [SMART Goals Explained](smart-goals-1/smart-goals-explained.md)
 
 ## Admin
 
@@ -20,7 +17,6 @@
     * [Week four](assesments/learning-diary/week-four.md)
     * [Week three](assesments/learning-diary/week-three.md)
     * [Week one/two](assesments/learning-diary/week-one-two.md)
-  * [PDP](assesments/pdp.md)
   * [Programming Assignment 1](assesments/programming-assignment-1.md)
   * [Richard's Style Rules for C Programming](assesments/richards-style-rules-for-c-programming.md)
 
@@ -49,7 +45,9 @@
       * [MYSYS2 & Clang](notes/foundation-year-modules/autumn/foundation-programming/mysys2-and-clang.md)
     * [Communication and Learning Skills](notes/foundation-year-modules/autumn/communication-and-learning-skills/README.md)
       * [Module Overview](notes/foundation-year-modules/autumn/communication-and-learning-skills/module-overview.md)
+      * [Time Circles](notes/foundation-year-modules/autumn/communication-and-learning-skills/time-circles.md)
       * [PDP/Target Setting \(SMART\) and Reflection](notes/foundation-year-modules/autumn/communication-and-learning-skills/untitled.md)
+      * [SMART Goals](notes/foundation-year-modules/autumn/communication-and-learning-skills/smart-goals-explained.md)
       * [Portfolio](notes/foundation-year-modules/autumn/communication-and-learning-skills/portfolio/README.md)
         * [Portfolio Review](notes/foundation-year-modules/autumn/communication-and-learning-skills/portfolio/portfolio-review.md)
       * [Group Presentation](notes/foundation-year-modules/autumn/communication-and-learning-skills/group-presentation.md)

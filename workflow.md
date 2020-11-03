@@ -1,13 +1,21 @@
 # Workflow
 
-### Meta
+## Meta
+
+### Current Integration
 
 * \*\*\*\*[**Trello** ](https://trello.com/b/n5R1j8pH/to-do)for To Do list
 * \*\*\*\*[**Google Calendar**](https://calendar.google.com/calendar/u/1/r) for time management
 * \*\*\*\*[**GitHub** ](https://github.com/AdnanTech/UniversityOfSussex)as a form of Version Control for in-class work
-* \*\*\*\*[**GitBook** ](https://adnantech.gitbook.io/university-notes/)for Notes
+* \*\*\*\*[**GitBook** ](https://adnantech.gitbook.io/university-notes/)for Public Notes
+* \*\*\*\*[**Notion** ](https://www.notion.so/)for Personal Notes
+
+### Future Integration
+
 * \*\*\*\*[**MindNode**](https://github.com/AdnanTech/UniversityOfSussex/blob/master/Revision/Foundation%20Year%20Computer%20Science.pdf) ****for Brief Summary
 * \*\*\*\*[**Quizlet** ](https://quizlet.com/AdnanTech/folders/foundation-year/sets)for Revision
+
+## Module Workflow
 
 ### Foundation Programming
 
