@@ -98,4 +98,5 @@
     * [Mathematics for Computing 2](notes/foundation-year-modules/spring/mathematics-for-computing-2.md)
     * [Program Design](notes/foundation-year-modules/spring/program-design.md)
   * [Computing Project](notes/foundation-year-modules/computing-project.md)
+  * [Extra](notes/foundation-year-modules/extra.md)
 
