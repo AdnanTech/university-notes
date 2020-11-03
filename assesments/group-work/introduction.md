@@ -15,3 +15,17 @@ I care to ponder the question:
 
 This is the question we are going to answer in our presentation. We will touch on the Turing test, the origins of chatbot technology, where we are today with chatbot technology, and the future of chatbot technology.
 
+## Refactored
+
+I care to ponder the question:
+
+### **How has the technology behind Conversational AI Chatbots has changed since its creation?**
+
+This is the question we are going to answer in our presentation. To start explaining chatbots, we will need to cover:
+
+* The origin of the Turing test, what the Turing Test is about, and it's significance on chatbot technology. 
+* This will help us explain the origins of chatbot technology, along with where we are today with chatbot technology, and the future of chatbot technology.
+* To aid us with explanation, we will cover 2 case studies of chatbots. One being more recent, and the other case study dating back to older times, towards to origins of chatbots.
+
+
+

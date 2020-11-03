@@ -5,6 +5,7 @@
 ### Current Integration
 
 * \*\*\*\*[**Trello** ](https://trello.com/b/n5R1j8pH/to-do)for To Do list
+* \*\*\*\*[**Habitica**](https://habitica.com/)\*\*\*\*[ ](https://habitica.com/)for habit tracking
 * \*\*\*\*[**Google Calendar**](https://calendar.google.com/calendar/u/1/r) for time management
 * \*\*\*\*[**GitHub** ](https://github.com/AdnanTech/UniversityOfSussex)as a form of Version Control for in-class work
 * \*\*\*\*[**GitBook** ](https://adnantech.gitbook.io/university-notes/)for Public Notes

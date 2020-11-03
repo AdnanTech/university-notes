@@ -45,6 +45,10 @@ That by the 21st century \(year 2000\), Turing predicted a machine \(with 100MB 
 
 Chatbots are dialogue systems that could have some sort of purposeful interaction with a human through text or speech. In the research community, the term “chat” has come to refer to non–goal-directed interaction, the way two people might talk to each other at a party.
 
+### Why is the Turing Test important for Chatbots?
+
+Because it is the benchmark of how advanced a chatbot is. If it can pass the Turing test, arguably it can be deemed as imitating human qualities down to a T, in machine form.
+
 ### What are limitations?
 
 Until a chatbot truly has every human behaviour, I think it will be possible, maybe difficult in the future, but definitely possible to tell the difference.
@@ -73,4 +77,12 @@ Until a chatbot truly has every human behaviour, I think it will be possible, ma
 
 * [Turing's paper](https://academic.oup.com/mind/article/LIX/236/433/986238)
 * [Wikipage for Turing test](https://en.wikipedia.org/wiki/Turing_test)
+
+## References
+
+A.M.Turing \(October 1950\) \(paper title\) COMPUTING MACHINERY AND INTELLIGENCE, \(Journal title\) _Imitation game,_ \(Volume \(issue number\)\) 59\(1\), pp. 1-100 \(or however many pages\)
+
+A.M.Turing \(October 1950\) _COMPUTING MACHINERY AND INTELLIGENCE_,  59\(1\), pp. 1-100
+
+
 
