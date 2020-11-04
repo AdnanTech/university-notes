@@ -8,7 +8,7 @@ Turing defined intelligence as the ability to achieve human-level performance in
 
 ### What exactly are the human intelligent behaviours?
 
-This conversation can be controversial, and ambiguous to define, but to try and answer it for **reference sake**, human **intelligence behaviours** can be linked ine one way to Gardner's papers. Howard Gardner, a famous physcholgist researcher, suggested people can have multiple intelligences, \(from his book [multiple intelligences](https://archive.org/details/multipleintellig00gard_0)\), a short summary of them would be as follows:
+This conversation can be controversial, and ambiguous to define, but to try and answer it for **reference sake**, human **intelligence behaviours** can be linked ine one way to Gardner's papers. Howard Gardner, a famous physcholgist researcher, suggested people can have multiple intelligences, \(from his book [multiple intelligences](https://archive.org/details/multipleintellig00gard_0)\), a short summary of them would be as follows: \(taken from \(_article summarising Howard Gardener's theory of multiple inteligences, Kendra Cherry\)_\):
 
 * **Linguistic intelligence**: People high in linguistic intelligence have an affinity for words, both spoken and written.
 * **Logical-mathematical intelligence**: It implies logical and mathematical abilities.
@@ -18,6 +18,8 @@ This conversation can be controversial, and ambiguous to define, but to try and 
 * **Interpersonal intelligence**: The ability to see things from the perspective of others, or to understand people in the sense of empathy. Strong interpersonal intelligence would be an asset in those who are teachers, politicians, clinicians, religious leaders, etc.
 * **Intrapersonal intelligence:** It is a capacity to form an accurate, veridical model of oneself and to be able to use that model to operate effectively in life.
 *  **Naturalist intelligence:** The recognition and classification of the numerous species—the flora and fauna—of his or her environment.
+
+\_\_
 
 **Is this the definitive way to define the human intelligence types? No one really knows what human intelligence is, as it's an ambiguous term.**
 
@@ -35,7 +37,7 @@ The imitation game is a game of three players, having three entities, two humans
 
 ### The Turing test and Chatbots in the present
 
-The Turing test **relates** to the chatbots because it essentially sets the milestones for how "good" chatbots are and can be. However, the Turing test was designed to be text-only, thus adding speech rendering, like we have today, adds a layer of complexity to the test and how we need to be evaluating machine intelligence and human intelligence alike. Turing used engineering philosophies so we could measure the progress of chatbot innovation and evolution.
+~~The Turing test **relates** to the chatbots because it essentially sets the milestones for how "good" chatbots are and can be. However, the Turing test was designed to be text-only, thus adding speech rendering, like we have today, adds a layer of complexity to the test and how we need to be evaluating machine intelligence and human intelligence alike. Turing used engineering philosophies so we could measure the progress of chatbot innovation and evolution.~~
 
 For example, Siri commonly known as an A.I personal assistant, which I will refer to as a chatbot \(perhaps it was labelled personal assistant to seem more human?\) for this case, that has pretty good comprehension levels. But, there are areas Siri can be clearly distinguishable to a human. For example, In earlier versions of Siri, saying "Hey Siri, Call me an ambulance", will store your nickname to Siri as 'ambulance' and not actually call an ambulance in your time of need, this shows extremely low levels of comprehension compared to a human. As well as this, Siri's voice has a specific pitch and linguistic structure that is generally not close to a human's.
 
