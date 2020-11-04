@@ -31,19 +31,21 @@ I believe the reason he rewired the question is because of the fundamental idea 
 
 ### Imitation game
 
-The imitation game is a game of three players, having three entities, two humans and one computer, the human interrogator isolated from other two players. The interrogator job is to try and figure out _which one_ is **human** and which one is **computer** by asking questions from both of them. To make the things harder computer is trying to make the interrogator guess wrongly. In other words, the machine would try to be as indistinguishable from human as much as possible.
+The imitation game is a game of which consists of three three entities, on one side, a machine and a human. On the other side, one human interrogator that is isolated from other two entities. The interrogator's job is to try and figure out _which_ of the entities is **human** and which one is **machine** by asking questions in typewritten form, to both of them. To make the things harder computer is trying to make the interrogator guess wrongly, in the midst of the human trying to help the interrogator differentiate between herself and the machine. 
+
+The machine's objective is to be as indistinguishable from human as much as possible. If the interregator is wrong in his decision of whom the entity is after 5 minutes, then the machine is considered to have passed the Turing test. \(_A. M. TURING, I.—COMPUTING MACHINERY AND INTELLIGENCE, page 433\)_
 
 ![The imitation game diagram \(Shubham Bansal, geeksforgeeks article\)](../../.gitbook/assets/image%20%2813%29.png)
 
 ### The Turing test and Chatbots in the present
 
-~~The Turing test **relates** to the chatbots because it essentially sets the milestones for how "good" chatbots are and can be. However, the Turing test was designed to be text-only, thus adding speech rendering, like we have today, adds a layer of complexity to the test and how we need to be evaluating machine intelligence and human intelligence alike. Turing used engineering philosophies so we could measure the progress of chatbot innovation and evolution.~~
+The Turing test relates to the chatbots because it essentially sets the milestones for how "good" chatbots are and can be. However, the Turing test was designed to be text-only, thus adding speech rendering, like we have today, adds a layer of complexity to the test and how we need to be evaluating machine intelligence and human intelligence alike. Turing used engineering philosophies so we could measure the progress of chatbot innovation and evolution, setting benchmarks along the way for effectiveness of chatbots.
 
 For example, Siri commonly known as an A.I personal assistant, which I will refer to as a chatbot \(perhaps it was labelled personal assistant to seem more human?\) for this case, that has pretty good comprehension levels. But, there are areas Siri can be clearly distinguishable to a human. For example, In earlier versions of Siri, saying "Hey Siri, Call me an ambulance", will store your nickname to Siri as 'ambulance' and not actually call an ambulance in your time of need, this shows extremely low levels of comprehension compared to a human. As well as this, Siri's voice has a specific pitch and linguistic structure that is generally not close to a human's.
 
 ### Turing's predictions for AI
 
-That by the 21st century \(year 2000\), Turing predicted a machine \(with 100MB storage\) will fool 30% of humans in a 5 minute test. He also suggested people will no longer consider the phrase thinking machine contradictory. As well as putting forward machine learning will be important. _\(A. M. TURING, I.—COMPUTING MACHINERY AND INTELLIGENCE, page 442\)_
+That by the 21st century \(year 2000\), **Turing predicted a machine with 100MB \(10^9 bits\) storage will fool 30% of interregators in a 5 minute test.** He also suggested people will no longer consider the phrase thinking machine contradictory. As well as putting forward machine learning will be important. _\(A. M. TURING, I.—COMPUTING MACHINERY AND INTELLIGENCE, page 442\)_
 
 ### What is a chatbot?
 
