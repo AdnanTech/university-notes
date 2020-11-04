@@ -36,7 +36,7 @@ Using the header file **string.h**, we can add some pre built functions to manip
 
 The function scanf\(\) converts keyboard input strings into various formats using field specifiers eg %d.The functions atoi\(\), atoll\(\) and atof\(\) do something similar with strings stored in memory. Using the header file **stdlib.h**. Functions like **itoa\(\)** convert in the opposite direction as shown in the code base.
 
-itoa\(\) can converts a number into a strong of a different digit base. Binary, to hexadecimal, to octal or to denary. Examples on code base.
+itoa\(\) can converts a number into a strong of a different digit base. Binary, to hexadecimal, to octal or to denary. itoa\(\) is also a good function to print the reverse of numbers. Examples on code base.
 
 ### strlen\(\)
 
@@ -53,6 +53,8 @@ Also used in string.h, the function is used to compare 2 strings.
 * fgets\(\) uses file concepts. The keyboard is the input, and the screen is the output. fgets\(\) also guards against buffer overflow
 * [String Input conversion](http://www.gnu.org/software/libc/manual/html_node/String-Input-Conversions.html) - essentially regex to normalise scanf input
 * To check equality of strings, since we can't apply relational operators to whole strings. Instead, we check each caracter one by one, to validate if they are the same.
+* scanf\("%10\[^\n\]\) is a string literal - the 10 - cannot be changed, thus the max number of characters the scanf can take and store is 9, as we need one character for the null terminator. In these cases, where the size is variable, we can use fgets instead
+* itoa\(\) stands for int to ascii \(string\)
 
 ## String Functions
 

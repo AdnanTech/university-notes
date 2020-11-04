@@ -4,11 +4,11 @@
 
 ### What is the Turing Test?
 
-Turing defined intelligence as the ability to achieve human-level performance in al cognitive tasks, sufficient to fool an interrogator. Thus the interrogation game \(The Turing test\), was made. The Turing test is a test of a machine's ability to exhibit **intelligent behaviour** equivalent to, or indistinguishable from, that of a human. It still acts as the benchmark for machine intelligence as we see it today. The conversation during the test would be limited to a **text-only** channel such as a computer keyboard and screen so the result would **not** depend on the machine's ability to _render words as speech_. Although in recent times, we assume a machine must be able to render words as speech?
+Turing defined intelligence as the ability to achieve human-level performance in al cognitive tasks, sufficient to fool an interrogator \(Turing's paper page 433\). Thus the interrogation game \(The Turing test\), was made. The Turing test is a test of a machine's ability to exhibit **intelligent behaviour** equivalent to, or indistinguishable from, that of a human. It still acts as the benchmark for machine intelligence as we see it today. The conversation during the test would be limited to a **text-only** channel _\(A. M. TURING, I.—COMPUTING MACHINERY AND INTELLIGENCE, page 434\)_ such as a computer keyboard and screen so the result would **not** depend on the machine's ability to _render words as speech_. Although in recent times, we assume a machine must be also be able to render words as speech, to pass the Turing Test.
 
 ### What exactly are the human intelligent behaviours?
 
-This conversation can be controversial, and ambigous to define, but to try and answer it for reference sake, human **intelligence behaviours** can be linked close to Gardner's papers. Howard Gardner, a famous physcholgist researcher, suggested people can have multiple intellgiences, \(from his book [multiple intelligences](https://archive.org/details/multipleintellig00gard_0)\), a short summary of them would be as follows:
+This conversation can be controversial, and ambiguous to define, but to try and answer it for **reference sake**, human **intelligence behaviours** can be linked ine one way to Gardner's papers. Howard Gardner, a famous physcholgist researcher, suggested people can have multiple intelligences, \(from his book [multiple intelligences](https://archive.org/details/multipleintellig00gard_0)\), a short summary of them would be as follows:
 
 * **Linguistic intelligence**: People high in linguistic intelligence have an affinity for words, both spoken and written.
 * **Logical-mathematical intelligence**: It implies logical and mathematical abilities.
@@ -19,39 +19,45 @@ This conversation can be controversial, and ambigous to define, but to try and a
 * **Intrapersonal intelligence:** It is a capacity to form an accurate, veridical model of oneself and to be able to use that model to operate effectively in life.
 *  **Naturalist intelligence:** The recognition and classification of the numerous species—the flora and fauna—of his or her environment.
 
+**Is this the definitive way to define the human intelligence types? No one really knows what human intelligence is, as it's an ambiguous term.**
+
 ### Rewiring the question "Can machines think?" 
 
-Turing stated that the question "can machines think?" is too vague, instead he proposed the concept of the "imitation game" instead, which a lot more "unambigous" than the former question, as it is based on intelligent human behaviour, rather than raw intelligence, as raw intelligence is arguably unbound.
+Turing stated that the question "can machines think?" is too vague, instead he proposed the concept of the "imitation game" instead, which a lot more "unambiguous" than the former question, as it is based on intelligent human behaviour, rather than raw intelligence, as raw intelligence is arguably unbound. _\(A. M. TURING, I.—COMPUTING MACHINERY AND INTELLIGENCE, page 433\)_
 
-The reason he rewired the question is because of the fundamental idea that engineering requires tests to measure progress, a question in which the answer cannot be measured with truths is difficult to pursue and answer.
+I believe the reason he rewired the question is because of the fundamental idea that engineering requires tests to measure progress, a question in which the answer cannot be measured with truths is difficult to pursue and answer.
 
 ### Imitation game
 
-The imitation game is a game of three players, having three entities, two humans and one computer, the human interrogator isolated from other two players. The interrogator job is to try and figure out _which one_ is **human** and which one is **computer** by asking questions from both of them. To make the things harder computer is trying to make the interrogator guess wrongly. In other words computer would try to indistinguishable from human as much as possible.
+The imitation game is a game of three players, having three entities, two humans and one computer, the human interrogator isolated from other two players. The interrogator job is to try and figure out _which one_ is **human** and which one is **computer** by asking questions from both of them. To make the things harder computer is trying to make the interrogator guess wrongly. In other words, the machine would try to be as indistinguishable from human as much as possible.
 
-![The imitation game](../../.gitbook/assets/image%20%2813%29.png)
+![The imitation game diagram \(Shubham Bansal, geeksforgeeks article\)](../../.gitbook/assets/image%20%2813%29.png)
 
 ### The Turing test and Chatbots in the present
 
-The Turing test **relates** to the chatbots because it essentailly sets the milestones for how "good" chatbots are and can be. However, the Turing test was designed to be text-only, thus adding speech rendering, like we have today, adds a layer of complexity to the test and how we need to be evaluating machine intelligence and human intelligence alike.
+The Turing test **relates** to the chatbots because it essentially sets the milestones for how "good" chatbots are and can be. However, the Turing test was designed to be text-only, thus adding speech rendering, like we have today, adds a layer of complexity to the test and how we need to be evaluating machine intelligence and human intelligence alike. Turing used engineering philosophies so we could measure the progress of chatbot innovation and evolution.
 
 For example, Siri commonly known as an A.I personal assistant, which I will refer to as a chatbot \(perhaps it was labelled personal assistant to seem more human?\) for this case, that has pretty good comprehension levels. But, there are areas Siri can be clearly distinguishable to a human. For example, In earlier versions of Siri, saying "Hey Siri, Call me an ambulance", will store your nickname to Siri as 'ambulance' and not actually call an ambulance in your time of need, this shows extremely low levels of comprehension compared to a human. As well as this, Siri's voice has a specific pitch and linguistic structure that is generally not close to a human's.
 
 ### Turing's predictions for AI
 
-That by the 21st century \(year 2000\), Turing predicted a machine \(with 100MB storage\) will fool 30% of humans in a 5 minute test. He also suggested people will no longer consider the phrase thinking machine contradictory. As well as putting forward machine learning will be important
+That by the 21st century \(year 2000\), Turing predicted a machine \(with 100MB storage\) will fool 30% of humans in a 5 minute test. He also suggested people will no longer consider the phrase thinking machine contradictory. As well as putting forward machine learning will be important. _\(A. M. TURING, I.—COMPUTING MACHINERY AND INTELLIGENCE, page 442\)_
 
 ### What is a chatbot?
 
-Chatbots are dialogue systems that could have some sort of purposeful interaction with a human through text or speech. In the research community, the term “chat” has come to refer to non–goal-directed interaction, the way two people might talk to each other at a party.
+Originally chatbots, short for chatterbots, were dialogue systems that could have some sort of purposeful interaction with a human through text or speech. In the research community, the term “chat” has come to refer to non–goal-directed interaction, the way two people might talk to each other at a party. _\(Matthew Hutson, sciencemag article\)_
 
-### Why is the Turing Test important for Chatbots?
+### Why is the Turing Test important for chatbots?
 
-Because it is the benchmark of how advanced a chatbot is. If it can pass the Turing test, arguably it can be deemed as imitating human qualities down to a T, in machine form.
+Because it is the benchmark of how advanced a chatbot is. If it can pass the Turing test, arguably it can be deemed as imitating human qualities down to a T, in machine form. Turing also used the engineering approach that we cannot create anything close to human skin, and thus the right way to measure if a machine can have human intelligent behaviour, would be using his imitation game technique _\(A. M. TURING, I.—COMPUTING MACHINERY AND INTELLIGENCE, page 434\)_
 
-### What are limitations?
+### What are current limitations of chatbots?
 
 Until a chatbot truly has every human behaviour, I think it will be possible, maybe difficult in the future, but definitely possible to tell the difference.
+
+### Human Intelligence vs Intelligence
+
+Human intelligence is bound. Even though it cannot be defined. Where as intelligence, can be unbound, suggesting one day a machine, if it has enough comprehension, will be able to surpass human intelligence and beyond extremely easily.
 
 ## Reading List
 
@@ -75,14 +81,15 @@ Until a chatbot truly has every human behaviour, I think it will be possible, ma
 
 ## Sources
 
-* [Turing's paper](https://academic.oup.com/mind/article/LIX/236/433/986238)
-* [Wikipage for Turing test](https://en.wikipedia.org/wiki/Turing_test)
+[https://www.sciencemag.org/news/2017/06/when-will-alexa-google-assistant-and-other-chatbots-finally-talk-us-real-people](https://www.sciencemag.org/news/2017/06/when-will-alexa-google-assistant-and-other-chatbots-finally-talk-us-real-people), what is a chatbot?/chatbot definition, written by Matthew Hutson,  posted Jun. 20, 2017 , 12:45 PM, accessed 04/11/2020
+
+[https://www.geeksforgeeks.org/turing-test-artificial-intelligence/](https://www.geeksforgeeks.org/turing-test-artificial-intelligence/) diagram of imitation game, written by  Shubham Bansal, last updated Feb. 7, 2018, accessed 04/11/2020 
 
 ## References
 
-A.M.Turing \(October 1950\) \(paper title\) COMPUTING MACHINERY AND INTELLIGENCE, \(Journal title\) _Imitation game,_ \(Volume \(issue number\)\) 59\(1\), pp. 1-100 \(or however many pages\)
+A. M. TURING, I.—COMPUTING MACHINERY AND INTELLIGENCE, _Mind_, Volume LIX, Issue 236, October 1950, Pages 433–460, [https://doi.org/10.1093/mind/LIX.236.433](https://doi.org/10.1093/mind/LIX.236.433), accessed 04/11/2020
 
-A.M.Turing \(October 1950\) _COMPUTING MACHINERY AND INTELLIGENCE_,  59\(1\), pp. 1-100
+
 
 
 
