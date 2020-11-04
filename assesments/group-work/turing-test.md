@@ -59,6 +59,12 @@ Until a chatbot truly has every human behaviour, I think it will be possible, ma
 
 Human intelligence is bound. Even though it cannot be defined. Where as intelligence, can be unbound, suggesting one day a machine, if it has enough comprehension, will be able to surpass human intelligence and beyond extremely easily.
 
+## Intelligence
+
+General intelligence can be defined as a general mental ability for reasoning, problem solving, and learning. Because of its general nature, intelligence integrates cognitive functions such as perception, attention, memory, language, or planning.
+
+Human intelligence consists of reasoning, problem solving, and learning. People can reason about virtually any issue, and many problems may be solved _\(Human intelligence and brain networks, page 489\)_
+
 ## Reading List
 
 * [Turing's paper](https://academic.oup.com/mind/article/LIX/236/433/986238)
@@ -81,15 +87,17 @@ Human intelligence is bound. Even though it cannot be defined. Where as intellig
 
 ## Sources
 
-[https://www.sciencemag.org/news/2017/06/when-will-alexa-google-assistant-and-other-chatbots-finally-talk-us-real-people](https://www.sciencemag.org/news/2017/06/when-will-alexa-google-assistant-and-other-chatbots-finally-talk-us-real-people), what is a chatbot?/chatbot definition, written by Matthew Hutson,  posted Jun. 20, 2017 , 12:45 PM, accessed 04/11/2020
+[https://www.sciencemag.org/news/2017/06/when-will-alexa-google-assistant-and-other-chatbots-finally-talk-us-real-people](https://www.sciencemag.org/news/2017/06/when-will-alexa-google-assistant-and-other-chatbots-finally-talk-us-real-people), what is a chatbot?/chatbot definition, written by Matthew Hutson,  posted Jun. 20, 2017, 12:45 PM, accessed 04/11/2020
 
 [https://www.geeksforgeeks.org/turing-test-artificial-intelligence/](https://www.geeksforgeeks.org/turing-test-artificial-intelligence/) diagram of imitation game, written by  Shubham Bansal, last updated Feb. 7, 2018, accessed 04/11/2020 
+
+[https://www.verywellmind.com/gardners-theory-of-multiple-intelligences-2795161](https://www.verywellmind.com/gardners-theory-of-multiple-intelligences-2795161) article summarising Howard Gardener's theory of multiple inteligences, written by Kendra Cherry, last updated July 17, 2019, accessed 04/11/2020
 
 ## References
 
 A. M. TURING, I.—COMPUTING MACHINERY AND INTELLIGENCE, _Mind_, Volume LIX, Issue 236, October 1950, Pages 433–460, [https://doi.org/10.1093/mind/LIX.236.433](https://doi.org/10.1093/mind/LIX.236.433), accessed 04/11/2020
 
-
+Colom R, Karama S, Jung RE, Haier RJ. Human intelligence and brain networks. Dialogues Clin Neurosci. 2010;12\(4\):489-501. PMID: 21319494; PMCID: PMC3181994, [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3181994/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3181994/), accessed 04/11/2020
 
 
 

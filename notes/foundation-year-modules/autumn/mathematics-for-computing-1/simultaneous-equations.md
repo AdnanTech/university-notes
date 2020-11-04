@@ -33,5 +33,9 @@ The options for solving 2 equations simultaneously:
 2. 1 real root \(1 intersection\)
 3. no real roots \(no solutions as the equations never meet\)
 
+## Lecture Notes
+
+
+
 
 
