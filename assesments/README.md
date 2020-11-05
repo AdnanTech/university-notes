@@ -50,7 +50,7 @@
 ## Computing Project
 
 * [ ] Project
-  * [ ] Report \(1500 Words\) \(26 Nov\)
+  * [ ] Report \(1500 Words\) \(**26 Nov**\)
   * [ ] Presentation \(10 Mins\) 
   * [ ] Report \(4000 Words\) \(19 May\)
 

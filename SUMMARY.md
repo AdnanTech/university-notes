@@ -19,6 +19,8 @@
     * [Week three](assesments/learning-diary/week-three.md)
     * [Week one/two](assesments/learning-diary/week-one-two.md)
   * [Programming Assignment 1](assesments/programming-assignment-1.md)
+  * [Computing Project Report](assesments/computing-project-report/README.md)
+    * [Overview](assesments/computing-project-report/overview.md)
   * [Richard's Style Rules for C Programming](assesments/richards-style-rules-for-c-programming.md)
 
 ## Notes
@@ -86,6 +88,7 @@
         * [Selectors and Positioning](notes/foundation-year-modules/autumn/computing-project/introduction-to-css-cascading-style-sheets/selectors-and-positioning.md)
         * [W3Schools Quiz](notes/foundation-year-modules/autumn/computing-project/introduction-to-css-cascading-style-sheets/w3schools-quiz.md)
         * [CSS Worksheet](notes/foundation-year-modules/autumn/computing-project/introduction-to-css-cascading-style-sheets/css-worksheet.md)
+        * [Lists](notes/foundation-year-modules/autumn/computing-project/introduction-to-css-cascading-style-sheets/lists.md)
       * [Images](notes/foundation-year-modules/autumn/computing-project/images.md)
       * [Artificial Intelligence](notes/foundation-year-modules/autumn/computing-project/artificial-intelligence/README.md)
         * [Introduction to AI Concepts](notes/foundation-year-modules/autumn/computing-project/artificial-intelligence/introduction-to-ai-concepts.md)
