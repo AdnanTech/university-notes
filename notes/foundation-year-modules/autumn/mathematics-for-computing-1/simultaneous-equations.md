@@ -6,8 +6,8 @@ Simultaneous equations are used a lot in the [finance field](https://sciencing.c
 
 There are 2 main ways of solving simultaneous equations:
 
-1. The graphical method
-2. The algebraic method
+1. **The graphical method**
+2. **The algebraic method**
 
 ## The Graphical Method
 
@@ -17,7 +17,7 @@ Draw a graph with both of the equations on. Where they meet, is where both equat
 
 This is where you times, or divide one of the equations to get some of the same co-effecients, then minus one from another. This also finds the solutions as you end up with one equation that will satisfy both equations. The advantage of this method is you do not need to draw a graph, thus faster in most cases, especially when you have more than 2 variables. If we have, for example, 3 variables, we have to assume that all 3 equations are different, otherwise it cannot be solved. In addition, there are cases when algebra does not work, for example when lines are parrallel, you will get faulty algebra. As with this method, you rely on the graphs definitely having a solution at a point, where they cross.
 
-## Pre reading lecture 2
+## The discriminant
 
 Quadratics and linear are both solved using those 2 methods above.
 
@@ -33,9 +33,15 @@ The options for solving 2 equations simultaneously:
 2. 1 real root \(1 intersection\)
 3. no real roots \(no solutions as the equations never meet\)
 
+Based on the equation b^2 - 4ac
+
 ## Lecture Notes
 
+Solving quadratics simultaneously is the same as solving linear equations simultaneously. Using substitution, or graphically.
 
+square root of x is NOT a function
+
+when messing with the square root of x in a simultaneous equation, the ideal scenario is if you square the equation\(s\) so that the square x no longer exists. Or you could substitute root x for z and solve that way_. In that case, root x is plus or minus, so you have to be careful with the substitution, as there will be 2 values, but they may be in the same value or both values since root is plus or minu_s. __Hence the method without square roots is easier. Or perhaps also use a graph to validate the answers
 
 
 
