@@ -19,8 +19,7 @@
     * [Week three](assesments/learning-diary/week-three.md)
     * [Week one/two](assesments/learning-diary/week-one-two.md)
   * [Programming Assignment 1](assesments/programming-assignment-1.md)
-  * [Computing Project Report](assesments/computing-project-report/README.md)
-    * [Overview](assesments/computing-project-report/overview.md)
+  * [Computing Project Report](assesments/computing-project-report.md)
   * [Richard's Style Rules for C Programming](assesments/richards-style-rules-for-c-programming.md)
 
 ## Notes
