@@ -33,7 +33,7 @@ I believe the reason he rewired the question is because of the fundamental idea 
 
 The imitation game is a game of which consists of three three entities, on one side, a machine and a human. On the other side, one human interrogator that is isolated from other two entities. The interrogator's job is to try and figure out _which_ of the entities is **human** and which one is **machine** by asking questions in typewritten form, to both of them. To make the things harder computer is trying to make the interrogator guess wrongly, in the midst of the human trying to help the interrogator differentiate between herself and the machine. 
 
-The machine's objective is to be as indistinguishable from human as much as possible. If the interregator is wrong in his decision of whom the entity is after 5 minutes, then the machine is considered to have passed the Turing test. \(_A. M. TURING, I.—COMPUTING MACHINERY AND INTELLIGENCE, page 433\)_
+The machine's objective is to be as indistinguishable from human as much as possible. If the interrogator is wrong in his decision of whom the entity is after 5 minutes, then the machine is considered to have passed the Turing test. \(_A. M. TURING, I.—COMPUTING MACHINERY AND INTELLIGENCE, page 433\)_
 
 ![The imitation game diagram \(Shubham Bansal, geeksforgeeks article\)](../../.gitbook/assets/image%20%2813%29.png)
 
@@ -56,6 +56,8 @@ Originally chatbots, short for chatterbots, were dialogue systems that could hav
 Because it is the benchmark of how advanced a chatbot is. If it can pass the Turing test, arguably it can be deemed as imitating human qualities down to a T, in machine form. Turing also used the engineering approach that we cannot create anything close to human skin, and thus the right way to measure if a machine can have human intelligent behaviour, would be using his imitation game technique _\(A. M. TURING, I.—COMPUTING MACHINERY AND INTELLIGENCE, page 434\)_
 
 ### What are current limitations of chatbots?
+
+The natural language processing is not at the level of a human's to this date. As well as voice. You can make clear distincitons between a human voice and a machine voice.
 
 Until a chatbot truly has every human behaviour, I think it will be possible, maybe difficult in the future, but definitely possible to tell the difference.
 
