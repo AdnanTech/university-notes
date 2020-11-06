@@ -1,14 +1,8 @@
 # Matrices and MATLAB
 
-MATLAB can be integrated with C
-
-* [https://www.mathsisfun.com/algebra/matrix-introduction.html](https://www.mathsisfun.com/algebra/matrix-introduction.html)
-
-## Pre Reading
-
 ## Matrices
 
- A **matrix** is an array of numbers represented in columns and rows, an example is below.
+ A [**matrix** ](https://www.mathsisfun.com/algebra/matrix-introduction.html)is an array of numbers represented in columns and rows, an example is below.
 
 ![A 2x2 matrix](../../../../.gitbook/assets/image%20%2817%29.png)
 
@@ -51,4 +45,18 @@ Example
 ### Rotating a matrix \(Geometry\)
 
 ![](../../../../.gitbook/assets/image%20%2823%29.png)
+
+## MATLAB
+
+
+
+MATLAB can be integrated with the programming language C
+
+* Download MATLAB [here](http://www.sussex.ac.uk/its/services/software/owncomputer/matlab_student)
+
+3 by 3 matrix grid:
+
+x = \[1, 2, 3; 4, 5, 6; 7, 8, 9\]
+
+imagesc\(var\) will print an colour image of the data. It's an image function
 
