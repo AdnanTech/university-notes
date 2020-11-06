@@ -25,8 +25,8 @@
   * [x] Skills Audit
 * [ ] Group Presentation \(**12 Nov**\)
   * [x] Groups allocated \(via Belbin\)
-  * [ ] Research done, with Harvard referencing style
-  * [ ] Powerpoint made
+  * [x] Research done, with Harvard referencing style
+  * [x] Powerpoint made
   * [ ] Powerpoint test runs
   * [ ] Powerpoint presented
   * [ ] Report made
