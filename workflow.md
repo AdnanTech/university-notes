@@ -1,7 +1,5 @@
 # Workflow
 
-## 
-
 ## Workflow
 
 ### Morning Routine:
