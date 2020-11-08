@@ -1,51 +1,53 @@
 # Workflow
 
-## Meta
+## 
+
+## Workflow
+
+### Morning Routine:
+
+1. Go over yesterday's Journal, extract useful information for reading list or notes
+2. Meditate
+3. Stretch
+
+### Evening Routine:
+
+1. Do some light reading/note taking \(based on reading list\)
+2. Plan next day on google Calendar \(blocks of time must use engineering philosophies to be efficient\)
+3. Assess Trello tasks and constsntly break down tasks into smaller tasks
+4. Assess habitica habits and make adjustments to lifestyle if required, if focus is low, plan for more focus in the upcoming days
+5. Make any additions to journal
+
+### When studying:
+
+1. Cold Turkey ON
+2. Ambient music from mp3's playing
+3. Pomodoro website open
+4. Journalling website open \(to release any tension\)
+
+### When working:
+
+1. Cold Turkey ON \(link to settings for cold Turkey in here\)
+2. Ambient music from mp3's playing
+3. Pomodoro website open
+4. Journaling website open
+
+## Software
 
 ### Current Integration
 
 * \*\*\*\*[**Trello** ](https://trello.com/b/n5R1j8pH/to-do)for To Do list
-* \*\*\*\*[**Habitica**](https://habitica.com/)\*\*\*\*[ ](https://habitica.com/)for habit tracking
-* \*\*\*\*[**Google Calendar**](https://calendar.google.com/calendar/u/1/r) for time management
-* \*\*\*\*[**GitHub** ](https://github.com/AdnanTech/UniversityOfSussex)as a form of Version Control for in-class work
+* \*\*\*\*[**Habitica**](https://habitica.com/)\*\*\*\*[ ](https://habitica.com/)for Habit Tracking
+* \*\*\*\*[**Google Calendar**](https://calendar.google.com/calendar/u/1/r) for Time Management
+* \*\*\*\*[**GitHub** ](https://github.com/AdnanTech/UniversityOfSussex)as a form of Version Control
 * \*\*\*\*[**GitBook** ](https://adnantech.gitbook.io/university-notes/)for Public Notes
 * \*\*\*\*[**Notion** ](https://www.notion.so/)for Personal Notes
+* \*\*\*\*[**Penzu** ](https://penzu.com/)for Journalling
+* \*\*\*\*[**Pomofocus** ](https://pomofocus.io/)for Pomodoro Timer
 
 ### Future Integration
 
 * \*\*\*\*[**MindNode**](https://github.com/AdnanTech/UniversityOfSussex/blob/master/Revision/Foundation%20Year%20Computer%20Science.pdf) ****for Brief Summary
 * \*\*\*\*[**Quizlet** ](https://quizlet.com/AdnanTech/folders/foundation-year/sets)for Revision
-
-## Module Workflow
-
-### Foundation Programming
-
-* \(daily/bi-daily\) 1 Hour pre reading ahead of time 
-* \(post-lecture\) Follow in class code examples and upload to [git repo](https://github.com/AdnanTech/UniversityOfSussex)
-
-### Communication and Learning Skills
-
-* \(daily/bi-daily\) 1 Hour pre reading ahead of time 
-* \(weekly\) Learning Diary Entry \(500 words\)
-* \(daily\) Add to PDP documents
-* \(weekly\) Work on Portfolio \(PHP blog\) \(project space\)
-* \(daily\) 30 mins of Study Skills Hub reading
-
-### Maths For Computing
-
-* \(daily/bi-daily\) 1 Hour pre reading ahead of time
-* \(post-lecture\) Write up notes
-* \(weekly\) Worksheet
-  * Answer and Mark worksheet
-  * Scan \(Office Lens\) and upload to Uni OneDrive
-  * Move from OneDrive \(office lens repo\) to [git repo](https://github.com/AdnanTech/maths-for-computing-worksheets)
-  * Add to worked solutions in [module](notes/foundation-year-modules/autumn/mathematics-for-computing-1/)
-* \(weekly\) Update MindNode with any new formulae or definitons
-* [Math markdown \(KaTeX\)](https://katex.org/docs/supported.html)
-
-### Computing Project
-
-* \(daily/bi-daily\) 2 Hour pre reading ahead of time
-* \(weekly\) Work on \(private\) space for end of year project
-  * Thoroughly break down and design before coding
+* \*\*\*\*[**Personal Website**](https://adnanquisar.com/) for Blogging
 
