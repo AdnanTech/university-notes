@@ -4,7 +4,7 @@
 
 ### Morning Routine:
 
-1. Go over yesterday's Journal, extract useful information for reading list or notes
+1. Go over yesterday's Journal, extract useful information for reading list/notes
 2. Meditate
 3. Stretch
 
