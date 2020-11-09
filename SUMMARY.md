@@ -38,7 +38,7 @@
       * [Macros \(headers\)](notes/foundation-year-modules/autumn/foundation-programming/macros.md)
       * [Strings and String Functions](notes/foundation-year-modules/autumn/foundation-programming/strings-and-string-functions.md)
       * [Passing Arrays and Strings to Functions](notes/foundation-year-modules/autumn/foundation-programming/passing-arrays-to-functions.md)
-      * [Testing Programs](notes/foundation-year-modules/autumn/foundation-programming/testing-programs.md)
+      * [Refactoring Code & Passing Variables](notes/foundation-year-modules/autumn/foundation-programming/testing-programs.md)
       * [Structs and Pointers](notes/foundation-year-modules/autumn/foundation-programming/structs-and-pointers.md)
       * [File Input and Output](notes/foundation-year-modules/autumn/foundation-programming/file-input-and-output.md)
       * [Files](notes/foundation-year-modules/autumn/foundation-programming/files.md)
