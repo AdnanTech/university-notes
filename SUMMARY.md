@@ -92,6 +92,7 @@
       * [Artificial Intelligence](notes/foundation-year-modules/autumn/computing-project/artificial-intelligence/README.md)
         * [Introduction to AI Concepts](notes/foundation-year-modules/autumn/computing-project/artificial-intelligence/introduction-to-ai-concepts.md)
         * [Types Of AI](notes/foundation-year-modules/autumn/computing-project/artificial-intelligence/types-of-ai.md)
+        * [AI Systems](notes/foundation-year-modules/autumn/computing-project/artificial-intelligence/ai-systems.md)
       * [eBusiness and Forms](notes/foundation-year-modules/autumn/computing-project/ebusiness-and-forms.md)
       * [Javascript](notes/foundation-year-modules/autumn/computing-project/javascript.md)
       * [PHP and MYSQL](notes/foundation-year-modules/autumn/computing-project/php-and-mysql.md)
