@@ -54,7 +54,7 @@ Then we can re declare wonRound and roundMatchResults every round
 
 ### Structures
 
-Need to send pointers, as currently the structures are being passed as values, and not references. This means that when the structure is referenced beyond the funciton it is passed to, it will have different values.
+**Need to send pointers**, as currently the structures are being passed as values, and not references. This means that when the structure is referenced beyond the funciton it is passed to, it will have different values.
 
 ### Top Down Design
 

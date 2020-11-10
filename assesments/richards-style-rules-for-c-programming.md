@@ -28,6 +28,7 @@
 * You have add void in the brackets for functions that do not return anything: void function\_name\(**void**\)
 * count variables also must be declared before the block of code
 * Do not use the typedef struct statement found in some books. Using it can lead to confusion when we do C++. My house style is to always use struct identifier.
+* 5 +- 2 lines per function
 * Programs must start with the following multiline comment
   * ```c
     /***********************************************************************
