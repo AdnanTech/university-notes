@@ -12,7 +12,7 @@ A is a 2×2 matrix because it has two rows and two columns. These are the **dime
 
 ### Matricies in sound
 
-All audio files can be represented as an array of numbers. This is called sampling, and better sampling means clearer audio. Better sampling includes the amount of samples as well as the accuracry of samples. Which in theory means that if you input the same array of numbers into your brain, you should experience the same sensation and experience as listening to a song.
+All audio files can be represented as an array of numbers. This is called sampling, and better sampling means clearer audio. Better sampling includes the amount of samples as well as the accuracy of samples. Which in theory means that if you input the same array of numbers into your brain, you should experience the same sensation and experience as listening to a song.
 
 ### Matricies in Images
 
@@ -155,7 +155,7 @@ Kingsley's method for finding the Inverse:
 
 ## The theory of the film the Matrix
 
-The matrix is an interesting film because ithones n the idea that with the right set of computational pwoer and numbers, we can represnt an aritifial world, compeltely paralell to our own. This echos the idea that **the world, with enough abstraction layers, can be represented as an array of numbers**
+The matrix is an interesting film because it hones n the idea that with the right set of computational pwoer and numbers, we can represent an artificial world, compeltely parallel to our own. This echos the idea that **the world, with enough abstraction layers, can be represented as an array of numbers**
 
 ## MATLAB
 
