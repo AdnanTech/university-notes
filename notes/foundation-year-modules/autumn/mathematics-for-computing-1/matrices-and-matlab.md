@@ -153,7 +153,7 @@ Here is the equation above solved with the inverse method:
 
 ![Manipulations so we get the identity matrix on the left hand side](../../../../.gitbook/assets/image%20%2840%29.png)
 
-![The new matrix is the inverse of the original matrix](../../../../.gitbook/assets/image%20%2845%29.png)
+![The new matrix is the inverse of the original matrix, this equation is proof](../../../../.gitbook/assets/image%20%2845%29.png)
 
 ## The theory of the film the Matrix
 
