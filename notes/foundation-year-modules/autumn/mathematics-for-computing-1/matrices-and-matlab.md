@@ -173,3 +173,31 @@ x = \[1, 2, 3; 4, 5, 6; 7, 8, 9\]
 
 imagesc\(var\) will print an colour image of the data. It's an image function
 
+## Seminar notes
+
+| Syntax | Usage |
+| :--- | :--- |
+| \) | Next Column |
+| ; | Next row |
+| : | Select items |
+
+### Example
+
+x + y + z = 5    \|    3x + 2y - z = -2    \|    2x - y + 4z =15
+
+Represnted in matricies:
+
+\[1,1,1;3,2,1;2,-1,4\] \* \[x;y;z\] = \[5;-2;15\]
+
+\[1,1,1;3,2,1;2,-1,4\]^-1 \* \[1,1,1;3,2,1;2,-1,4\] \* \[x;y;z\]  = \[1,1,1;3,2,1;2,-1,4\]^-1 \* \[5;-2;15\]
+
+thus carrying out the calculation
+
+\[1,0,0;0,1,0;0,0,1\]\[x;y;z\] = \[1,1,1;3,2,1;2,-1,4\]^-1 \* \[5;-2;15\]
+
+\[x;y;z\] =\[1,1,1;3,2,1;2,-1,4\]^-1 \* \[5;-2;15\]
+
+Thus we can find x, y and z using MATLAB using the **inv\(matrix 1\)\*\(matrix 2\)** to get an output
+
+Have to learn how to inverse a 2x2 and 3x3 matrix **by hand**
+
