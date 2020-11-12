@@ -76,6 +76,8 @@ Not clear division. Like non matrix maths, division can be abstracted to multipl
 
 The inverse of a matrix can be seen as M^-1. Any matrix multiplied by it's inverse matrix, will give the identity matrix. This one is more like the reciprocal matrix, but we call it the inverse matrix.
 
+**Finding the Inverse**
+
 ![Example 1](../../../../.gitbook/assets/image%20%2819%29.png)
 
 ![Example 2](../../../../.gitbook/assets/image%20%2835%29.png)
@@ -104,28 +106,28 @@ Inverse of a 3x3 matrix:
 
 ### Simultaneous equations
 
-We can represent a multiplacation in matricies with fundamental algebra laws, here is an example of a sumultaneous equation being solved using matricies:
+We can represent a multiplication in matricies with fundamental algebra laws, here is an example of a simultaneous equation being solved using matricies:
 
-![This](../../../../.gitbook/assets/image%20%2836%29.png)
+![This \( 5 and 12 are just arbitrary numbers\)](../../../../.gitbook/assets/image%20%2836%29.png)
 
 ![Set of matricies](../../../../.gitbook/assets/image%20%2841%29.png)
 
 ![Can be represented like this](../../../../.gitbook/assets/image%20%2829%29.png)
 
-### Gaussian elimation
+### Gaussian elimination
 
-Now we can see that the result matrix can be broken down into a subset of smaller matricies. we can use algebra laws to the matricies, as long as they are done on both sies. Like scaling, adding, subtracting and such.
+Now we can see that the result matrix can be broken down into a subset of smaller matricies. we can use algebra laws to the matricies, as long as they are done on both sides. Like scaling, adding, subtracting and such.
 
 The task of Gaussian elimination \(also called Gauss Jordan elimination\) is to create a matrix with 1’s on the diagonal \(top left to bottom right\) with 0’s below that diagonal.
 
 [YouTube guide](https://www.youtube.com/watch?v=2j5Ic2V7wq4%20
-)
+) - bottom left triangles of zeros so you can back substitute
 
 Here is the equation above solved with the Gaussian elimination method:
 
 ![Solved using Gaussian Elimination](../../../../.gitbook/assets/image%20%2827%29.png)
 
-As we can see, x = 1 and y = 2
+As we can see, x = 1 and y = 2. Because if you multiple them out again, you get 0x plus y = 2, using this you can solve for x. \[ 0 x 1 \] x \[ y \] = 2. 
 
 ### Solving using the inverse matrix
 
@@ -145,17 +147,17 @@ Here is the equation above solved with the inverse method:
 
 ![](../../../../.gitbook/assets/image%20%2823%29.png)
 
-Kingsley's method for finding the Inverse:
+## Kingsley's method for finding the Inverse \(3x3\):
 
 ![](../../../../.gitbook/assets/image%20%2844%29.png)
 
-![](../../../../.gitbook/assets/image%20%2840%29.png)
+![Manipulations so we get the identity matrix on the left hand side](../../../../.gitbook/assets/image%20%2840%29.png)
 
-![](../../../../.gitbook/assets/image%20%2845%29.png)
+![The new matrix is the inverse of the original matrix](../../../../.gitbook/assets/image%20%2845%29.png)
 
 ## The theory of the film the Matrix
 
-The matrix is an interesting film because it hones n the idea that with the right set of computational pwoer and numbers, we can represent an artificial world, compeltely parallel to our own. This echos the idea that **the world, with enough abstraction layers, can be represented as an array of numbers**
+The matrix is an interesting film because it hones n the idea that with the right set of computational pwoer and numbers, we can represent an artificial world, completely parallel to our own. This echos the idea that **the world, with enough abstraction layers, can be represented as an array of numbers**
 
 ## MATLAB
 
