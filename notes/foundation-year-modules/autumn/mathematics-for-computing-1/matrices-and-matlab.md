@@ -201,3 +201,5 @@ Thus we can find x, y and z using MATLAB using the **inv\(matrix 1\)\*\(matrix 2
 
 Have to learn how to inverse a 2x2 and 3x3 matrix **by hand**
 
+**Learn how to inverse matricies with MATLAB. Finding the Determinant. As well as dividing by the lowest common factor to find integer numbers.**
+
