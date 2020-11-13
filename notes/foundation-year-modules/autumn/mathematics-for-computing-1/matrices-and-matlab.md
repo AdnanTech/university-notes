@@ -2,6 +2,8 @@
 
 ## Matrices
 
+**LEARN MATRICIES BY HAND AS WELL AS MATLAB**
+
 ### Definition
 
 A **matrix** **is an array of numbers** represented in columns and rows, that represent something collectively. A 1D matrix \(one row vector or one column vector - an array\) could be used to **represent data**, such as an audio signal, a row or column in a spreadsheet, or just an array of numbers for an equation. An example of a 2D matrix is below.
