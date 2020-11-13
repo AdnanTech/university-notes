@@ -38,7 +38,7 @@
 * \*\*\*\*[**Habitica**](https://habitica.com/)\*\*\*\*[ ](https://habitica.com/)for Habit Tracking
 * \*\*\*\*[**Google Calendar**](https://calendar.google.com/calendar/u/1/r) for Time Management
 * \*\*\*\*[**GitHub** ](https://github.com/AdnanTech/UniversityOfSussex)as a form of Version Control
-* \*\*\*\*[**GitBook** ](https://adnantech.gitbook.io/university-notes/)for Public Notes
+* \*\*\*\*[**GitBook** ](https://adnantech.gitbook.io/university-notes/)for Public Knowledge
 * \*\*\*\*[**Notion** ](https://www.notion.so/)for Personal Notes
 * \*\*\*\*[**Penzu** ](https://penzu.com/)for Journalling
 * \*\*\*\*[**Pomofocus** ](https://pomofocus.io/)for Pomodoro Timer
