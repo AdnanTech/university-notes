@@ -8,36 +8,18 @@
 
 There can be a total of 15 matches \(8 first round, 4 quarter finals, 2 semi finals, 1 finals\), this means there can be 15 match results. You cannot draw in table tennis, simply put, it is get to 11 or get to 11 and win by 2.
 
-We can split players into a struct?
+### Structure
 
-### Struct idea 1
+* We store the players in a 2d array
+* we have a structure of the tournament called tournament round
+* declare 4 round structures that contain
+  * round one players
+    * round one results
+  * round quarter players
+    * round quarter results
+* etc
 
-* playerName \(string literal\)
-* wonFirstRound \(bool\)
-* firstRoundMatchResults \(arr Char\)
-* wonQuarterFinalsRound \(bool\)
-* quarterFinalsRoundMatchResults \(arr Char\)
-* wonSemiFinalsRound \(bool\)
-* semiFinalsRoundMatchResults \(arr Char\)
-* wonFinalsRound \(bool\)
-* finalsToundMatchResults \(arr Char\)
 
-### Struct idea 2
-
-**Player Struct**
-
-* playerName \(string literal\)
-* wonRound \(bool\)
-
-**Match Struct**
-
-* Match number \(int\)
-* roundMatchResults \(arr Char\)
-* Player 1 \(str\)
-* Player 2 \(str\)
-* State \(int\)
-
-Then we can re declare wonRound and roundMatchResults every round
 
 ### Program Design
 
