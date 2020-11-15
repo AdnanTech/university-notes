@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Meta](README.md)
-* [Workflow](workflow.md)
 
 ## Admin
 
@@ -21,7 +20,9 @@
     * [Week one/two](assesments/learning-diary/week-one-two.md)
   * [Programming Assignment 1](assesments/programming-assignment-1.md)
   * [Computing Project Report](assesments/computing-project-report.md)
+  * [Computing Project Personal Blogging Website](assesments/computing-project-personal-blogging-website.md)
   * [Richard's Style Rules for C Programming](assesments/richards-style-rules-for-c-programming.md)
+* [Workflow](workflow.md)
 
 ## Notes
 
