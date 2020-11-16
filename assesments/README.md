@@ -4,8 +4,8 @@
 
 * [x] Exam \(**26 Oct**\)
   * [x] 98%
-* [ ] Project 1 \(**16 Nov**\)
-* [ ] Project 2
+* [ ] Project 1 \(**19 Nov**\)
+* [ ] Project 2 \(**3 Dec**\)
 
 ## Communication & Learning Skills
 
@@ -14,8 +14,8 @@
   * [x] W3
   * [x] W4
   * [x] W5
-  * [ ] W6
-  * [ ] W7
+  * [x] W6
+  * [x] W7
   * [ ] W8
   * [ ] W9
   * [ ] W10
@@ -23,12 +23,12 @@
 * [ ] Portfolio
   * [x] PDP
   * [x] Skills Audit
-* [ ] Group Presentation \(**12 Nov**\)
+* [x] Group Presentation \(**12 Nov**\)
   * [x] Groups allocated \(via Belbin\)
   * [x] Research done, with Harvard referencing style
   * [x] Powerpoint made
-  * [ ] Powerpoint test runs
-  * [ ] Powerpoint presented
+  * [x] Powerpoint test runs
+  * [x] Powerpoint presented
   * [ ] Report made
 
 ## Mathematics For Computing 1

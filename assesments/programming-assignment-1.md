@@ -34,10 +34,6 @@ There can be a total of 15 matches \(8 first round, 4 quarter finals, 2 semi fin
    3. Exit the program
       1. if user enters exit, exit
 
-### Structures
-
-**Need to send pointers**, as currently the structures are being passed as values, and not references. This means that when the structure is referenced beyond the funciton it is passed to, it will have different values.
-
 ### Top Down Design
 
 There are 4 main functions, with 2 of them being reusable
@@ -51,6 +47,11 @@ There are 4 main functions, with 2 of them being reusable
     * **Display a round**
       * refer to bleow for design
     * **Exit the program**
+
+## **Notes**
+
+* Every round arr is size 8, have to change this as not every round has 8 players, only the maximum does
+* need to create a tertiary operator that leads to a function to copy the winning player into the next round
 
 ### The grid \(Display a round\)
 
