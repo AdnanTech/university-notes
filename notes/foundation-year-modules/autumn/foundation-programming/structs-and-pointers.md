@@ -33,7 +33,9 @@ struct Books {
    char  author[50];
    char  subject[100];
    int   book_id;
-} book;  
+} book;  /* This creates an instance of Books called book */
+
+You can also decare it with struct Books book;
 ```
 
 ### Accessing Structure Members
