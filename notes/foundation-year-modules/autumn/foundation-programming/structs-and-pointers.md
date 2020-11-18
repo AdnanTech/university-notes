@@ -1,8 +1,10 @@
-# Structs and Pointers
+# Structures
 
 ## Structs
 
 Arrays allow to define type of variables that can hold several data items of the same kind. Similarly **structure** is another user defined data type available in C that allows to combine data items of different kinds.
+
+You can also pass structs \(structures\) like variables, by value and by reference.
 
 Structures are used to represent a record. Suppose you want to keep track of your books in a library. You might want to track the following attributes about each book −
 
@@ -271,16 +273,4 @@ struct packed_struct {
 Here, the packed\_struct contains 6 members: Four 1 bit flags f1..f3, a 4-bit type and a 9-bit my\_int.
 
 C automatically packs the above bit fields as compactly as possible, provided that the maximum length of the field is less than or equal to the integer word length of the computer. If this is not the case, then some compilers may allow memory overlap for the fields while others would store the next field in the next word.
-
-## Pointers
-
-To understand arrays, we must first understand pointers and [variables](variables-and-data-types.md#variables), as variables have pointers to their actual value, and arrays are a collection of variables \(of the same data type\). So one array maps to lots of elements, with an array pointer, and pointers to elements within the array. Also, _one way_ to pass arrays to functions you can pass to the function a **pointer** to an array by specifying the array's name without an index \(so no square brackets\)
-
-A **pointer** is a variable whose value is the address of another variable, i.e. direct address of the memory location. Like any variable or constant, you must declare a pointer before using it to store any variable address. These are different to normal variables, as they store values of a specific data type. 
-
-The general form of a pointer variable declaration is − `type *var-name;` 
-
-Examples can be found [here](https://adnantech.gitbook.io/code/code/c/pointers).
-
-Pointers are the reason C is super fast. But also the reason why C is hard to manage.
 
