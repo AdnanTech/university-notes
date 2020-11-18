@@ -8,6 +8,7 @@ Derivatives have applications throughout all of nature, image edges, velocity, f
 
 ## Terminology
 
+* DeltaT -&gt; 0 = in the limit as deltaT tends towards zero
 * Delta \(triangle\) = \(small\) change, so
 * Deltax = \(small\) change in x
 * d = infinitesimally small change \(ideally the minimum change, closest to zero we can find\)

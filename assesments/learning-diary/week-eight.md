@@ -6,7 +6,7 @@
 
 **Mathematics For Computing 1:** The agenda this week was differentiation. This was fairly straight forward as I have experience with calculus from previous eductation
 
-**Computing Project:** This week involved working on **building a website** 
+**Computing Project:** This week involved working on **building a website.** Whilst the idea was the code a dynamic website using php, since php is relatively new to me, I decided to first make work on creating the website statically, to validate the website architecture.
 
-**Summative Evaluation:** This week was **good, bad, whateva**
+**Summative Evaluation:** This week was a good learning experience, as the workload was heavier than normal, with the new work project in progress as well as 3 assignments I want to get ahead of. 
 
