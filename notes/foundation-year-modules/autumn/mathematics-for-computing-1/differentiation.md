@@ -8,9 +8,9 @@ Derivatives have applications throughout all of nature, image edges, velocity, f
 
 ## Terminology
 
-* Delta \(triangle\) = small change, so
-* Deltax = small change in x
-* d = infinitesimally small change \(ideally the minimum chage, closest to zero we can find\)
+* Delta \(triangle\) = \(small\) change, so
+* Deltax = \(small\) change in x
+* d = infinitesimally small change \(ideally the minimum change, closest to zero we can find\)
 * dx = infinitesimally small change in x
 * dy/dx = the derivative, the instantaneous rate of change in y relative to x
 
