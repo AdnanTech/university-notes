@@ -77,7 +77,6 @@
       * [Simultaneous Equations](notes/foundation-year-modules/autumn/mathematics-for-computing-1/simultaneous-equations.md)
       * [Matrices and MATLAB](notes/foundation-year-modules/autumn/mathematics-for-computing-1/matrices-and-matlab.md)
       * [Differentiation](notes/foundation-year-modules/autumn/mathematics-for-computing-1/differentiation.md)
-      * [More on Differentiaion](notes/foundation-year-modules/autumn/mathematics-for-computing-1/more-on-differentiaion.md)
       * [Binary Number Systems and Logic](notes/foundation-year-modules/autumn/mathematics-for-computing-1/binary-number-systems-and-logic.md)
       * [Combinational Logic](notes/foundation-year-modules/autumn/mathematics-for-computing-1/combinational-logic.md)
     * [Computing Project](notes/foundation-year-modules/autumn/computing-project/README.md)
