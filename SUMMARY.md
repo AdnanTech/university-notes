@@ -83,6 +83,7 @@
       * [Module Overview](notes/foundation-year-modules/autumn/computing-project/module-overview.md)
       * [The Internet and World Wide Web](notes/foundation-year-modules/autumn/computing-project/introduction-to-the-internet-and-world-wide-web.md)
       * [HTML](notes/foundation-year-modules/autumn/computing-project/html-hyper-text-markup-language-basics-and-tables/README.md)
+        * [HTML Forms](notes/foundation-year-modules/autumn/computing-project/html-hyper-text-markup-language-basics-and-tables/html-forms.md)
         * [Web Activity Worksheet](notes/foundation-year-modules/autumn/computing-project/html-hyper-text-markup-language-basics-and-tables/web-activity-worksheet.md)
         * [Web Activity Worksheets 2](notes/foundation-year-modules/autumn/computing-project/html-hyper-text-markup-language-basics-and-tables/web-activity-worksheets-2.md)
         * [Web Activity w3schools quiz](notes/foundation-year-modules/autumn/computing-project/html-hyper-text-markup-language-basics-and-tables/web-activity-w3schools-quiz.md)
