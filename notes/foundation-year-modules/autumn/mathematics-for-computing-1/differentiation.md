@@ -72,3 +72,15 @@ The stationary point is where the derivative is equal to zero. You differentiate
 
 ![](../../../../.gitbook/assets/image%20%2848%29.png)
 
+## Solving using numerical methods
+
+* Pick random x and y points from the graph
+* find the difference between d\(change in\) y \(y2 - y1\) and d\(change in\) x \(x2 - x1\) of two points clos to each other
+* find dy/dx
+* This will gave a gradient, \(dy/dx\) thus the differential is found, if zero, stationairy point
+* accuracy will be increased if the points are closer together \(diff in x and diff in y is extremely small\)
+
+![for the equation 3x^2-6x-1](../../../../.gitbook/assets/image%20%2861%29.png)
+
+
+
