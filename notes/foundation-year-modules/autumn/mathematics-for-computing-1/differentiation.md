@@ -20,7 +20,7 @@ To differentiate, you make the equation equal to zero, and then you follow the f
 * dy/dx = the derivative, the instantaneous rate of change in y relative to x
 * f'\(x\) is the same as dy/dx \(pronounced f prime x\), belonged to lebneiz, whereas dy/dx was the style that belonged to Isaac Newton
 
-## Lecture 2 Notes
+## Notes
 
 The general form of a gradient for a straight line:
 
