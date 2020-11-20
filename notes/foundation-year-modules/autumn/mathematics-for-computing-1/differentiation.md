@@ -82,5 +82,13 @@ The stationary point is where the derivative is equal to zero. You differentiate
 
 ![for the equation 3x^2-6x-1](../../../../.gitbook/assets/image%20%2861%29.png)
 
+To remove the spike values, we just set a filter on the gradient so it excludes the anomalies in the graph.
+
+We can do this adding a new column, with a formula saying =if\(gradient&gt;threshold, "anomaly", 0\)
+
+Doing this, we can then estimate the values where there in anomaly, based on the data around it, using the mid point of the two values above and below the anomaly.
+
+The excel way to do this, is to create a new column that has the corrected values in, to say if there in error present, correct it, else leave it as the actual value.
+
 
 
