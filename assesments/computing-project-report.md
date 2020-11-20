@@ -13,14 +13,6 @@
 
 ## Reading list
 
-* [https://www.ionos.co.uk/digitalguide/server/know-how/web-stacks-the-basics-and-examples/](https://www.ionos.co.uk/digitalguide/server/know-how/web-stacks-the-basics-and-examples/)
-* [http://www.xavierdilipkumar.com/post/what-are-lamp-wamp-mamp-and-wisa-stacks](http://www.xavierdilipkumar.com/post/what-are-lamp-wamp-mamp-and-wisa-stacks)
-* [https://www.ibm.com/uk-en/cloud/learn/mean-stack-explained](https://www.ibm.com/uk-en/cloud/learn/mean-stack-explained) - mean stack
-* [https://www.technolush.com/blog/popular-web-development-stacks](https://www.technolush.com/blog/popular-web-development-stacks) - diagram angle????
-* [https://www.monterail.com/blog/web-development-technology-stack](https://www.monterail.com/blog/web-development-technology-stack) - building a good web application
-* [https://dl.acm.org/doi/10.5555/2904298.2904317](https://dl.acm.org/doi/10.5555/2904298.2904317) - reference the home pages of the layers for in the references!
-* [https://repository.stcloudstate.edu/cgi/viewcontent.cgi?article=1009&context=csit\_etds](https://repository.stcloudstate.edu/cgi/viewcontent.cgi?article=1009&context=csit_etds) - paper on LAMP vs MEAN
-
 ## [What is a web stack?](https://whatis.techtarget.com/definition/Web-stack)
 
 A web stack is a collection of software required for Web development. At a minimum, a Web stack contains an operating system \([OS](https://whatis.techtarget.com/definition/operating-system-OS)\), a programming language, database software and a [Web server](https://whatis.techtarget.com/definition/Web-server).
@@ -28,8 +20,6 @@ A web stack is a collection of software required for Web development. At a minim
 [LAMP](https://whatis.techtarget.com/definition/LAMP-Linux-Apache-MySQL-PHP) is one commonly used Web stack. It uses [Linux](https://searchdatacenter.techtarget.com/definition/Linux-operating-system) as the operating system, [Apache](https://whatis.techtarget.com/definition/Apache) as the Web server, [MySQL](https://searchoracle.techtarget.com/definition/MySQL) as the relational database management system and [PHP](https://whatis.techtarget.com/definition/PHP-Hypertext-Preprocessor) as the object-oriented scripting language. 
 
 A Web stack is one type of [solution stack](https://whatis.techtarget.com/definition/solution-stack) -- an ordered collection of software that performs a particular task.
-
-
 
 ## Uses
 
