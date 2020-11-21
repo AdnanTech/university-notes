@@ -16,7 +16,7 @@
   * [x] W5
   * [x] W6
   * [x] W7
-  * [ ] W8
+  * [x] W8
   * [ ] W9
   * [ ] W10
   * [ ] W11
@@ -34,16 +34,6 @@
 ## Mathematics For Computing 1
 
 * [x] Problem Set 1 \(**12 Nov**\)
-  * [x] Q1
-  * [x] Q2
-  * [x] Q3
-  * [x] Q4
-  * [x] Q5
-  * [x] Q6
-  * [x] Q7
-  * [x] Q8
-  * [x] Q9
-  * [x] Q10
 * [ ] Problem Set 2 \(3 Dec\)
 * [ ] Exam \(4 Jan\)
 
