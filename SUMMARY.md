@@ -23,7 +23,7 @@
   * [Computing Project Report](assesments/computing-project-report.md)
   * [Computing Project Personal Blogging Website](assesments/computing-project-personal-blogging-website.md)
   * [Richard's Style Rules for C Programming](assesments/richards-style-rules-for-c-programming.md)
-* [Workflow](workflow.md)
+* [Workspace](workflow.md)
 
 ## Notes
 
