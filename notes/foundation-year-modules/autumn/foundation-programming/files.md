@@ -41,5 +41,5 @@ Just like how in normal C there are functions like getchar\(\), putchar\(\), sca
 | fscanf\(\) | Reads formatted input from a stream |
 | fprintf\(\) | Sends formatted output to a stream |
 
-
+## [Examples are in the code base](https://adnantech.gitbook.io/code/code/c/files)
 
