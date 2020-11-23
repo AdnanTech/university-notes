@@ -10,18 +10,18 @@
 * GIF
   * Graphics Interchange Format
 * PNG
-  * Portable Netword Graphic
+  * Portable Network Graphic
   * High Quality Images/Text combination
 
 ### Image Formats
 
 ### JPEG
 
-JPG, also known as JPEG \(Joint Photographic Experts Group\), released in 1992. They use a complex compresstion algorithm called "lossy" compression. JPEG is the standard format for most digital cameras. JPEG files are great for making smaller files. As well as being great images with more than 256 colours. Uses 24-bit colour.
+JPG, also known as JPEG \(Joint Photographic Experts Group\), released in 1992. They use a complex compression algorithm called "lossy" compression. JPEG is the standard format for most digital cameras. JPEG files are great for making smaller files. As well as being great images with more than 256 colours. Uses 24-bit colour.
 
-Human eyes see light and dark better than color detail. JPEG uses this weakness to help compression. It scarifices some colour detail to save space.
+Human eyes see light and dark better than color detail. JPEG uses this weakness to help compression. It sacrifices some colour detail to save space.
 
-**Best uses:** Black and white images, images with complex colouring, still lfie imagary and real life photographs.
+**Best uses:** Black and white images, images with complex colouring, still file imagery and real life photographs.
 
 ### PNG
 
@@ -41,7 +41,7 @@ You can use "Dithering" to make the files even smaller. This is the process wher
 
 ### BMP
 
-BMP, Bitmap image file, also known as device independant bitmap \(DIB\). Created in 1994, does not use compression. Now owned by Windows, can be compressed by lossless as it is made up of individual pixels. Large files, high quality and rich in colour.
+BMP, Bitmap image file, also known as device independent bitmap \(DIB\). Created in 1994, does not use compression. Now owned by Windows, can be compressed by lossless as it is made up of individual pixels. Large files, high quality and rich in colour.
 
 Can create arrays of pixel data to store in memory, to represent an image.
 
@@ -51,7 +51,7 @@ Can create arrays of pixel data to store in memory, to represent an image.
 
 Scalable Vector Graphics images, used for vector images only, so it cannot be compressed. They scale well mathematically, and can easily be converted to bitmap.
 
-Best Uses: Vecor Images
+Best Uses: Vector Images
 
 ## Drawing Images \(Image map\)
 
