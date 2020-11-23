@@ -93,7 +93,7 @@
         * [W3Schools Quiz](notes/foundation-year-modules/autumn/computing-project/introduction-to-css-cascading-style-sheets/w3schools-quiz.md)
         * [CSS Worksheet](notes/foundation-year-modules/autumn/computing-project/introduction-to-css-cascading-style-sheets/css-worksheet.md)
         * [Lists](notes/foundation-year-modules/autumn/computing-project/introduction-to-css-cascading-style-sheets/lists.md)
-      * [Images](notes/foundation-year-modules/autumn/computing-project/images.md)
+      * [Images, Audio and Video](notes/foundation-year-modules/autumn/computing-project/images.md)
       * [Artificial Intelligence](notes/foundation-year-modules/autumn/computing-project/artificial-intelligence/README.md)
         * [Introduction to AI Concepts](notes/foundation-year-modules/autumn/computing-project/artificial-intelligence/introduction-to-ai-concepts.md)
         * [Types Of AI](notes/foundation-year-modules/autumn/computing-project/artificial-intelligence/types-of-ai.md)
