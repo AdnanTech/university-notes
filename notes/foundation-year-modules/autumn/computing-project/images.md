@@ -13,42 +13,7 @@
   * Portable Netword Graphic
   * High Quality Images/Text combination
 
-### Images scorecard
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Type Of Images</th>
-      <th style="text-align:left">Advantages</th>
-      <th style="text-align:left">Disadvantages</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Bitmap (.BMP)</td>
-      <td style="text-align:left">
-        <ul>
-          <li>Well-supported format</li>
-          <li>Lossless</li>
-        </ul>
-        <p></p>
-      </td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-  </tbody>
-</table>
-
-## Notes
+### Image Formats
 
 ### JPEG
 
@@ -88,12 +53,16 @@ Scalable Vector Graphics images, used for vector images only, so it cannot be co
 
 Best Uses: Vecor Images
 
+## Drawing Images \(Image map\)
+
+You can also draw bitmaps and make them clickable. Look at the tag called &lt;map&gt; and usemap="\#mapname". You can embed an image to a map ,and have each shape clickable if you use the co-ordinates.
+
 ## HTML Images
 
 * [MDN docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img) for img tag
-* target attriubte will open in a new tab
+* target="\_blank" attribute will open in a new tab
 * linking a href into an image is the way to link images
 * [picture tag mdn](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture)
 
-Image Format [Cheatsheet](https://i.imgur.com/7DG67Hx.jpg)
+## Image Format [Cheatsheet](https://i.imgur.com/7DG67Hx.jpg)
 
