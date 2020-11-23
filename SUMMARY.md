@@ -45,7 +45,6 @@
       * [Refactoring Code & Passing Variables](notes/foundation-year-modules/autumn/foundation-programming/testing-programs.md)
       * [Structures](notes/foundation-year-modules/autumn/foundation-programming/structs-and-pointers.md)
       * [Pointers](notes/foundation-year-modules/autumn/foundation-programming/pointers.md)
-      * [File Input and Output](notes/foundation-year-modules/autumn/foundation-programming/file-input-and-output.md)
       * [Files](notes/foundation-year-modules/autumn/foundation-programming/files.md)
       * [Bitwise Operators](notes/foundation-year-modules/autumn/foundation-programming/bitwise-operators.md)
       * [Heap and Malloc](notes/foundation-year-modules/autumn/foundation-programming/heap-and-malloc.md)
