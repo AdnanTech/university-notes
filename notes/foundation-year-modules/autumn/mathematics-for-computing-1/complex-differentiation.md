@@ -32,7 +32,9 @@ There are some special cases, like these 2:
 
 ![](../../../../.gitbook/assets/image%20%2871%29.png)
 
-## Chain Rule
+## Composite Functions
+
+### Chain Rule
 
 Used where there is a function, to the power of a function
 
@@ -44,7 +46,7 @@ Used where there is a function, to the power of a function
 
 ![](../../../../.gitbook/assets/image%20%2869%29.png)
 
-## Product Rule
+### Product Rule
 
 Used for find the differentiation of 2 functions that multiply together
 
@@ -56,7 +58,7 @@ Used for find the differentiation of 2 functions that multiply together
 
 ![](../../../../.gitbook/assets/image%20%2865%29.png)
 
-## Quotient Rule
+### Quotient Rule
 
 Used to find the derivative of 2 functions that are divided by one another
 
