@@ -43,9 +43,13 @@ Just like how in normal C there are functions like getchar\(\), putchar\(\), sca
 
 ## Treating Files as strings
 
-the function int sscanf\(const char _str, const char_ format, ...\) ; reads formatted input from a string
+The functions sscanf\(const char _str, const char_ format, ...\) reads formatted input from a string, and sprintf\(\) works in a similar fashion, to print input from a string. These functions allow us to treat strings as if they were files. These functions allow us to convert other data variables of various data types to strings and vice versa. This allow us to build larger strings and to unpack larger strings.
 
-sprintf\(\) works in a similar fashion
+General form of sscanf\(\): `sscanf(packedDataInAString,"%[^,],%[^,],%[^,],%d[^,],%lf[^,],%[^,]",title,author,publisher,&year,&price,isbn);`
+
+General form of sprintf\(\):
+
+`sprintf(target,"%s %c %s %02d/%02d/%d-%02d/%02d/%d",firstName,initial,lastName,bday,bmonth,byear,dday,dmonth,dyear);`
 
 ## [Examples are in the code base](https://adnantech.gitbook.io/code/code/c/files)
 
