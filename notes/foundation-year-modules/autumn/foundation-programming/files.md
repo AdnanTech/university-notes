@@ -41,5 +41,11 @@ Just like how in normal C there are functions like getchar\(\), putchar\(\), sca
 | fscanf\(\) | Reads formatted input from a stream |
 | fprintf\(\) | Sends formatted output to a stream |
 
+## Treating Files as strings
+
+the function int sscanf\(const char _str, const char_ format, ...\) ; reads formatted input from a string
+
+sprintf\(\) works in a similar fashion
+
 ## [Examples are in the code base](https://adnantech.gitbook.io/code/code/c/files)
 
