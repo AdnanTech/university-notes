@@ -10,7 +10,7 @@ A document which contains details about a product and descriptions of how it ope
 * Audience
 * Information and format
 * Structure
-* KISS
+* KISS \(Keep it simple, stupid\)
 * Review and revise
 * Formal approach
 
@@ -57,7 +57,9 @@ A document which contains details about a product and descriptions of how it ope
 * Focused
 * Clear
 * Concise
-* Active not passive
+* Active not passive - be direct with instructions
+
+[Sussex Skills hub](http://www.sussex.ac.uk/ei/internal/forstudents/engineeringdesign/studyguides/techreportwriting)
 
 [iPhone technical documentation](https://support.apple.com/en-gb/guide/iphone/toc)
 

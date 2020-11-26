@@ -6,7 +6,9 @@ Numbers are digits, in binary they are called bits
 
 You can convert denary to binary with
 
-log2\(number\) will be equal to the number of bits
+log2\(number\) will be equal to the number of bits - 1
+
+
 
 
 
