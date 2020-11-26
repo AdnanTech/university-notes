@@ -90,3 +90,17 @@ We can use MATLAB.
 
 ![](../../../../.gitbook/assets/image%20%2865%29.png)
 
+### General Rule
+
+We approximate dy/dx using data points
+
+![](../../../../.gitbook/assets/image%20%2885%29.png)
+
+### Using MATLAB
+
+Something like this:
+
+`X=[0,0.01,0.04,0.09 ...]`
+
+`Xdiff = X(1, 2:end) - X(1, 1:end-1)`
+
