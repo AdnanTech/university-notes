@@ -1,4 +1,4 @@
-# Images, Audio and Video
+# Images and Video
 
 ## Pre Reading
 
