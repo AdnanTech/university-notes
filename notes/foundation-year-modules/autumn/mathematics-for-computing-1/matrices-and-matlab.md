@@ -4,6 +4,10 @@
 
 **LEARN MATRICIES BY HAND AS WELL AS MATLAB**
 
+[**Multipilacation 3x3 Matricies**](https://www.intmath.com/matrices-determinants/matrix-multiplication-examples.php)\*\*\*\*
+
+\*\*\*\*
+
 ### Definition
 
 A **matrix** **is an array of numbers** represented in columns and rows, that represent something collectively. A 1D matrix \(one row vector or one column vector - an array\) could be used to **represent data**, such as an audio signal, a row or column in a spreadsheet, or just an array of numbers for an equation. An example of a 2D matrix is below.
@@ -65,6 +69,8 @@ This is where you times the matrix by an some constant scalar value, aka an inte
 **Works only when the number of** _**columns**_ **of one matrix, is equal to the number of** _**rows**_ **of the other**. Multiply each element of the rows of the first matrix by the column of the second. Used in image processing to scale up an image.
 
 ![Basic formula for a 2x2 matrix multiplacation](../../../../.gitbook/assets/image%20%2816%29.png)
+
+![Basic formula for 3x3 multiplacation](../../../../.gitbook/assets/image%20%2886%29.png)
 
 ![Example 1](../../../../.gitbook/assets/image%20%2833%29.png)
 
