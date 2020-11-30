@@ -48,6 +48,8 @@ Afterwards, we add the bits together to get the result
 
 ## Hexadecimal
 
+Hex uses base 16. We can split binary into 4 bits, and work out the hexadecimal number. Hence it makes life easier when dealing with big binary numbers, as we can just split it into groups of 4 bits, and convert it into hex.
+
 ![](../../../../.gitbook/assets/image%20%2897%29.png)
 
 ![](../../../../.gitbook/assets/image%20%2894%29.png)

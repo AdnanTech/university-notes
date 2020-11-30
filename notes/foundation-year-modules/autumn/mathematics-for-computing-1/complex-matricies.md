@@ -33,4 +33,5 @@ To inverse a matrix, it's like solving a rubrics cube.
 
 * If there are not integers, you times the right hand side matrix by the lowest common factor \(lowest decimal that is not zero\)
 * The reciprocal of this number is also called the determinant
+* You can prove this is the inverse if you times the inverse by the originak matrix, and you should get the identity matrix
 
