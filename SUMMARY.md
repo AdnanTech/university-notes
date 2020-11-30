@@ -78,6 +78,7 @@
       * [Quadratics and Polar Co-ordinates](notes/foundation-year-modules/autumn/mathematics-for-computing-1/lines-and-curves.md)
       * [Simultaneous Equations](notes/foundation-year-modules/autumn/mathematics-for-computing-1/simultaneous-equations.md)
       * [Matrices and MATLAB](notes/foundation-year-modules/autumn/mathematics-for-computing-1/matrices-and-matlab.md)
+      * [Complex Matricies](notes/foundation-year-modules/autumn/mathematics-for-computing-1/complex-matricies.md)
       * [Differentiation Basics](notes/foundation-year-modules/autumn/mathematics-for-computing-1/differentiation.md)
       * [Complex Differentiation](notes/foundation-year-modules/autumn/mathematics-for-computing-1/complex-differentiation.md)
       * [Binary Number Systems and Logic](notes/foundation-year-modules/autumn/mathematics-for-computing-1/binary-number-systems-and-logic.md)
