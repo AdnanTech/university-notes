@@ -48,6 +48,7 @@
       * [Pointers](notes/foundation-year-modules/autumn/foundation-programming/pointers.md)
       * [Files](notes/foundation-year-modules/autumn/foundation-programming/files.md)
       * [Testing](notes/foundation-year-modules/autumn/foundation-programming/testing.md)
+      * [Complex Files](notes/foundation-year-modules/autumn/foundation-programming/complex-files.md)
       * [Bitwise Operators](notes/foundation-year-modules/autumn/foundation-programming/bitwise-operators.md)
       * [Heap and Malloc](notes/foundation-year-modules/autumn/foundation-programming/heap-and-malloc.md)
       * [MYSYS2 & Clang](notes/foundation-year-modules/autumn/foundation-programming/mysys2-and-clang.md)
