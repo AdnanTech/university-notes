@@ -1,4 +1,4 @@
-# Binary Number Systems and Logic
+# Binary Number Systems
 
 **Every number system starts at base zero, which is the actual digit one**
 
