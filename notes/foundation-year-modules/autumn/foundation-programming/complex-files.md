@@ -1,8 +1,6 @@
 # Complex Files
 
-## See Code base
+## Character Arithmetic & Character Functions
 
-## Character Arithmetic
-
-## Character Functions
+## [See Code base](https://adnantech.gitbook.io/code/code/c/files)
 
