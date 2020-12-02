@@ -34,9 +34,23 @@
 
 ![](../../../../.gitbook/assets/image%20%28108%29.png)
 
-### Outputs of the common gates
+### Truth Table
+
+![](../../../../.gitbook/assets/image%20%28112%29.png)
+
+### Logic Gate expressions
+
+![](../../../../.gitbook/assets/image%20%28113%29.png)
 
 ### Boolean expressions
+
+Simplifying expressions, we can simplify the expression above
+
+![](../../../../.gitbook/assets/image%20%28111%29.png)
+
+Which can also be represented with logic gates
+
+![](../../../../.gitbook/assets/image%20%28110%29.png)
 
 ## Karnaugh Maps
 
