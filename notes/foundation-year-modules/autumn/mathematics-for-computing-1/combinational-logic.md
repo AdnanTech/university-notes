@@ -30,7 +30,7 @@
 
 ![](../../../../.gitbook/assets/image%20%28107%29.png)
 
-### Table
+### Cheat Sheet
 
 ![](../../../../.gitbook/assets/image%20%28108%29.png)
 
