@@ -15,6 +15,12 @@ These originate from the transistor, made in 1957, to replace glass vaccuum tube
 
 Chips, including the transistors on the chip, are made from silicon. The choice of material is due to it's conductivity, but mainly its abundance on earth.
 
+The fastest way to know the maximum possible number outputs to a logic gate is the number of inputs \(A,B,C = 3\) to the power of 2. So for ABC input, max combinations is 2^3
+
+The outputs are also in 4 pairs, 2 pairs, and then binary, for example:
+
+![](../../../../.gitbook/assets/image%20%28117%29.png)
+
 ## The logic gates
 
 Logic gates can be bought in chip packages, where are are 2, 4 6 or 8 gates on the chip. Each chip was a boolean function.
@@ -64,6 +70,10 @@ Simplifying expressions, we can simplify the expression above
 Which can also be represented with logic gates
 
 ![](../../../../.gitbook/assets/image%20%28110%29.png)
+
+## Excel
+
+We can also represent Truth tables in Excel, with a formula of =AND\(cell1, cell2\), replacing AND with the appropiate gate.
 
 ## Boolean written expression
 
