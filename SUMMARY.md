@@ -24,6 +24,7 @@
   * [Computing Project Report](assesments/computing-project-report.md)
   * [Computing Project Personal Blogging Website](assesments/computing-project-personal-blogging-website.md)
   * [Computing Project Programming Project](assesments/computing-project-programming-project.md)
+  * [Portfolio](assesments/portfolio.md)
   * [Richard's Style Rules for C Programming](assesments/richards-style-rules-for-c-programming.md)
 * [Workspace](workflow.md)
 
