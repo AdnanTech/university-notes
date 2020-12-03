@@ -12,6 +12,7 @@
     * [Turing Test](assesments/group-work/turing-test.md)
     * [PowerPoint Notes](assesments/group-work/powerpoint-notes.md)
   * [Learning Diary](assesments/learning-diary/README.md)
+    * [Week ten](assesments/learning-diary/week-ten.md)
     * [Week nine](assesments/learning-diary/week-nine.md)
     * [Week eight](assesments/learning-diary/week-eight.md)
     * [Week seven](assesments/learning-diary/week-seven.md)
