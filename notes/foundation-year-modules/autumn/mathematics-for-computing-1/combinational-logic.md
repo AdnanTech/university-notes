@@ -91,6 +91,10 @@ Karnaugh maps are a method to display a truth table, these help us solve electro
 
 ![](../../../../.gitbook/assets/image%20%28104%29.png)
 
+![](../../../../.gitbook/assets/image%20%28116%29.png)
+
+![](../../../../.gitbook/assets/image%20%28115%29.png)
+
 ## Gray Code form
 
 In gray code form, only 1 bit changes at a time. Gray form itself in maths means that only one piece of information changes at a time, being the bits.
