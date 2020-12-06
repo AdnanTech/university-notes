@@ -10,7 +10,7 @@
 
 **Summative Evaluation:** Honestly, this week I **felt terrible**. Although _I learnt a lot about myself and my values, as well as being very grateful for the opportunity to have a very work focused semester_, pushing the limits of my **potential**, I've started to **burnout** and I have a whole term to go of this year, let alone 3 more years. I think I'm in **dire need of a recalibration of my trajectory**, which I intend to carry out next week. _I think a big part of reaching my fullest potential in every situation, is sustainability. I don't have that sustainability to do that, when I become a workhorse_.
 
-Part of this recalibration should be about **acceptance of good work**, that is **not perfect**, so I have _more time to do the things I love and enjoy, hence the lack of content in the learning diary this week_. I also want **clear cut visions** \(focused\) instead of goals, an **enhanced reward system** and to be a lot **more physically active**. I feel as if my **mind** has started to become **unhealthy** from the **overworking lifestyle**. So I'll **adjust** and **keep moving forward.**
+Part of this recalibration should be about **acceptance of good work** that is **not perfect**, so I have _more time to do the things I love and enjoying time with family, hence the lack of content in the learning diary this week_. I also want **clear cut visions** \(focused\) instead of goals, an **enhanced reward system** and to be a lot **more physically active**. I feel as if my **mind** has started to become **unhealthy** from the **overworking lifestyle**. So I'll **adjust** and **keep moving forward.**
 
 
 
