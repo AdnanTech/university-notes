@@ -22,6 +22,7 @@
     * [Week three](assesments/learning-diary/week-three.md)
     * [Week one/two](assesments/learning-diary/week-one-two.md)
   * [Programming Assignment 1](assesments/programming-assignment-1.md)
+  * [Programming Assignment 2](assesments/programming-assignment-2.md)
   * [Computing Project Report](assesments/computing-project-report.md)
   * [Computing Project Personal Blogging Website](assesments/computing-project-personal-blogging-website.md)
   * [Computing Project Programming Project](assesments/computing-project-programming-project.md)
