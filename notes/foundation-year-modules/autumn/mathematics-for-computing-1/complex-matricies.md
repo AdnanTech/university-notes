@@ -10,9 +10,9 @@
 
 The easiest way to this is through MATLAB. Where `x(row1_number,;) = -x(row2_number,;) + x(row1_number,;)`
 
-A lot of rubrics style is the way to solve these type of equations.
+A lot of rubix style is the way to solve these type of equations.
 
-To inverse a matrix, it's like solving a rubrics cube.
+To inverse a matrix, it's like solving a rubix cube.
 
 ![](../../../../.gitbook/assets/image%20%2892%29.png)
 
