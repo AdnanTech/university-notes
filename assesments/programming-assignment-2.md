@@ -40,7 +40,7 @@ A program that allows the research doctor to read and update a trial participant
 
 ### The Research Doctors
 
-* The research doctor, Michel Barnieror David Frost, should have a password to log intothe second program.
+* The research doctor, Michel Barnieror David Frost, should have a password to log into the second program.
 * After logging in, Michel or David should enter the trial participant’s last name and date of birth.
 * The program will then read the appropriate file and present the trial participant’s details in a readable form on the screen.
 * The research doctor should then enter the vaccine code number and any additional comments to the trial participant’s notes before resaving the data to the file.
@@ -51,5 +51,9 @@ A program that allows the research doctor to read and update a trial participant
 
 ## Limitations
 
-* Stored IDs when updated, can overwrite another volunteer's
+* Stored IDs when updated, can overwrite another volunteer's IDs, as I have not implemented any validation
+
+## Assumptions
+
+* We assume to volunteer to participant ratio is one to one
 
