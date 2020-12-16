@@ -52,6 +52,7 @@ A program that allows the research doctor to read and update a trial participant
 ## Limitations
 
 * Stored IDs when updated, can overwrite another volunteer's IDs, as I have not implemented any validation
+* Password is not hidden with astrixes
 
 ## Assumptions
 
