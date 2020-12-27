@@ -1,4 +1,4 @@
 # Extra
 
-A place for any extra University work I am doing.
+A place for any extra University notes for the foundation year.
 

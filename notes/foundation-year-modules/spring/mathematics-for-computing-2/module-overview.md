@@ -2,10 +2,10 @@
 
 ## Learning Outcomes
 
-* Understand mathematical notation and the functionality of symbolic expressions
-* Understand the basic principles of differential calculus
-* Manipulate matrices and vectors
-* Understand how to apply numerical and graphical methods to solve real world mathematical problems
+* Be able to construct recurrence relations for sequences.
+* Understand differential and integral calculus.
+* Be able to understand a range of probability distributions and to deduce the probabilities of various outcomes.
+* Understand basic formal logic expressions, set theory, graph theory and basic information theory.
 
 ## Outline
 
@@ -15,9 +15,9 @@ This module equips foundation students with core mathematical skills that are es
 
 | Assessment Type | Assessment Mode | Due Date | Worth |
 | :--- | :--- | :--- | :--- |
-| Coursework | Problem Set | Thu 5 Nov 2020 16:00 | 25% |
-| Coursework | Problem Set | Thu 3 Dec 2020 16:00 | 25% |
-| Exam | Computer Based Exam \(3 Hours\) | Mon 04 Jan 2021 - Sat 16 Jan 2021 | 50% |
+| Coursework | Problem Set | Thur 4 March 2021 16:00 | 25% |
+| Coursework | Problem Set | Thur 22 Apr 2021 16:00 | 25% |
+| Exam | Computer Based Exam \(3 Hours\) | TBA | 50% |
 
 #### Problem Set 1 and 2
 
