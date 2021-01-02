@@ -1,4 +1,4 @@
-# Module Overview
+# Mathematics for Computing 1
 
 ## Learning Outcomes
 
@@ -96,16 +96,4 @@ Some general advice on the best way to approach this coursework:
     </tr>
   </tbody>
 </table>
-
-
-
-
-
-
-
-
-
-
-
-
 
