@@ -54,7 +54,3 @@ A program that allows the research doctor to read and update a trial participant
 * Stored IDs when updated, can overwrite another volunteer's IDs, as I have not implemented any validation
 * Password is not hidden with astrixes
 
-## Assumptions
-
-* We assume to volunteer to participant ratio is one to one
-

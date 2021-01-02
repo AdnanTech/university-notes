@@ -1,6 +1,6 @@
 # Group Work
 
-## 1. [Introduction](introduction.md#refactored)
+## 1. [Introduction](group-work-introduction.md#refactored)
 
-## 2. [Turing Test](turing-test.md)
+## 2. [Turing Test](group-work-turing-test.md)
 

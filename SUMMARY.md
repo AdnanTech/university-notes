@@ -8,9 +8,9 @@
 
 * [Assesments](assesments/README.md)
   * [Group Work](assesments/group-work/README.md)
-    * [Introduction](assesments/group-work/introduction.md)
-    * [Turing Test](assesments/group-work/turing-test.md)
-    * [PowerPoint Notes](assesments/group-work/powerpoint-notes.md)
+    * [Introduction](assesments/group-work/group-work-introduction.md)
+    * [Turing Test](assesments/group-work/group-work-turing-test.md)
+    * [PowerPoint Notes](assesments/group-work/group-work-powerpoint-notes.md)
   * [Learning Diary](assesments/learning-diary/README.md)
     * [Week eleven](assesments/learning-diary/week-eleven.md)
     * [Week ten](assesments/learning-diary/week-ten.md)
@@ -22,14 +22,12 @@
     * [Week four](assesments/learning-diary/week-four.md)
     * [Week three](assesments/learning-diary/week-three.md)
     * [Week one/two](assesments/learning-diary/week-one-two.md)
-  * [Programming Assignment 1](assesments/programming-assignment-1.md)
-  * [Programming Assignment 2](assesments/programming-assignment-2.md)
-  * [Computing Project Report](assesments/computing-project-report.md)
-  * [Computing Project Personal Blogging Website](assesments/computing-project-personal-blogging-website.md)
-  * [Computing Project Programming Project](assesments/computing-project-programming-project.md)
-  * [Portfolio](assesments/portfolio.md)
-  * [Richard's Style Rules for C Programming](assesments/richards-style-rules-for-c-programming.md)
-* [Workspace](workflow.md)
+  * [Programming Assignment 1](assesments/foundation-year-programming-assignment-1.md)
+  * [Programming Assignment 2](assesments/foundation-year-programming-assignment-2.md)
+  * [Computing Project Report](assesments/foundation-year-computing-project-report.md)
+  * [Computing Project Personal Blogging Website](assesments/foundation-year-blog-project.md)
+  * [Computing Project Programming Project](assesments/foundation-year-programming-project.md)
+  * [Richard's Style Rules for C Programming](assesments/foundation-year-richards-style-rules-for-c-programming.md)
 
 ## Notes
 
