@@ -2,7 +2,7 @@
 
 {% file src="../.gitbook/assets/w9researchreport20.pdf" caption="Project Brief" %}
 
-[Report structure notes](../notes/foundation-year-modules/autumn/communication-and-learning-skills/report-and-essay-structure-presentation-feedback-review.md)
+[Report structure notes](../notes/foundation-year-notes/foundation-year-autumn-notes/communication-and-learning-skills/report-and-essay-structure-presentation-feedback-review.md)
 
 ~~750 words on:~~
 
