@@ -36,7 +36,3 @@ How are you delivering the presentation? How is body language? Nerves?
 * Don't read the slides elaborate on the points on the slide
 * Use flashcard prompts if you want to
 
-
-
-
-

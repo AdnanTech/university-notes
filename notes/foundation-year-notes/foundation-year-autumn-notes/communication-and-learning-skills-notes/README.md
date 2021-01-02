@@ -1,4 +1,4 @@
-# Module Overview
+# Communication and Learning Skills
 
 ## Learning Outcomes
 
@@ -61,16 +61,4 @@ Further detail for each of the portfolio elements will be provided as and when t
 | The Study Skills Handbook | Stella Cottrell | 2008 | No |
 | Study Skills on Sussex Website | University Of Sussex | - | No |
 | Learning How to Learn \(Great book\) | Barbara Oakley | 2018 | No, recommended |
-
-
-
-
-
-
-
-
-
-
-
-
 
