@@ -1,2 +1,2 @@
-# Relational Diagrams
+# Entity Relationship Diagrams
 
