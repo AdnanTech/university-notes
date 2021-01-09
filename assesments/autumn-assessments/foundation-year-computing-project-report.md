@@ -1,8 +1,8 @@
 # Computing Project Report
 
-{% file src="../.gitbook/assets/w9researchreport20.pdf" caption="Project Brief" %}
+{% file src="../../.gitbook/assets/w9researchreport20.pdf" caption="Project Brief" %}
 
-[Report structure notes](../notes/foundation-year-notes/foundation-year-autumn-notes/communication-and-learning-skills-notes/report-and-essays.md)
+[Report structure notes](../../notes/foundation-year-notes/foundation-year-autumn-notes/communication-and-learning-skills-notes/report-and-essays.md)
 
 ~~750 words on:~~
 

@@ -9,7 +9,7 @@
 
 ## Communication & Learning Skills
 
-* [ ] [Learning Diary](learning-diary/)
+* [ ] [Learning Diary](autumn-assessments/learning-diary/)
   * [x] W1/2
   * [x] W3
   * [x] W4

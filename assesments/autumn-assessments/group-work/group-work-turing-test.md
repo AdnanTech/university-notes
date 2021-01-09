@@ -35,7 +35,7 @@ The imitation game is a game of which consists of three three entities, on one s
 
 The machine's objective is to be as indistinguishable from human as much as possible. If the interrogator is wrong in his decision of whom the entity is after 5 minutes, then the machine is considered to have passed the Turing test. \(_A. M. TURING, I.—COMPUTING MACHINERY AND INTELLIGENCE, page 433\)_
 
-![The imitation game diagram \(Shubham Bansal, geeksforgeeks article\)](../../.gitbook/assets/image%20%2813%29.png)
+![The imitation game diagram \(Shubham Bansal, geeksforgeeks article\)](../../../.gitbook/assets/image%20%2813%29.png)
 
 ### The Turing test and Chatbots in the present
 

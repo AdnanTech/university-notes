@@ -4,11 +4,11 @@
 
 ### Project Title
 
-CSC4 - A fully fledged, innovative, customised SaaS ePOS system
+CSC5 - A fully fledged, innovative, customised SaaS ePOS system
 
 ### Brief Description
 
-CSC4 \(Convenience Store Companion 4\) is a fully fledged SaaS \(Software As A Service\) ePOS \(electronic Point Of Sales\) system with new, innovative functionality, such as the ability to: read a wholesalers receipt and automatically add the items into the stock, view a heat map of the current stock avalible in the store to see which items need to be re-stocked, detailed statistics to see which days and time in the month are the most profitable. On top of the core POS stack that includes: Inventory management \(process stock information, stock lookup\) and User accounts and permissions.
+CSC5 \(Convenience Store Companion 5\) is a fully fledged SaaS \(Software As A Service\) ePOS \(electronic Point Of Sales\) system with new, innovative functionality, such as the ability to: read a wholesalers receipt and automatically add the items into the stock, view a heat map of the current stock avalible in the store to see which items need to be re-stocked, detailed statistics to see which days and time in the month are the most profitable. On top of the core POS stack that includes: Inventory management \(process stock information, stock lookup\) and User accounts and permissions.
 
 ### Aim\(s\) and Objectives
 

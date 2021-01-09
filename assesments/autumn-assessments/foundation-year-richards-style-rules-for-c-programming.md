@@ -1,6 +1,6 @@
 # Richard's Style Rules for C Programming
 
-{% file src="../.gitbook/assets/stylerulesc \(1\).pdf" caption="Richard\'s Style Rules For C PDF " %}
+{% file src="../../.gitbook/assets/stylerulesc \(1\).pdf" caption="Richard\'s Style Rules For C PDF " %}
 
 ## IDE Options \(DEV-C++\)
 
