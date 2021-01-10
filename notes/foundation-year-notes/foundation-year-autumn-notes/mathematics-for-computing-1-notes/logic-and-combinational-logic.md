@@ -89,23 +89,54 @@ Booleans can be simplified, with the same laws used in college:
 * **A.\(B + C\) = A.B + A.C \(distribution\)**
 * **A.B + A.C = A.\(B + C\) \(factorisation\)**
 
+Where: . is AND, + is OR and ~ is NOT 
+
+## Karnaugh Maps
+
+Karnaugh maps are a method to display a truth table, these help us solve electronic circuits, to solve logic problems. The idea is that we can **simplify boolean expressions** using a rectangle/square table, rather than long columns. For example:
+
+![](../../../../.gitbook/assets/image%20%28104%29.png)
+
+### Gray Code form
+
+In gray code form, only 1 bit changes at a time. Gray form itself in maths means that only one piece of information changes at a time, being the bits. It has significance in karnaugh maps because in gray code order, because to convert binary data in columns to a karnaugh map, is it best converted when the binary data is in gray code form.
+
+Gray code form also underpins how we represent truth tables, note how only one bit changes at a time, like so:
+
+![](../../../../.gitbook/assets/image%20%28119%29.png)
+
+### Converting Binary Data to Karnaugh maps
+
+it maps one to one, using the framework discussed in gray code form. For every binary data set, there is a karnaugh map, and vice versa
+
+![](../../../../.gitbook/assets/image%20%28120%29.png)
+
+### Grouping rules
+
+There are some simple groupign rules for squares/rectangles on a karnaugh map
+
+* We can only group in base 2's \(1, 2, 4, 8, 16\)
+* They cannot be diagonal
+* They CAN wrap around the box \(bottom down and back to the top of the diagram and vice versa\)
+* They must be as big as possible
+* They can only wrap around 1s
+
+### Example
+
+Consider this karnaugh diagram, we have 2 boxes, as large as possible.
+
+![](../../../../.gitbook/assets/image%20%28121%29.png)
+
+The red and blue boxes are seperate, represent the sum of products expression together. So from the diagram:
+
+* The red box, has a B constant, as well as a D constant, therefore the red block is B AND D
+* The blue box, has a A constant, and not C and not D are constant, therefore the block is A AND \(NOT C\) AND \(NOT D\)
+
+T**hese boxes can then be combined and seperated with an OR**, so the red and the blue block, the output, can be represented as \(A . ~C . ~D\) + B.D
+
 ## Representing all gates as NAND
 
 The 3 most core logic gates, NOT, AND, OR can be represented as a group of NAND gates. And these are used in DESIGN. NAND gates are used in MANUFACTURING.
 
 ![](../../../../.gitbook/assets/image%20%28113%29.png)
-
-## Karnaugh Maps
-
-Karnaugh maps are a method to display a truth table, these help us solve electronic circuits, to solve logic problems
-
-![](../../../../.gitbook/assets/image%20%28104%29.png)
-
-![](../../../../.gitbook/assets/image%20%28116%29.png)
-
-![](../../../../.gitbook/assets/image%20%28115%29.png)
-
-## Gray Code form
-
-In gray code form, only 1 bit changes at a time. Gray form itself in maths means that only one piece of information changes at a time, being the bits.
 

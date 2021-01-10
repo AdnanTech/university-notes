@@ -20,7 +20,7 @@ To inverse a matrix, it's like solving a rubix cube.
 
 ![](../../../../.gitbook/assets/image%20%2891%29.png)
 
-* Convert the half matrix on the left to the identity matrix, there is a general order for this
+* Convert the half matrix on the left to the identity matrix, there is a general order for making the left half zeroes for this:
   * Bottom Left
   * Middle Left
   * Bottom Middle
