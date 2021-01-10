@@ -2,12 +2,6 @@
 
 ## Matrices
 
-**LEARN MATRICIES BY HAND AS WELL AS MATLAB**
-
-[**Multipilacation 3x3 Matricies**](https://www.intmath.com/matrices-determinants/matrix-multiplication-examples.php)\*\*\*\*
-
-\*\*\*\*
-
 ### Definition
 
 A **matrix** **is an array of numbers** represented in columns and rows, that represent something collectively. A 1D matrix \(one row vector or one column vector - an array\) could be used to **represent data**, such as an audio signal, a row or column in a spreadsheet, or just an array of numbers for an equation. An example of a 2D matrix is below.
@@ -155,21 +149,11 @@ Here is the equation above solved with the inverse method:
 
 ![](../../../../.gitbook/assets/image%20%2823%29.png)
 
-## Kingsley's method for finding the Inverse \(3x3\):
-
-![](../../../../.gitbook/assets/image%20%2844%29.png)
-
-![Manipulations so we get the identity matrix on the left hand side](../../../../.gitbook/assets/image%20%2840%29.png)
-
-![The new matrix is the inverse of the original matrix, this equation is proof](../../../../.gitbook/assets/image%20%2845%29.png)
-
 ## The theory of the film the Matrix
 
 The matrix is an interesting film because it hones n the idea that with the right set of computational pwoer and numbers, we can represent an artificial world, completely parallel to our own. This echos the idea that **the world, with enough abstraction layers, can be represented as an array of numbers**
 
 ## MATLAB
-
-
 
 MATLAB can be integrated with the programming language C
 
@@ -181,7 +165,7 @@ x = \[1, 2, 3; 4, 5, 6; 7, 8, 9\]
 
 imagesc\(var\) will print an colour image of the data. It's an image function
 
-## Seminar notes
+### MATLAB Notes
 
 | Syntax | Usage |
 | :--- | :--- |

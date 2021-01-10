@@ -82,6 +82,7 @@
       * [Complex Differentiation](notes/foundation-year-notes/foundation-year-autumn-notes/mathematics-for-computing-1-notes/complex-differentiation.md)
       * [Binary Number Systems](notes/foundation-year-notes/foundation-year-autumn-notes/mathematics-for-computing-1-notes/binary-number-systems.md)
       * [Logic and Combinational Logic](notes/foundation-year-notes/foundation-year-autumn-notes/mathematics-for-computing-1-notes/logic-and-combinational-logic.md)
+      * [Goal Seeker](notes/foundation-year-notes/foundation-year-autumn-notes/mathematics-for-computing-1-notes/goal-seeker.md)
     * [Computing Project](notes/foundation-year-notes/foundation-year-autumn-notes/computing-project/README.md)
       * [Module Overview](notes/foundation-year-notes/foundation-year-autumn-notes/computing-project/module-overview.md)
       * [The Internet and World Wide Web](notes/foundation-year-notes/foundation-year-autumn-notes/computing-project/introduction-to-the-internet-and-world-wide-web.md)
@@ -122,6 +123,5 @@
       * [Object Oriented Design](notes/foundation-year-notes/foundation-year-spring-notes/program-design-notes/untitled.md)
       * [Use-Case Anaylsis](notes/foundation-year-notes/foundation-year-spring-notes/program-design-notes/use-case-anaylsis.md)
       * [Data Structures](notes/foundation-year-notes/foundation-year-spring-notes/program-design-notes/data-structures.md)
-  * [Computing Project](notes/foundation-year-notes/computing-project-notes.md)
   * [Extra](notes/foundation-year-notes/extra.md)
 
