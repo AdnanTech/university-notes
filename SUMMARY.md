@@ -109,6 +109,7 @@
       * [Computing Project Brief](notes/foundation-year-notes/foundation-year-autumn-notes/computing-project/computing-project-brief.md)
   * [Spring](notes/foundation-year-notes/foundation-year-spring-notes/README.md)
     * [Database and Application Development](notes/foundation-year-notes/foundation-year-spring-notes/database-and-application-development-notes/README.md)
+      * [Installing MariaDB](notes/foundation-year-notes/foundation-year-spring-notes/database-and-application-development-notes/installing-mariadb.md)
       * [Entity Relationship Diagrams](notes/foundation-year-notes/foundation-year-spring-notes/database-and-application-development-notes/relational-diagrams/README.md)
         * [Crows Feet](notes/foundation-year-notes/foundation-year-spring-notes/database-and-application-development-notes/relational-diagrams/crows-feet.md)
       * [Misc](notes/foundation-year-notes/foundation-year-spring-notes/database-and-application-development-notes/misc.md)
