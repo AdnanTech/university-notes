@@ -138,5 +138,11 @@ T**hese boxes can then be combined and seperated with an OR**, so the red and th
 
 The 3 most core logic gates, NOT, AND, OR can be represented as a group of NAND gates. And these are used in DESIGN. NAND gates are used in MANUFACTURING.
 
+NOT, AND, OR can all be translated like so:
+
+![](../../../../.gitbook/assets/image%20%28122%29.png)
+
+A little clearer diagram:
+
 ![](../../../../.gitbook/assets/image%20%28113%29.png)
 
