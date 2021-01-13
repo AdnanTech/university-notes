@@ -10,9 +10,9 @@ All preprocessing directives begin with a `#` symbol. For example
 
 ### Object-like macros
 
-You can define to use constants, for example: `define c 299792458` , which is speed of light. The number is a literal. This means that it has an implicit data type. _That is processed during compilation?_ asd
+You can define to use constants, for example: `#define c 299792458` , which is speed of light. The number is a literal. This means that it has an implicit data type. _That is processed during compilation?_ asd
 
 ### Function like macros
 
-`define circleArea(r) (3.1415`_`(r)`_`(r))` These are functions that are defined that we can reuse.
+`#define circleArea(r) (3.1415(r)(r))` These are functions that are defined that we can reuse.
 
