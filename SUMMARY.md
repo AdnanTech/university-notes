@@ -124,5 +124,9 @@
       * [Object Oriented Design](notes/foundation-year-notes/foundation-year-spring-notes/program-design-notes/untitled.md)
       * [Use-Case Anaylsis](notes/foundation-year-notes/foundation-year-spring-notes/program-design-notes/use-case-anaylsis.md)
       * [Data Structures](notes/foundation-year-notes/foundation-year-spring-notes/program-design-notes/data-structures.md)
-  * [Extra](notes/foundation-year-notes/extra.md)
+  * [Computing Project](notes/foundation-year-notes/computing-project/README.md)
+    * [Brief](notes/foundation-year-notes/computing-project/brief.md)
+  * [Extra](notes/foundation-year-notes/extra/README.md)
+    * [Sussex Direct](notes/foundation-year-notes/extra/sussex-direct.md)
+    * [Technologies to learn](notes/foundation-year-notes/extra/technologies-to-learn.md)
 

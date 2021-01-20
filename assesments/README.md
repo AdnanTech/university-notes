@@ -4,12 +4,12 @@
 
 * [x] Exam \(**26 Oct**\)
   * [x] 98%
-* [ ] Project 1 \(**19 Nov**\)
-* [ ] Project 2 \(**3 Dec**\)
+* [x] Project 1 \(**19 Nov**\)
+* [x] Project 2 \(**3 Dec**\)
 
 ## Communication & Learning Skills
 
-* [ ] [Learning Diary](autumn-assessments/learning-diary/)
+* [x] [Learning Diary](autumn-assessments/learning-diary/)
   * [x] W1/2
   * [x] W3
   * [x] W4
@@ -17,10 +17,10 @@
   * [x] W6
   * [x] W7
   * [x] W8
-  * [ ] W9
-  * [ ] W10
-  * [ ] W11
-* [ ] Portfolio
+  * [x] W9
+  * [x] W10
+  * [x] W11
+* [x] Portfolio
   * [x] PDP
   * [x] Skills Audit
 * [x] Group Presentation \(**12 Nov**\)
@@ -29,18 +29,20 @@
   * [x] Powerpoint made
   * [x] Powerpoint test runs
   * [x] Powerpoint presented
-  * [ ] Report made
+  * [x] Report made
 
 ## Mathematics For Computing 1
 
 * [x] Problem Set 1 \(**12 Nov**\)
-* [ ] Problem Set 2 \(3 Dec\)
-* [ ] Exam \(4 Jan\)
+  * [x] 99%
+* [x] Problem Set 2 \(3 Dec\)
+  * [x] 99%
+* [x] Exam \(4 Jan\)
 
 ## Computing Project
 
-* [ ] Project
-  * [ ] Report \(1500 Words\) \(**26 Nov**\)
+* [x] Project
+  * [x] Report \(1500 Words\) \(**26 Nov**\)
   * [ ] Presentation \(10 Mins\) 
   * [ ] Report \(4000 Words\) \(19 May\)
 

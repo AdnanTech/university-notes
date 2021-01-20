@@ -9,9 +9,7 @@
 1. ~~web development~~
 2. ~~can computers be conscious / intelligent? Based initially on the papers of A. Turing \(1950’s\)~~
 
-1500 words on the web stacks
-
-## Reading list
+## 1500 words on the web stacks
 
 ## [What is a web stack?](https://whatis.techtarget.com/definition/Web-stack)
 
