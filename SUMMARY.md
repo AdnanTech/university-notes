@@ -29,6 +29,7 @@
     * [Richard's Style Rules for C Programming](assesments/autumn-assessments/foundation-year-richards-style-rules-for-c-programming.md)
   * [Spring Assessments](assesments/spring-assessments/README.md)
     * [Computing Project Programming Project](assesments/spring-assessments/foundation-year-programming-project.md)
+    * [Richard's Style Rules for C++ Programming](assesments/spring-assessments/richards-style-rules-for-c++-programming.md)
   * [Misc](assesments/misc/README.md)
     * [Computing Project Personal Blogging Website](assesments/misc/foundation-year-blog-project.md)
 
@@ -130,8 +131,8 @@
       * [Binary Search](notes/foundation-year-notes/foundation-year-spring-notes/mathematics-for-computing-2-notes/binary-search-1.md)
       * [Dijkstra's Algorithm](notes/foundation-year-notes/foundation-year-spring-notes/mathematics-for-computing-2-notes/dijkstras-algorithm.md)
     * [Program Design](notes/foundation-year-notes/foundation-year-spring-notes/program-design-notes/README.md)
-      * [Object Oriented Design](notes/foundation-year-notes/foundation-year-spring-notes/program-design-notes/untitled.md)
-      * [Use Case](notes/foundation-year-notes/foundation-year-spring-notes/program-design-notes/use-case-anaylsis.md)
+      * [Object Oriented](notes/foundation-year-notes/foundation-year-spring-notes/program-design-notes/untitled.md)
+      * [Use Case Diagrams](notes/foundation-year-notes/foundation-year-spring-notes/program-design-notes/use-case-anaylsis.md)
       * [Multiple Files](notes/foundation-year-notes/foundation-year-spring-notes/program-design-notes/multiple-files.md)
       * [Class Diagrams](notes/foundation-year-notes/foundation-year-spring-notes/program-design-notes/class-diagrams.md)
       * [Strings](notes/foundation-year-notes/foundation-year-spring-notes/program-design-notes/strings.md)
