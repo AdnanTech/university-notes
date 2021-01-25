@@ -1,2 +1,6 @@
 # Sequences
 
+## Arithmetic
+
+## Geometric
+
