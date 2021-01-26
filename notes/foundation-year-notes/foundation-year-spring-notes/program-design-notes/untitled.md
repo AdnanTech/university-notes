@@ -16,7 +16,13 @@ Object Oriented can be broken down into Object Oriented Analysis \(OOA\), Object
 
 **Assess methods:** allow attribute data to be seen by code outside the class of objects.
 
-**Mutation methods:** allow attribute data to be changed by code outside the class
+**Mutation methods:** allow attribute data to be changed by code outside the class.
+
+**Aggregation and Composition**: An object containing an embedded object.
+
+**Association and Collaboration**: Messages are used to link objects of different classes.
+
+**Use Case**: A goal a user has in using the system.
 
 ## What makes OOP
 
@@ -26,15 +32,9 @@ The key concept for the Object Oriented approach to programming is the **relatio
 
 A function with different implementations depending on the object type or list of parameters. Also known as function overloading or operator overloading.
 
-Use Case: A goal a user has in using the system.
-
 ### Inheritance
 
 Generalisation and specialisation, Parent and child, super class and subclass, and base class and derived class.
-
-**Aggregation and Composition**: An object containing an embedded object.
-
-**Association and Collaboration**: Messages are used to link objects of different classes
 
 ### Abstraction
 
@@ -50,17 +50,17 @@ Data hiding, prevents unintended or malicious changes by ensuring exclusivity of
 
 ### Reuse
 
-Re use often refers to using inheritance in your application to take advantage of behaviour implemented in existing classes. Inheritance is one of the fundamental concepts of object orientation, letting you model “is a”, “is like”, and “is kind of” relationships. Re useof class libraries is also one of the main goals behind the invention of object oriented programming, which is one of the most common forms of formalised reuse. A somewhat later invention is genericprogramming libraries
+Re use often refers to using inheritance in your application to take advantage of behaviour implemented in existing classes. Inheritance is one of the fundamental concepts of object orientation, letting you model “is a”, “is like”, and “is kind of” relationships. Re use of class libraries is also one of the main goals behind the invention of object oriented programming.
 
 ## Constructors & Destructors
 
-A constructor is a special method, with the same name as its class, which is called to create an object. It is normally used to initialise the attributes of the object. It can have parameters but does not have a return type.
+A **constructor** is a special method, with the same name as its class, which is called to **create an object**. It is normally used to initialise the attributes of the object. It can have parameters but does not have a return type.
 
-A destructor in C++ is a method, with its name starting with '~' followed by the class name, which is automatically invoked when the object is destroyed. It does not have parameters or a return type.
+A **destructor** in C++ is a method, with its name starting with '~' followed by the class name, which is automatically **invoked when the object is destroyed**. It does not have parameters or a return type. Destroyed refers to when an object is out of scope or called to be deleted
 
 ## Object Oriented Analysis Design
 
-**UML**: Unified Modelling Language, a set of defined diagrams for doing OOAD. These include Use Case diagrams, Class diagrams and Sequence diagrams.
+**UML**: **Unified Modelling Language**, a set of defined diagrams for doing OOAD \(Object Oriented Analysis Design\). These include Use Case diagrams, Class diagrams and Sequence diagrams.
 
 **RUP**: Rational Unified Process, a system development life cycle.
 
