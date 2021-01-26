@@ -56,5 +56,10 @@ Data types can also be _**modified**_, they also depend on whether you are runni
   *  long double
     * 16 bytes \(128 bit\)
 
+
+
+* double = 15 decimal points \(64 bit\) - 11 exponent 52 mantissa, hence the name double
+* float = 7 decimal ponts \(32 bit\) - 8 exponent 23 mantissa
+
 ### [Code Base C examples](https://adnantech.gitbook.io/code/code/c)
 

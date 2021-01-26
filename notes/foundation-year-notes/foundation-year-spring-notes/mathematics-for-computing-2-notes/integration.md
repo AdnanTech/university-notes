@@ -10,6 +10,10 @@ The general form for an integration question
 
 ![](../../../../.gitbook/assets/image%20%28127%29.png)
 
+### General Formula
+
+![](../../../../.gitbook/assets/image%20%28130%29.png)
+
 ### Integration Laws
 
 **DONT FORGET THE + C FOR INDEFINITE INTEGRATION!**
@@ -21,4 +25,14 @@ The general form for an integration question
 A key concept is that there is one anti derivative for many equations, for example:
 
 ![](../../../../.gitbook/assets/image%20%28126%29.png)
+
+## Area Under a Curve
+
+Definite Integration
+
+## Integration by Parts
+
+## **Integration** by Substitution
+
+##  **Integration** by Partial Fraction
 
