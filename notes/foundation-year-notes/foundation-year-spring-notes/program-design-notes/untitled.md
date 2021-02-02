@@ -30,15 +30,17 @@ The key concept for the Object Oriented approach to programming is the **relatio
 
 ### Polymorphism
 
-Polymorphism is where an object can take on different forms. Forms refers to states, a real life of an example is that the object can be a person, who has many different characteristics, uni student, working and a caring brother. In OOP, an example of oplymorphism is where a parent class makes a reference to a child class object.
+**Polymorphism** is where an object can take on different forms. Forms refers to states, a real life of an example is that the object can be a person, who has many different characteristics, uni student, working and a caring brother. In OOP, an example of oplymorphism is where a parent class makes a reference to a child class object.
 
-A function with different implementations depending on the object type or list of parameters. Also known as function overloading or operator overloading. Constructors are also good examples of polymorphism.
+A function with **different implementations** depending on the object type or list of parameters. Also known as function overloading or operator overloading. Constructors are also good examples of polymorphism.
 
 ### Inheritance
 
-Inheritance is where attributes and methods of a class are inherited from another class.
+**Inheritance** is where attributes and methods of a class are inherited from another class.
 
-Generalisation and specialisation, Parent and child, super class and subclass, and base class and derived class. An example of this would be to have a base class called vehicle and a derived class called car.
+**Generalisation and specialisation**, Parent and child, super class and subclass, and base class and derived class. An example of this would be to have a base class called vehicle and a derived class called car.
+
+**Message passing** is a form of communication used in object oriented programming. Communications are completed by calling a method of an object.
 
 ### Abstraction
 
@@ -48,9 +50,9 @@ A key example of abstraction is an **API** \(Application Programming Interface\)
 
 ### Encapsulation
 
-Modularity is closely tied with encapsulation and classes. The C++ convention is to create two files for each class of objects. A header file .h for the class definition. An implementation file .cppfor the code of the class methods.
+**Modularity** is closely tied with encapsulation and classes. The C++ convention is to create two files for each class of objects. A header file .h for the class definition. An implementation file .cpp for the code of the class methods.
 
-Data hiding, prevents unintended or malicious changes by ensuring exclusivity of data acess to class members. Generally, you'll want to privatise the attributes, and publicise the methods, for re use.
+**Data hiding**, prevents unintended or malicious changes by ensuring exclusivity of data acess to class members. Generally, you'll want to privatise the attributes, and publicise the methods, for re use.
 
 #### Reuse
 
