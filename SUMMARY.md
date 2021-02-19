@@ -114,6 +114,7 @@
       * [Relational Databses](notes/foundation-year-notes/foundation-year-spring-notes/database-and-application-development-notes/relational-databses.md)
       * [Data Gathering Methods](notes/foundation-year-notes/foundation-year-spring-notes/database-and-application-development-notes/data-gathering-methods.md)
       * [Data Design](notes/foundation-year-notes/foundation-year-spring-notes/database-and-application-development-notes/data-design.md)
+      * [Entity Relationship Diagrams](notes/foundation-year-notes/foundation-year-spring-notes/database-and-application-development-notes/entity-relationship-diagrams.md)
       * [Normalisation](notes/foundation-year-notes/foundation-year-spring-notes/database-and-application-development-notes/normalisation.md)
       * [MySQL](notes/foundation-year-notes/foundation-year-spring-notes/database-and-application-development-notes/relational-diagrams.md)
       * [Using SQL for Databases](notes/foundation-year-notes/foundation-year-spring-notes/database-and-application-development-notes/using-sql-for-databases.md)
