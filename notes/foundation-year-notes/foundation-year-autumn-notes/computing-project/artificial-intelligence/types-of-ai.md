@@ -33,7 +33,7 @@ Two popular approaches:
 * Uses the concept of human brain cells and neuro plasicity
 * The logic of neural networks can be represented with a logic table
 * One neuron \(processor\) is called a perceptron in computer science terms, and these can be combined to create truth laws based on input, for example an or table, where there is a pipeline that takes the inputs, and performs a calculation, and using a relational operator, determines if the statement is true of false.
-* The process of building a network with lots of different rules, and adjusting the rules until it solves the problem, Back propagation is a key way, as well as reinforcement.
+* The process of building a network with lots of different rules, and adjusting the rules until it solves the problem, Back propagation is a key way, as well as reinforcement learning.
 * What's interesting is neuro plasicity when brain cells are damaged, as more specialised cells can reform to take the role of another damaged cell, as well as their own.
 
 ### Genetic algorithms
@@ -44,9 +44,5 @@ Two popular approaches:
 * Mutation is key to evolution which is key to survival of a species. Related to Computer science because it hones in on the idea that sometimes you have to change rules to progress.
 * As mutation takes the best ideas of an entity and carries them forward.
 
-### 
-
 These can be combined to make a hybrid technique, which combines the approaches to solve the problem easier.
-
-
 
