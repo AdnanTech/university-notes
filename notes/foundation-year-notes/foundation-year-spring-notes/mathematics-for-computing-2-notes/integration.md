@@ -1,6 +1,6 @@
 # Integration
 
-## Anti-Derivative
+## Anti-Derivative \(Integration\)
 
 Anti derivative is a fancy way of saying normal integration on an equation.
 
@@ -14,7 +14,7 @@ The general form for an integration question
 
 ![](../../../../.gitbook/assets/image%20%28130%29.png)
 
-### Integration Laws
+## Integration Laws \(IDENTITIES\)
 
 **DONT FORGET THE + C FOR INDEFINITE INTEGRATION!**
 
@@ -31,6 +31,10 @@ A key concept is that there is one anti derivative for many equations, for examp
 Definite Integration
 
 ## Integration by Parts
+
+### Formula
+
+![](../../../../.gitbook/assets/image%20%28175%29.png)
 
 ## **Integration** by Substitution
 
