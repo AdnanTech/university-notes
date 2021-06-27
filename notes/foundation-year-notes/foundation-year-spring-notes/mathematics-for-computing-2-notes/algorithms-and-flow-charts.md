@@ -50,7 +50,7 @@ Flow charts are graphs that represent programs. Essentially alternatives to pseu
 
 Left is graphical, right is the actual code:
 
-![](../../../../.gitbook/assets/image%20%28185%29.png)
+![](../../../../.gitbook/assets/image%20%28186%29.png)
 
 ### Example 2
 

@@ -4,7 +4,7 @@
 
 Arithmetic is a simple sequence of numbersm where there is a **common difference between the numbers \(negative, fractional etc\)**. We can write the sum of a series using sigma notation:
 
-![](../../../../.gitbook/assets/image%20%28188%29.png)
+![](../../../../.gitbook/assets/image%20%28189%29.png)
 
 Where 6 and 1 are the upper and lower limits respectively.
 
@@ -16,7 +16,7 @@ Where 6 and 1 are the upper and lower limits respectively.
 
 **Geometric progressions do not have a constant common difference, instead a ratio between two consecutive terms is constant.** Using sigma notation to sum a series like before:
 
-![](../../../../.gitbook/assets/image%20%28184%29.png)
+![](../../../../.gitbook/assets/image%20%28185%29.png)
 
 This is essentially saying:
 

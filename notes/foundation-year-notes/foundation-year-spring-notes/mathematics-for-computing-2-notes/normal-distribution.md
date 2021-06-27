@@ -71,7 +71,7 @@ If you split the standardised graph down the middle, both havles represent 0.5.
 
 ### Example
 
-![](../../../../.gitbook/assets/image%20%28187%29.png)
+![](../../../../.gitbook/assets/image%20%28188%29.png)
 
 ### Why?
 

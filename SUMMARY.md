@@ -137,6 +137,7 @@
       * [Recursive Function](notes/foundation-year-notes/foundation-year-spring-notes/mathematics-for-computing-2-notes/recursive-function.md)
       * [Binary Search](notes/foundation-year-notes/foundation-year-spring-notes/mathematics-for-computing-2-notes/binary-search-1.md)
       * [Dijkstra's Algorithm](notes/foundation-year-notes/foundation-year-spring-notes/mathematics-for-computing-2-notes/dijkstras-algorithm.md)
+      * [Information Theory](notes/foundation-year-notes/foundation-year-spring-notes/mathematics-for-computing-2-notes/information-theory.md)
     * [Program Design](notes/foundation-year-notes/foundation-year-spring-notes/program-design-notes/README.md)
       * [Object Oriented](notes/foundation-year-notes/foundation-year-spring-notes/program-design-notes/untitled.md)
       * [Use Case Diagrams](notes/foundation-year-notes/foundation-year-spring-notes/program-design-notes/use-case-anaylsis.md)

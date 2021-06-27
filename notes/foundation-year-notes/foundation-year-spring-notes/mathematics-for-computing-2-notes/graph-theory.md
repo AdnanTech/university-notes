@@ -30,5 +30,5 @@ To prove sets are equal, we can use Venn Diagrams. Or we can use a **membership 
 
 ## Symbols
 
-![](../../../../.gitbook/assets/image%20%28189%29.png)
+![](../../../../.gitbook/assets/image%20%28190%29.png)
 
