@@ -19,7 +19,8 @@ This module follows on from "Introduction to Programming" and provides an introd
 
 | Title | Author | Year Published | Mandatory? |
 | :--- | :--- | :--- | :--- |
-|  |  |  |  |
+| Objects first with Java: a practical introduction using BlueJ | David J. Barnes; Michael Kölling | 2016 | Recommended |
+| Design patterns: elements of reusable object-oriented software | Erich Gamma | 1995 | Recommended |
 
 
 

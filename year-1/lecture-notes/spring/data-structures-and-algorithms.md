@@ -20,11 +20,7 @@ This module provides an introduction to data structures and algorithms for compu
 
 ## Reading List
 
-| Title | Author | Year Published | Mandatory? |
-| :--- | :--- | :--- | :--- |
-|  |  |  |  |
-
-
+No Reading List.
 
 
 

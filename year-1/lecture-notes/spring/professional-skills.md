@@ -19,18 +19,18 @@ Topics include:
 * Reviewing
 * Correct attribution of credit and referencing
 
-Technical communication skills
+**Technical communication skills**
 
 * Giving effective oral presentations
 * Graphical aids for oral presentations
 
-Professional conduct
+**Professional conduct**
 
 * Codes of professional conduct
 * Computers and society, including the workplace and education
 * Ethical implications of the internet, artificial intelligence, virtual reality, and emerging new technologies
 
-IT law
+**IT law**
 
 * Computer crime
 * Privacy and data protection
@@ -48,9 +48,6 @@ IT law
 
 | Title | Author | Year Published | Mandatory? |
 | :--- | :--- | :--- | :--- |
-|  |  |  |  |
-
-
-
-
+| Communication skills: a guide for engineering and applied science students | John W. Davies | 2001 | Yes |
+| Professional issues in information technology | Frank Bott | 2014 | Yes |
 
