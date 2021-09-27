@@ -1,8 +1,10 @@
 # Intro To Algorithms
 
+There is an exam in January, that is based off of the worksheets. The worksheets are handed out every week. The exam is worth 100% of the module.
+
 ## Module Overview
 
-The description of algorithmic problems•
+The description of algorithmic problems
 
 * Their solution using algorithms
 * The design of algorithms
@@ -22,9 +24,15 @@ Reasoning about algorithms
 
 Important properties of algorithms are **correctness** and **complexity**. The concept of time complexity of an algorithm is presented and **asymptotic complexity classes** will be covered.
 
+**Correctness** covers how accurage the algorithm is to it's specification, is each input leading to the correct output? Whereas complexity covers resource cost and effeciency.
+
 ## Specification
 
-A specification describes **WHAT** a system needs to do, expressed in meaningful terms \(layman\) to the **USER** of the system. This needs to be independant of any details of how the **SYSTEM** works.
+A specification describes **WHAT** a system needs to do, expressed in meaningful \(layman\) terms to the **USER** of the system. This needs to be independant of any details of how the **SYSTEM** works.
+
+## Computation
+
+A computation is a form of a calculation, either using arithmetics or non-arithmetical. A computer is a device that performs calculations.
 
 ## System
 
@@ -52,21 +60,27 @@ Programming in the large often consists of large complex systems, many modules, 
 
 ## Algorithmic Problems
 
-For a problem to be algorithmic, it needs to have up to an infinite amount of inputs, as well as a required output. For example, if you are given a set of numbers, and you are asked to find the largest number in the set, this is an algorithmic problem
+For a problem to be algorithmic, it needs to have:
+
+* Up to an infinite amount of **inputs**, as well as a required **output,**which is a function of the inputs.
+
+For example, if you are given a set of numbers, and you are asked to find the largest number in the set, this is an algorithmic problem
 
 ## Algorithms
 
-An algorithm consists of an ordered list of basic operations, which for every valid input:
+**An algorithm consists of an ordered list of basic operations, which for every valid input:**
 
 * Determines a finite sequence of operations to be performed
 * Halts
 * Produces some output
 
-"_Recipe for asystemto carry out a task_" - Named after al-Khwarizmi – 7th century Persian mathematician
+If the output contains the same elements as the input, it's a permutation, where there are the same elements, that is achieved by swapping. This terminology is commonly used in sorting algorithms.
+
+An Algorithm is a "_recipe for a system to carry out a task_" - Named after al-Khwarizmi – 7th century Persian mathematician
 
 To be an algorithm, you must meet certain requirements:
 
-* Basic operations must be elementary and unambiguous – require no creativity
+* **Basic operations** must be elementary and unambiguous – require no creativity
 * Understandable by system executing the algorithm
 * Level of detail appropriate to system executing the algorithm
 
