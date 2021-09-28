@@ -12,3 +12,5 @@ This Module is 50% Canvas quizzes, and 50% of an exam in January, based off the 
 
 MATLAB is required. There is also a practice quiz that will go live in week 2.
 
+There is also a free open-source version of MATLAB: [https://www.gnu.org/software/octave/index](https://www.gnu.org/software/octave/index). 
+
