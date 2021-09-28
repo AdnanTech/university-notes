@@ -26,5 +26,5 @@ Cognitive psychology precursors goes all the way back to around 400 BC, with Pla
 
 Meno - Learning is recollection of knowledge.
 
-The meno dialogue refers to a conversation had between Plato and Meno regarding innate knowledge. Innate knowledge refers to knowledge held by an individual from the moment they were born, for example, knowing how to breathe, reflexes made by babies and 
+The meno dialogue refers to a conversation had between Plato and Meno regarding innate knowledge. Innate knowledge refers to knowledge held by an individual from the moment they were born, for example, knowing how to breathe, reflexes made by babies and such. Plato argues that all knowledge is innate. 
 
