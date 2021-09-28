@@ -26,9 +26,9 @@ Cognitive psychology precursors goes all the way back to around 400 BC, with Pla
 
 
 
-Philosphical Zombies
+Philosophical Zombies
 
-Imagine a perfect copy of yourself, perfect down to the last atom. It looks, and acts in the exact way you would. However, it is not a conscious being. Is the existence of a P Zombie concievable? 
+Imagine a perfect copy of yourself, perfect down to the last atom. It looks, and acts in the exact way you would. However, it is not a conscious being. Is the existence of a P Zombie conceivable? 
 
 Meno - Learning is recollection of knowledge.
 
