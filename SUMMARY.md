@@ -18,6 +18,7 @@
         * [Intro To Algorithms](year-1/lecture-notes/autumn/programming-concepts/intro-to-algorithms.md)
       * [The Ghost in the Machine?](year-1/lecture-notes/autumn/the-ghost-in-the-machine/README.md)
         * [Pre Reading](year-1/lecture-notes/autumn/the-ghost-in-the-machine/pre-reading.md)
+        * [Intro](year-1/lecture-notes/autumn/the-ghost-in-the-machine/intro.md)
     * [Spring](year-1/lecture-notes/spring/README.md)
       * [Data Structures & Algorithms](year-1/lecture-notes/spring/data-structures-and-algorithms.md)
       * [Further Programming](year-1/lecture-notes/spring/further-programming.md)
