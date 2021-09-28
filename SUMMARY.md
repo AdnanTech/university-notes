@@ -13,6 +13,7 @@
         * [Pre Reading](year-1/lecture-notes/autumn/introduction-to-programming/pre-reading.md)
       * [Mathematical Concepts](year-1/lecture-notes/autumn/mathematical-concepts/README.md)
         * [Pre Reading](year-1/lecture-notes/autumn/mathematical-concepts/pre-reading.md)
+        * [Intro](year-1/lecture-notes/autumn/mathematical-concepts/intro.md)
       * [Programming Concepts](year-1/lecture-notes/autumn/programming-concepts/README.md)
         * [Intro To Algorithms](year-1/lecture-notes/autumn/programming-concepts/intro-to-algorithms.md)
       * [The Ghost in the Machine?](year-1/lecture-notes/autumn/the-ghost-in-the-machine/README.md)
