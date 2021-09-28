@@ -30,6 +30,53 @@ The exercise classes and coursework are based on a series of examples. The algor
 
 No reading list.
 
+## Definitions
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Algorithm</th>
+      <th style="text-align:left">
+        <p>An ordered list of basic operations, which for every valid input determines:</p>
+        <p>1) a finite sequence of operations to be performed</p>
+        <p>2) halts</p>
+        <p>3) produces some output</p>
+        <p>Put simply, a recipe for a system to carry out a task.</p>
+        <p>Named after al-Khwarizmi - 7th-century Persian mathematician</p>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Specification</td>
+      <td style="text-align:left">
+        <p>1) A description of what a system is supposed to do</p>
+        <p>2) Expressed in terms meaningful to the USER</p>
+        <p>3) Independent from any details of how the system actually works</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">System</td>
+      <td style="text-align:left">
+        <p>A physical process for carrying out a range of tasks e.g.</p>
+        <ul>
+          <li>A computer</li>
+          <li>Web service</li>
+          <li>Cook</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Implementation</td>
+      <td style="text-align:left">
+        <p>A detailed description of the various steps the system must perform to
+          carry out a task.</p>
+        <p>HOW the task is performed</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 
