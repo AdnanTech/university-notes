@@ -1,5 +1,7 @@
 # Beginnings
 
+## Overview
+
 The course is basically a cognitive science course, so the **science of the mind**. Some key questions:
 
 * What is the mind?
@@ -24,13 +26,11 @@ The ones in bold actually encapsulate behaviorist psychology.
 
 Cognitive psychology precursors goes all the way back to around 400 BC, with Plato, and properly started in 1956AD with the symposium on information theory.
 
-
-
-Philosophical Zombies
+## Philosophical Zombies
 
 Imagine a perfect copy of yourself, perfect down to the last atom. It looks, and acts in the exact way you would. However, it is not a conscious being. Is the existence of a P Zombie conceivable? 
 
-Meno - Learning is recollection of knowledge.
+## Meno - "Learning is recollection of knowledge"
 
 The meno dialogue refers to a conversation had between Plato and Meno regarding innate knowledge. Innate knowledge refers to knowledge held by an individual from the moment they were born, for example, knowing how to breathe, reflexes made by babies and such. Plato argues that all knowledge is innate. 
 
