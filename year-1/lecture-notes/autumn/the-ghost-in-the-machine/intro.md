@@ -24,5 +24,7 @@ The ones in bold actually encapsulate behaviorist psychology.
 
 Cognitive psychology precursors goes all the way back to around 400 BC, with Plato, and properly started in 1956AD with the symposium on information theory.
 
-Learning is recollection of knowledge.
+Meno - Learning is recollection of knowledge.
+
+The meno dialogue refers to a conversation had between Plato and Meno regarding innate knowledge. Innate knowledge refers to knowledge held by an individual from the moment they were born, for example, knowing how to breathe, reflexes made by babies and 
 
