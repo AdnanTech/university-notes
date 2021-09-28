@@ -1,4 +1,4 @@
-# Intro
+# Beginnings
 
 The course is basically a cognitive science course, so the **science of the mind**. Some key questions:
 
