@@ -2,10 +2,12 @@
 
 ## Learning Outcomes
 
-* Demonstrate knowledge of fundamental imperative programming concepts such as variables and assignment, conditional statements, loops and methods.
-* Code an application in a suitable object-oriented programming language, from a detailed software specification.
-* Evidence knowledge of basic concepts and principles of object-orientation such as objects and classes, encapsulation, object state, coupling, cohesion and modularity.
-* Show awareness of basic principles of software design and development including appropriate naming of variables and classes, code lay out, testing and debugging, and documentation.
+* Understand and successfully carry out the edit-compile-run cycle of software development in an appropriate software development environment.
+* Understand and use fundamental programming concepts such as variables, conditional statements, looping constructs, and methods \(procedures\).
+* Appreciate the distinction between objects and primitive types in Java.
+* Write a simple Java application involving about half a dozen or so simple classes.
+* Understand the basics of object oriented concepts such as encapsulation.
+* Understand and make use of simple built in data-types such as arrays, Strings, and some of the Collection classes.
 
 ## Outline
 
