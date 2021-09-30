@@ -1,24 +1,25 @@
 # Intro To Algorithms
 
-There is an exam in January, that is based off of the worksheets. The worksheets are handed out every week. The exam is worth 100% of the module.
+## 
 
-## Module Overview
+## Algorithms
 
-The description of algorithmic problems
+**An algorithm consists of an ordered list of basic operations, which for every valid input:**
 
-* Their solution using algorithms
-* The design of algorithms
+* Determines a finite sequence of operations to be performed
+* Halts
+* Produces some output
 
-The comparison between different algorithms for the same problem
+If the output contains the same elements as the input, it's a **permutation**, where there are the same elements, that is achieved by swapping. This terminology is commonly used in sorting algorithms.
 
-* How do we choose between them?
-* When is one algorithm better than another?
+An Algorithm is a "_recipe for a system to carry out a task_" - Named after al-Khwarizmi – 7th century Persian mathematician
 
-Reasoning about algorithms
+### Defining an Algorithm
 
-* Does the algorithm solve the given problem?
-* In all cases?
-* How can we guarantee this?
+To be an algorithm, you must meet certain requirements:
+
+* Contain only **basic operations** must be _elementary and unambiguous_ – require no creativity and _understandable by system_ executing the algorithm
+* Level of detail appropriate to system executing the algorithm
 
 ## Algorithm Properties
 
@@ -65,22 +66,4 @@ For a problem to be algorithmic, it needs to have:
 * Up to an infinite amount of **inputs**, as well as a required **output,**which is a function of the inputs.
 
 For example, if you are given a set of numbers, and you are asked to find the largest number in the set, this is an algorithmic problem
-
-## Algorithms
-
-**An algorithm consists of an ordered list of basic operations, which for every valid input:**
-
-* Determines a finite sequence of operations to be performed
-* Halts
-* Produces some output
-
-If the output contains the same elements as the input, it's a permutation, where there are the same elements, that is achieved by swapping. This terminology is commonly used in sorting algorithms.
-
-An Algorithm is a "_recipe for a system to carry out a task_" - Named after al-Khwarizmi – 7th century Persian mathematician
-
-To be an algorithm, you must meet certain requirements:
-
-* **Basic operations** must be elementary and unambiguous – require no creativity
-* Understandable by system executing the algorithm
-* Level of detail appropriate to system executing the algorithm
 

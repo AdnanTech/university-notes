@@ -1,5 +1,7 @@
 # Programming Concepts
 
+There is an exam in January, that is based off of the worksheets. The worksheets are handed out every week. The exam is worth 100% of the module.
+
 ## Learning Outcomes
 
 * Develop an algorithm from a given problem specification.
