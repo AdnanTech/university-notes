@@ -43,6 +43,29 @@ A Real Number can have any number of digits on either side of the decimal point,
 
 ## ℂ – **Complex** numbers
 
+Squares of real numbers are positive, for example, there is no real number which satisfies $$x^2=-1 $$ . In order to fix this, mathematicians introduced the imaginary number, commonly known as $$i$$ . It's defined as $$i = \sqrt{-1}$$ .
+
+Complex numbers can be written in the form $$z= x + yi$$, where $$x \in \mathbb{R}$$ is called the real part, and $$y\in\mathbb{R}$$ is called the imaginary part.
+
+Normal BEDMAS operations can be performed on complex numbers, for example:
+
+$$
+5+3i =5-3+3i-i\\
+=2+2i
+$$
+
+$$
+(5+3i)(3+i)=5\cdot3+5i+3i+3i\cdot i\\
+=15 + 5i + 9i - 3\\
+=12+14i
+$$
+
+Complex numbers are algebraically closed, however, they cannot be placed along a line, and require a plane to be ordered. Algebraic closure refers to the complex sets property that states $$x^n=y$$ has a solution for all $$x\in \mathbb{C}, n \in \mathbb{N}, y \in \mathbb{C}$$ 
+
+
+
+![Translations for points along the complex plane](../../../../.gitbook/assets/screenshot-2021-09-30-at-14-49-13-lec-2-pdf.png)
+
 ## Symbols of Logic
 
 * ⇒ means “**implies**”
