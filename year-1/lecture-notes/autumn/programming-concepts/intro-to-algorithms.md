@@ -1,16 +1,12 @@
 # Intro To Algorithms
 
-## 
-
 ## Algorithms
 
 **An algorithm consists of an ordered list of basic operations, which for every valid input:**
 
-* Determines a finite sequence of operations to be performed
-* Halts
+* Determines a **finite sequence of basic operations** to be performed
+* Halts - Given an input, will the algorithm hang or go into an infinite loop?
 * Produces some output
-
-If the output contains the same elements as the input, it's a **permutation**, where there are the same elements, that is achieved by swapping. This terminology is commonly used in sorting algorithms.
 
 An Algorithm is a "_recipe for a system to carry out a task_" - Named after al-Khwarizmi – 7th century Persian mathematician
 
@@ -20,6 +16,8 @@ To be an algorithm, you must meet certain requirements:
 
 * Contain only **basic operations** must be _elementary and unambiguous_ – require no creativity and _understandable by system_ executing the algorithm
 * Level of detail appropriate to system executing the algorithm
+
+If the output contains the same elements as the input, it's a **permutation**, where there are the same elements, that is achieved by swapping. This terminology is commonly used in sorting algorithms.
 
 ## Algorithm Properties
 
