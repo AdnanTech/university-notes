@@ -70,3 +70,49 @@ Then, x^2 = \(2n + 1\)^2 = 4n^2 + 4n + 1
 Therefore, x^2 is odd  
 **x is odd ⇒ x^2 is odd**
 
+## Notation
+
+
+
+Sets are a collection of numbers. 
+
+The $$\in$$ symbol is used to show that a number is an element of a set of numbers. For example, the statement $$x \in A$$means that the number $$x$$ is part of the set known as $$A$$ .
+
+* $$A \subset B$$ means that everything in set A is also in set B
+* $$A \subseteq B$$ means that B only contains things from A
+
+## Second Proof
+
+We will begin the proof by proving A "Lemma". To do so, we will use a result about logic called the contra-positive. For example, "A implies B" is the same as saying "not A implies not B". In logical notation, it reads as follows:
+
+$$(A\rightarrow B)\iff(¬B\rightarrow¬A)$$ 
+
+### Example proof of the contra-positive
+
+#### Lemma. 
+
+$$x^2$$ is even implies $$x $$ is even for $$x \in \mathbb{N}$$ .
+
+#### Proof
+
+* Assume $$x $$ is odd, ie. $$x=2n+1$$ for $$x \in \mathbb{Z}$$ 
+* Then, $$x^2=(2n+1)^2=4n^2+4n+1=2(2n^2+2n)+1$$ 
+* Therefore, $$x^2$$ is odd 
+* Because $$¬(x~\text{is odd}) = x~\text{is even}$$ 
+
+### Proof of $$\sqrt{2} \not\in \mathbb{Q}$$ - Proof by contradiction
+
+* Assume $$\sqrt{2}$$ is rational, i.e., $$\sqrt{2} = \frac{a}{b}$$ , where a and b are integers expressed in their lowest terms.
+* Then, $$2=\frac{a^2}{b^2}\rightarrow a^2=2b^2$$ 
+* Since $$b^2 \in \mathbb{Z}$$ , $$a^2$$ is an even integer
+* Using the Lemma, as $$a^2 $$ is even, this implies $$a $$ is even
+* So we can write $$a = 2c $$ with $$c \in \mathbb{Z}$$ 
+* Then  $$a^2=(2c)^2=4c^2=2b^2$$ 
+* $$\rightarrow b^2=2c^2$$ , hence b^2 is even, thus by the lemma, b is even
+* We have found both a and b are even, thus $$\frac{a}{b}$$ was not actually expressed in the lowest terms, a contradiction 
+* Therefore, $$\sqrt{2} \in \mathbb{Q}$$ 
+
+
+
+
+

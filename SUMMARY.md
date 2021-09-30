@@ -7,6 +7,7 @@
 ---
 
 * [Year 1](year-1/README.md)
+  * [Scoreboard](year-1/scoreboard.md)
   * [Lecture Notes](year-1/lecture-notes/README.md)
     * [Autumn](year-1/lecture-notes/autumn/README.md)
       * [Introduction to Programming](year-1/lecture-notes/autumn/introduction-to-programming/README.md)
