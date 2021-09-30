@@ -45,7 +45,7 @@
 
 ## Essential features of algorithms
 
-
+* Non self-referential
 
 ## Data storage - Variables
 
@@ -81,7 +81,17 @@ When writing pseudocode, the indentation matters a lot as it shows which variabl
 
 ## Calculating salary bill
 
+### Problem description
 
+Legal inputs: any list of employee records, containing each of their salaries 
+
+Required output: the total salary bill
+
+### Algorithm
+
+* Make a note of the number zero
+* For each employee in the list, add their salary to the noted number
+* Output the noted number
 
 ## Happy employees
 
