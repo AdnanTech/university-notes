@@ -33,11 +33,15 @@ Unlike ℤ, the set ℚ is closed under division \(so long as 𝑏 ≠ 0\). Unli
 
 **ℚ still has an ordering:** for any 𝑎 ≠ 𝑏 ∈ ℚ : 𝑎 &lt; 𝑏 or 𝑏 &lt; 𝑎
 
-### Other Types of Numbers
+### 
 
-ℝ – **Real** numbers
+## ℝ – **Real** numbers
 
-ℂ – **Complex** numbers
+ℝ represents any tangible number, meaning it excludes imaginary numbers such as infinity or √-1.
+
+A Real Number can have any number of digits on either side of the decimal point, so 1/3 is considered a Real Number despite having an infinite number of digits on the right of the decimal point.
+
+## ℂ – **Complex** numbers
 
 ## Symbols of Logic
 
@@ -53,4 +57,16 @@ Unlike ℤ, the set ℚ is closed under division \(so long as 𝑏 ≠ 0\). Unli
 Proof there is no successor function for Rational Numbers:
 
 If you have 2 rational numbers, x and y, where y is the next number in the sequence x, y, z. For this to be true, x &lt; y, therefore there is no successor function?
+
+**Lemma. "x^2 is even" implies "x is even" for x ∈ ℕ**.
+
+**Proof:**
+
+Assume x is odd, i.e., x = 2n + 1 for n ∈ ℤ.
+
+Then, x^2 = \(2n + 1\)^2 = 4n^2 + 4n + 1  
+                                        = 2\(2n^2 + 2n\) + 1
+
+Therefore, x^2 is odd  
+**x is odd ⇒ x^2 is odd**
 
