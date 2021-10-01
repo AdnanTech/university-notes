@@ -9,11 +9,11 @@ description: What is a number?
 ℕ stands for a **natural** number. 
 
 A natural number is any number that  
- may be obtained from 0, by applying the “**successor function**” `[S(n) = n + 1]` a finite number of times.
+ may be obtained from 0, by applying the “**successor function**”$$S(n)= n+1$$ a finite number of times.
 
-If 0 is not included, one might write N\_+ … or more often: Z\_+. However, in this course, we DO include zero as a natural number.
+If 0 is not included, one might write $$N_+$$or more often: $$Z_+$$ . However, in this course, we DO include zero as a natural number.
 
-This encapsulates {0,1,2,3...} as well as the operations \( /, \*, +. - \[Where \* is a dot in the middle\]\). A general rule of thumb is that if you  add or multiply two natural numbers, the result is another natural number.
+This encapsulates $$\{0,1,2,3,...\}$$ as well as the operations \( /, \*, +. - \[Where \* is a dot in the middle\]\). A general rule of thumb is that if you  add or multiply two natural numbers, the result is another natural number.
 
 ℕ is closed under addition and multiplication”. ℕ is not closed under subtraction or division: 3−5 ∉ ℕ and 1/3 ∉ ℕ.
 
