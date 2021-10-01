@@ -4,6 +4,8 @@
 
 A class describes a _kind_ of object, and specifies what sort of information the object has, called **attributes**. It specifies the operations and behaviours of the encapsulating objects, called **methods**.
 
+Definitions of a class should be started with an upper case letter, and instances of classes should be started with a lower case. 
+
 ## Objects
 
 Objects are **instances** of classes. Every object has it's own attributes and methods, defined by it's class. As many objects as the memory allows can be created in Java, through using _constructor methods_.
@@ -15,6 +17,8 @@ In Java, the naming convention for classes is **upper camel case.**
 Operations that can be **invoked** \(called\) for objects are called methods. Methods take parameters, and parameters have a type, and a value \(even if none\).
 
 In Java, the naming convention for methods and parameters is **camel case**.
+
+Constructors are special methods of a class, which are run automatically whenever the object is initialized. They are used to set class attributes among various other things. 
 
 ## Data types
 
