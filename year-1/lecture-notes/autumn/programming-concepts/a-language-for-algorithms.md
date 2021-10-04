@@ -57,7 +57,7 @@ Basic operations counts as the arithmetic operations as well as control flow.
 
 ## Data storage - Arrays
 
-
+Indexing in Pseudocode start at 1, not 0.
 
 ## Control structures 
 
