@@ -24,8 +24,8 @@
       </td>
       <td style="text-align:left">
         <p>Run function A</p>
-        <p>Run function A</p>
-        <p>Run function A</p>
+        <p>Run function B</p>
+        <p>Run function C</p>
       </td>
     </tr>
     <tr>
@@ -38,6 +38,10 @@
     </tr>
   </tbody>
 </table>
+
+## Basic Operations
+
+Basic operations counts as the arithmetic operations as well as control flow.
 
 ## Purpose of algorithms
 
@@ -104,6 +108,8 @@ Required output: the total salary bill
 ## Algorithm Example: Multiplication A La Russe
 
 ![](../../../../.gitbook/assets/screenshot-2021-10-04-at-10.39.31.png)
+
+To program this, you would use bitwise shifts.
 
 ## Summary 
 
