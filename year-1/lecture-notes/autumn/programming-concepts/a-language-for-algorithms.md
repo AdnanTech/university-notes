@@ -101,6 +101,10 @@ Required output: the total salary bill
 
 
 
+## Algorithm Example: Multiplication A La Russe
+
+![](../../../../.gitbook/assets/screenshot-2021-10-04-at-10.39.31.png)
+
 ## Summary 
 
 
