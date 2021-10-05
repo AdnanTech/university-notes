@@ -35,6 +35,7 @@
       * [The Ghost in the Machine?](year-1/lecture-notes/autumn/the-ghost-in-the-machine/README.md)
         * [Reading List](year-1/lecture-notes/autumn/the-ghost-in-the-machine/pre-reading.md)
         * [Beginnings](year-1/lecture-notes/autumn/the-ghost-in-the-machine/intro.md)
+        * [Developing your writing skills](year-1/lecture-notes/autumn/the-ghost-in-the-machine/developing-your-writing-skills.md)
         * [Discipline Matures: Three Landmarks](year-1/lecture-notes/autumn/the-ghost-in-the-machine/discipline-matures-three-landmarks.md)
         * [Physical Symbol Systems](year-1/lecture-notes/autumn/the-ghost-in-the-machine/physical-symbol-systems.md)
         * [Symbolic Paradigm & Machine Learning](year-1/lecture-notes/autumn/the-ghost-in-the-machine/symbolic-paradigm-and-machine-learning.md)
