@@ -4,9 +4,15 @@ description: Ghost in the Machine lecture 05/10/2021
 
 # Developing your writing skills
 
+### Writing Process
+
 ## Why developing writing skills is important
 
+Writing has seven levels: Planning, Drafting, Sharing, Evaluating, Revising, Editing and Publishing.
+
 ### Carreer and cognitive science perspective
+
+### Module Approach to Writing Skills
 
 * Professional and life perspective
   * Core transferable skill
@@ -18,8 +24,13 @@ description: Ghost in the Machine lecture 05/10/2021
   * Writing is a tool for thinking 
   * Successful communication 
 
+Exercises will be given in the following areas:
+
 ### University and GitM module perspectie
 
+* Composition - Essay Writing - Practice
+* Evaluation - Essay Reviewing - Knowledge
+* Calibration - Back evaluation on reviews
 * University 
   * Different expectations to school/college
     * Explaination, synthesis, argue a thesis
@@ -30,7 +41,11 @@ description: Ghost in the Machine lecture 05/10/2021
     * 1,500 words
     * Due in assessment period A1 \(3-7 Jan 2022\)
 
+### [Peerceptiv](https://www.peerceptiv.com)
+
 ### Cognitive science of writing and learning
+
+Collaborative peer assessment system for writing. Does as well as being evaluated by a single tutor.
 
 * Cog sci studies of experts and novice writers
   * Writing puts the mind under extreme cognitive load
@@ -43,6 +58,8 @@ description: Ghost in the Machine lecture 05/10/2021
 * Writing can be systematically taught 
   * Decompose writing into functional components
   * goals and strategies for each component
+
+
 
 See lecture slides for citations 
 

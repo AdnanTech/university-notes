@@ -6,8 +6,8 @@ description: Enter for £10
 
 | Player | Count |
 | :--- | :--- |
-| Henry | 0 |
-| Jack | 0 |
+| Henry | 1 |
+| Jack | 1 |
 | Adnan | 5  |
 | Tom | 0 |
 | Rust user \(red hair\) | 12 |
