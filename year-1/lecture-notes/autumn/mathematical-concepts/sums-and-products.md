@@ -13,8 +13,8 @@ description: Lecture 05/10/2021
 ## Notation 
 
 * Infix notation \( $$x + y$$ \)
-* Postfix notation \( $$x~~y +$$ \)
-* Prefix notation \( $$+~x~~y$$ \)
+* Postfix notation \( $$x~~y +$$ \) 
+* Prefix notation \( $$+~x~~y$$ \) 
 * Prefix and postfix notation are _sometimes_ used in computer science
 
 ### Summations
@@ -38,11 +38,34 @@ return sum
 
 If the sum is empty, such as in the following example, it will always evaluate to zero. 
 
-
-
 $$
 \sum^0_{k=1}k^2=0
 $$
+
+Summations can also be nested, for example:
+
+$$
+\sum^{5}_{j=3} \sum^{2}_{k=1}j\cdot k = \sum^{2}_{k=1}3 \cdot k + \sum^{2}_{k=1}4 \cdot k+\sum^2_{k=1}5\cdot k
+$$
+
+The order of expansion in nested summations does not matter as they are associative. 
+
+#### Usage
+
+How do you write "the sum of the first $$n$$ odd numbers, is $$n^2$$"?
+
+* First n odd numbers?
+  * First odd number: 1
+  * Second odd number: 3
+  * Third odd number: 5
+  * $$\dots$$ 
+  * nth odd number: $$(2n - 1)$$ 
+
+$$
+\sum^{n}_{j=1} (2j-1)=n^2
+$$
+
+Indicies always range over integers, however, negative values are allowed. 
 
 ### Product 
 
@@ -65,6 +88,28 @@ Similarly to summation notation, if the product is empty, the expression will ev
 
 $$
 \prod^{1}_{x=5}x_i=1
+$$
+
+As opposed to summations, the order of operations matter, as multiplication has a higher precidence than summation. For example
+
+$$
+\prod^{3}_{i=1} \sum^{3}_{j=1}i\cdot j = \prod^{3}_{i=1} (i + 2 \cdot i + 3 \cdot i)
+$$
+
+#### Edge cases
+
+* let $$a, b>0$$ 
+
+$$
+\log(a \cdot b)=\log(a)+\log(b)
+$$
+
+* More generally:
+
+
+
+$$
+\log\big(\prod^{n}_{i=i}x_i\big)=\sum^{n}_{k=0}\log(x_i)
 $$
 
 
