@@ -28,6 +28,7 @@
         * [Pre Reading](year-1/lecture-notes/autumn/mathematical-concepts/pre-reading.md)
         * [Intro](year-1/lecture-notes/autumn/mathematical-concepts/intro.md)
         * [Number Sets](year-1/lecture-notes/autumn/mathematical-concepts/number-sets.md)
+      * [Sums and Products](year-1/lecture-notes/autumn/sums-and-products.md)
       * [Programming Concepts](year-1/lecture-notes/autumn/programming-concepts/README.md)
         * [Intro To Algorithms](year-1/lecture-notes/autumn/programming-concepts/intro-to-algorithms.md)
         * [Pseudocode: A language for algorithms](year-1/lecture-notes/autumn/programming-concepts/a-language-for-algorithms.md)
