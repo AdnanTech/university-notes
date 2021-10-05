@@ -140,8 +140,9 @@ Summing the first n positive numbers
 
 ```text
 sum <- 0
-for i <- to n do
+for i <- 1 to n do
     sum <- sum + i
+return sum 
 ```
 
 
@@ -149,6 +150,15 @@ for i <- to n do
 #### Conditional iteration
 
 Conditional iteration instructs the reader to do something while some condition is true. It is not known how many times the instructions will be executed before the iteration begins. 
+
+```text
+while <condition> do
+    <something>
+```
+
+With conditional iteration, it's expected that the condition will eventually change to be false, and end the iteration. However, there's no guarantee that it will always exit the loop. 
+
+
 
 ### Layout is important
 
@@ -175,11 +185,30 @@ Legal inputs: any list of employee records, containing each of their salaries
 
 Required output: the total salary bill
 
-### Algorithm
+### Algorithm \(person to person\)
 
 * Make a note of the number zero
 * For each employee in the list, add their salary to the noted number
 * Output the noted number
+
+### Algorithm \(person to computer\)
+
+#### Assumptions
+
+1. The employees array is n elements long
+2. All employees have a salary in the employees array 
+
+**Inputs:** an array E\[1..n\] of employee details
+
+**Output:** total salary of all employees
+
+```text
+total <- 0
+for i <- 1 to n do
+    total <- total + salary(E[i])
+    
+return total
+```
 
 ## Happy employees
 
