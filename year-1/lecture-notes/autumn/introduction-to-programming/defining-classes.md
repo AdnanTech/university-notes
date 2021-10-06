@@ -1,3 +1,7 @@
+---
+description: Lecture notes 06/10/2021
+---
+
 # Defining Classes
 
 ## Classes
@@ -5,6 +9,20 @@
 A class describes a _kind_ of object, and specifies what sort of information the object has, called **attributes**. It specifies the operations and behaviours of the encapsulating objects, called **methods**.
 
 Definitions of a class should be started with an upper case letter, and instances of classes should be started with a lower case. 
+
+### Fields
+
+Fields are **instance variables** that store values of an object within a class, for example `private int counter`.
+
+Fields can be accessed with **getters**, called accessor methods and **setters**, called **mutator** methods.
+
+### Constructors
+
+Contstructors **initialise objects**, they are run immediately when an object is created, and have the same method signature as a class name, but instead it's a method.
+
+Constructors return an instance of a class, thus they are essentially void methods, without the signature of void. So the formatting is `public className()`.
+
+In Java, you can **overload constructors**, thus can have more than 1 constructor function, each can taking multiple or zero arguments.
 
 ## Objects
 
