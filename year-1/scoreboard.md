@@ -8,7 +8,7 @@ description: Enter for £10
 | :--- | :--- |
 | Henry | 2 |
 | Jack | 1 |
-| Adnan | 5  |
+| Adnan | 8 |
 | Tom | 0 |
 | Rust user \(red hair\) | 12 |
 | Abe | 0 |
