@@ -15,6 +15,7 @@
         * [Overview](year-1/lecture-notes/autumn/introduction-to-programming/overview.md)
         * [Introduction to the Module](year-1/lecture-notes/autumn/introduction-to-programming/introduction-to-the-module.md)
         * [Defining Classes](year-1/lecture-notes/autumn/introduction-to-programming/defining-classes.md)
+        * [Methods](year-1/lecture-notes/autumn/introduction-to-programming/methods.md)
         * [Flow of Control & Object Interaction](year-1/lecture-notes/autumn/introduction-to-programming/flow-of-control-and-object-interaction.md)
         * [Collections & Iteration](year-1/lecture-notes/autumn/introduction-to-programming/collections-and-iteration.md)
         * [Arrays & For Loops](year-1/lecture-notes/autumn/introduction-to-programming/arrays-and-for-loops.md)
