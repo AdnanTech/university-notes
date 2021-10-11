@@ -2,7 +2,7 @@
 
 ## Heap
 
-{% embed url="https://en.wikipedia.org/wiki/Binary\_heap" %}
+{% embed url="https://en.wikipedia.org/wiki/Binary_heap" %}
 
 [Stack vs heap](https://www.guru99.com/stack-vs-heap.html)
 
@@ -34,8 +34,6 @@ int main () {
 {% embed url="http://www.cplusplus.com/reference/cstdlib/malloc/" %}
 
 {% embed url="https://www.design-reuse.com/articles/25090/dynamic-memory-allocation-fragmentation-c.html" %}
-
-
 
 
 

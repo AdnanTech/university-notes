@@ -59,21 +59,22 @@ A time-bound goal will usually answer these questions:
 ## SMART Example
 
 * **Specific**
-  * \(simple, sensible, significant\)
+  * (simple, sensible, significant)
 * **Measurable**
-  * \(meaningful, motivating\)
+  * (meaningful, motivating)
 * **Achievable**
-  * \(agreed, attainable\)
+  * (agreed, attainable)
 * **Relevant**
-  * \(reasonable, realistic and resourced, results-based\)
-* **Time-bound**
+  * (reasonable, realistic and resourced, results-based)
+*   **Time-bound**
 
-  * \(time-based, time limited, time/cost limited, timely, time-sensitive\)
+    * (time-based, time limited, time/cost limited, timely, time-sensitive)
+
 
 * **Specific**: University goals need to be specific to what you want to accomplish, like _graduating the University Of Sussex_
 * **Measurable**: You should be able to track your long-term goals using small stepping stones, like _getting all A's this semester._
 * **Achievable**: Make goals that are reasonably within reach. For example, if you've been struggling to pass your courses, don't set a goal of _graduating with a First_. This might be unrealistic.
-* **Relevant**: Set goals that are _relevant to your future career_ and university education. For instance, you wouldn't want to strive toward getting an engineering apprenticeship if you plan to go into medicine.
+* **Relevant**: Set goals that are _relevant to your future career _and university education. For instance, you wouldn't want to strive toward getting an engineering apprenticeship if you plan to go into medicine.
 * **Time-Bound**: You need to set a specific end date to look forward to, like _getting your Bachelors's degree in four years_.
 
 ## Why should use SMART goals?
@@ -83,4 +84,3 @@ Using the SMART goal framework sets boundaries and defines the steps you’ll ne
 ## What are life's subcomponents?
 
 The subcomponents that are the meta categeories to life, an extension to the big 5 principle taken from psychology. To see all categories, visit [here](https://adnantech.gitbook.io/wiki/categories-of-life).
-

@@ -10,14 +10,14 @@ A predicate $$P(N)$$is a or statement which can either be **true** or **false**,
 
 ## Proving a 'Universal'
 
-We consider some **predicate** $$P(n)$$for an argument $$n \in \mathbb{N}$$. For example, $$P(n): n^3 - n$$is divisible by 3
+We consider some **predicate **$$P(n)$$for an argument $$n \in \mathbb{N}$$. For example, $$P(n): n^3 - n$$is divisible by 3
 
 ## Mathematical induction
 
 * Show that $$P(n) \rightarrow P(n+1)$$
 * Show that $$P(0)$$is true 
 
-If $$P(0)$$ , and $$P(n) \rightarrow P(n+1)$$for all $$n \in \mathbb{N}$$then $$P(n) $$for all $$n \in \mathbb{N}$$.
+If $$P(0)$$ , and $$P(n) \rightarrow P(n+1)$$for all $$n \in \mathbb{N}$$then $$P(n)$$for all $$n \in \mathbb{N}$$.
 
 In mathematical notation,
 
@@ -62,7 +62,7 @@ $$
 
 ### Example 3
 
-#### Claim: \(for $$q\neq1$$\)
+#### Claim: (for $$q\neq1$$)
 
 $$
 P(n): \sum^{n}_{i=0}q^i=\frac{1 - q^{n+1}}{1-q}
@@ -78,15 +78,13 @@ $$
 
 Induction step: 
 
-**Hypothesis:** $$\sum^{n}_{i=0}q^i$$for some $$n\in \mathbb{N}$$
+**Hypothesis: **$$\sum^{n}_{i=0}q^i$$for some $$n\in \mathbb{N}$$
 
-**Then:** 
+**Then: **
 
 $$
 \sum^{n+1}_{i=0}q^i=\sum^{n}_{i=0}q^i+q^{n+1}=\frac{1-q^{n+1}}{1-q} + q^{n+1} \cdot \frac{1-q}{1-q}\\
 =\frac{1-q^{n+1}+q^{n+1}-q^{n+2}}{1-q} \\
 =\frac{1-q^{n+2}}{1-q}\\
 $$
-
-
 

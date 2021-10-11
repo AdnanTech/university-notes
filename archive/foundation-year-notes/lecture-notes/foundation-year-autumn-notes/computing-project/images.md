@@ -17,15 +17,15 @@
 
 ### JPEG
 
-JPG, also known as JPEG \(Joint Photographic Experts Group\), released in 1992. They use a complex compression algorithm called "lossy" compression. JPEG is the standard format for most digital cameras. JPEG files are great for making smaller files. As well as being great images with more than 256 colours. Uses 24-bit colour.
+JPG, also known as JPEG (Joint Photographic Experts Group), released in 1992. They use a complex compression algorithm called "lossy" compression. JPEG is the standard format for most digital cameras. JPEG files are great for making smaller files. As well as being great images with more than 256 colours. Uses 24-bit colour.
 
 Human eyes see light and dark better than color detail. JPEG uses this weakness to help compression. It sacrifices some colour detail to save space.
 
-**Best uses:** Black and white images, images with complex colouring, still file imagery and real life photographs.
+**Best uses: **Black and white images, images with complex colouring, still file imagery and real life photographs.
 
 ### PNG
 
-PNG \(Portable Network Graphics\) is a raster \(pixel\) graphics file format that supports lossless data compression. Created in 1996, PNG was created to replace GIFs. They also use alpha channels, which allows for transparency, but also used to cause compatability issues.
+PNG (Portable Network Graphics) is a raster (pixel) graphics file format that supports lossless data compression. Created in 1996, PNG was created to replace GIFs. They also use alpha channels, which allows for transparency, but also used to cause compatability issues.
 
 PNG-8 Bit was the original successor of GIF, there was 256 colours and 1-bit transparency, PNG files were smaller than GIF files. PNG-24 bit PNGs can include over 16 million colours. Lossless compression means larger files than JPEG.
 
@@ -37,11 +37,11 @@ Used for sprites, Graphics Interchange Format, created in 1987 by CompuServe, us
 
 You can use "Dithering" to make the files even smaller. This is the process where two pixels combine to make one.
 
-**Best uses:** Simple images like line drawings, colour, boarders ad simple illustrations, Animations \(GIFs\), web graphics with not many colours and very small icons.
+**Best uses:** Simple images like line drawings, colour, boarders ad simple illustrations, Animations (GIFs), web graphics with not many colours and very small icons.
 
 ### BMP
 
-BMP, Bitmap image file, also known as device independent bitmap \(DIB\). Created in 1994, does not use compression. Now owned by Windows, can be compressed by lossless as it is made up of individual pixels. Large files, high quality and rich in colour.
+BMP, Bitmap image file, also known as device independent bitmap (DIB). Created in 1994, does not use compression. Now owned by Windows, can be compressed by lossless as it is made up of individual pixels. Large files, high quality and rich in colour.
 
 Can create arrays of pixel data to store in memory, to represent an image.
 
@@ -53,9 +53,9 @@ Scalable Vector Graphics images, used for vector images only, so it cannot be co
 
 Best Uses: Vector Images
 
-## Drawing Images \(Image map\)
+## Drawing Images (Image map)
 
-You can also draw bitmaps and make them clickable. Look at the tag called &lt;map&gt; and usemap="\#mapname". You can embed an image to a map ,and have each shape clickable if you use the co-ordinates.
+You can also draw bitmaps and make them clickable. Look at the tag called \<map> and usemap="#mapname". You can embed an image to a map ,and have each shape clickable if you use the co-ordinates.
 
 ## HTML Images
 
@@ -65,4 +65,3 @@ You can also draw bitmaps and make them clickable. Look at the tag called &lt;ma
 * [picture tag mdn](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture)
 
 ## Image Format [Cheatsheet](https://i.imgur.com/7DG67Hx.jpg)
-

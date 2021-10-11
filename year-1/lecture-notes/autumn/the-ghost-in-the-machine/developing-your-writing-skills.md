@@ -37,9 +37,9 @@ Exercises will be given in the following areas:
   * Writing used to assess knowledge and ability
     * Better writing ability increases marks
 * Module perspective
-  * All marks in this module come from **one** final assessed essay 
+  * All marks in this module come from **one **final assessed essay 
     * 1,500 words
-    * Due in assessment period A1 \(3-7 Jan 2022\)
+    * Due in assessment period A1 (3-7 Jan 2022)
 
 ### [Peerceptiv](https://www.peerceptiv.com)
 
@@ -68,7 +68,7 @@ See lecture slides for citations
 * Developed by Chris Schunn, a leading cognitive scientist, roughly 20 years of development, 10+ evaluations reported in peer reviewed journals 
 * Used by leading universities word wide
 * Normally used for formal summative assessments 
-  * Just for _formative_ assessments in GitM module 
+  * Just for _formative _assessments in GitM module 
 
 ### rationale
 
@@ -78,4 +78,3 @@ See lecture slides for citations
   * Reasonable judges of content quality 
 * This knowledge, however, is implicit, while it needs to be explicit 
 * Requires active engagement in 
-

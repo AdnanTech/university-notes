@@ -4,7 +4,7 @@
 
 ## Current Year
 
----
+***
 
 * [Year 1](year-1/README.md)
   * [Scoreboard](year-1/scoreboard.md)
@@ -35,6 +35,7 @@
         * [Intro To Algorithms](year-1/lecture-notes/autumn/programming-concepts/intro-to-algorithms.md)
         * [Pseudocode: A language for algorithms](year-1/lecture-notes/autumn/programming-concepts/a-language-for-algorithms.md)
         * [Worksheet 1](year-1/lecture-notes/autumn/programming-concepts/worksheet-1.md)
+        * [Where do algorithms come from?](year-1/lecture-notes/autumn/programming-concepts/where-do-algorithms-come-from.md)
       * [The Ghost in the Machine?](year-1/lecture-notes/autumn/the-ghost-in-the-machine/README.md)
         * [Reading List](year-1/lecture-notes/autumn/the-ghost-in-the-machine/pre-reading.md)
         * [Beginnings](year-1/lecture-notes/autumn/the-ghost-in-the-machine/intro.md)
@@ -46,7 +47,7 @@
         * [Neuroscience](year-1/lecture-notes/autumn/the-ghost-in-the-machine/neuroscience.md)
         * [Connectionism](year-1/lecture-notes/autumn/the-ghost-in-the-machine/connectionism.md)
         * [Dynamical Systems & Situated Cognition](year-1/lecture-notes/autumn/the-ghost-in-the-machine/dynamical-systems-and-situated-cognition.md)
-        * [Bayesianism \(Predictive Processing View\)](year-1/lecture-notes/autumn/the-ghost-in-the-machine/bayesianism-predictive-processing-view.md)
+        * [Bayesianism (Predictive Processing View)](year-1/lecture-notes/autumn/the-ghost-in-the-machine/bayesianism-predictive-processing-view.md)
         * [Mindreading](year-1/lecture-notes/autumn/the-ghost-in-the-machine/mindreading.md)
         * [Consciousness](year-1/lecture-notes/autumn/the-ghost-in-the-machine/consciousness.md)
     * [Spring](year-1/lecture-notes/spring/README.md)
@@ -70,7 +71,7 @@
         * [Program Design and Iteration](archive/foundation-year-notes/lecture-notes/foundation-year-autumn-notes/foundation-programming-notes/program-design-and-iteration.md)
         * [Selection and Branching](archive/foundation-year-notes/lecture-notes/foundation-year-autumn-notes/foundation-programming-notes/selection-and-branching.md)
         * [Arrays and Buffers](archive/foundation-year-notes/lecture-notes/foundation-year-autumn-notes/foundation-programming-notes/arrays-and-strings.md)
-        * [Macros \(headers\)](archive/foundation-year-notes/lecture-notes/foundation-year-autumn-notes/foundation-programming-notes/macros.md)
+        * [Macros (headers)](archive/foundation-year-notes/lecture-notes/foundation-year-autumn-notes/foundation-programming-notes/macros.md)
         * [Strings and String Functions](archive/foundation-year-notes/lecture-notes/foundation-year-autumn-notes/foundation-programming-notes/strings-and-string-functions.md)
         * [Passing Arrays and Strings to Functions](archive/foundation-year-notes/lecture-notes/foundation-year-autumn-notes/foundation-programming-notes/passing-arrays-to-functions.md)
         * [Refactoring Code & Passing Variables](archive/foundation-year-notes/lecture-notes/foundation-year-autumn-notes/foundation-programming-notes/refactoring-code-and-passing-variables.md)
@@ -84,7 +85,7 @@
         * [MYSYS2 & Clang](archive/foundation-year-notes/lecture-notes/foundation-year-autumn-notes/foundation-programming-notes/mysys2-and-clang.md)
       * [Communication and Learning Skills](archive/foundation-year-notes/lecture-notes/foundation-year-autumn-notes/communication-and-learning-skills-notes/README.md)
         * [Time Circles](archive/foundation-year-notes/lecture-notes/foundation-year-autumn-notes/communication-and-learning-skills-notes/time-circles.md)
-        * [PDP/Target Setting \(SMART\) and Reflection](archive/foundation-year-notes/lecture-notes/foundation-year-autumn-notes/communication-and-learning-skills-notes/pdp.md)
+        * [PDP/Target Setting (SMART) and Reflection](archive/foundation-year-notes/lecture-notes/foundation-year-autumn-notes/communication-and-learning-skills-notes/pdp.md)
         * [SMART Goals](archive/foundation-year-notes/lecture-notes/foundation-year-autumn-notes/communication-and-learning-skills-notes/smart-goals.md)
         * [Group Presentation](archive/foundation-year-notes/lecture-notes/foundation-year-autumn-notes/communication-and-learning-skills-notes/group-presentation-overview.md)
         * [Report and Essay Structure, Presentation Feedback/Review](archive/foundation-year-notes/lecture-notes/foundation-year-autumn-notes/communication-and-learning-skills-notes/report-and-essays.md)
@@ -177,7 +178,7 @@
         * [Overloading Operators](archive/foundation-year-notes/lecture-notes/foundation-year-spring-notes/program-design-notes/overloading-operators.md)
         * [CRC & Other Diagrams](archive/foundation-year-notes/lecture-notes/foundation-year-spring-notes/program-design-notes/crc-and-other-diagrams.md)
         * [Reading & Writing Files](archive/foundation-year-notes/lecture-notes/foundation-year-spring-notes/program-design-notes/reading-and-writing-files.md)
-        * [Memory Allocation \(Malloc\)](archive/foundation-year-notes/lecture-notes/foundation-year-spring-notes/program-design-notes/memory-allocation-malloc.md)
+        * [Memory Allocation (Malloc)](archive/foundation-year-notes/lecture-notes/foundation-year-spring-notes/program-design-notes/memory-allocation-malloc.md)
         * [Linked Lists](archive/foundation-year-notes/lecture-notes/foundation-year-spring-notes/program-design-notes/linked-lists.md)
         * [Better Programming Design](archive/foundation-year-notes/lecture-notes/foundation-year-spring-notes/program-design-notes/better-programming-design.md)
         * [Misc](archive/foundation-year-notes/lecture-notes/foundation-year-spring-notes/program-design-notes/misc.md)
@@ -212,4 +213,3 @@
       * [Richard's Style Rules for C++ Programming](archive/foundation-year-notes/assesments/spring-assessments/richards-style-rules-for-c++-programming.md)
     * [Misc](archive/foundation-year-notes/assesments/misc/README.md)
       * [Computing Project Personal Blogging Website](archive/foundation-year-notes/assesments/misc/foundation-year-blog-project.md)
-

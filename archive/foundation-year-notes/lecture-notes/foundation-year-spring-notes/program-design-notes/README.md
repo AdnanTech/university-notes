@@ -19,11 +19,11 @@ This module aims to provide the student with an understanding of object oriented
 
 ## Assesment Information
 
-| Assessment Type | Assessment Mode | Due Date | Worth |
-| :--- | :--- | :--- | :--- |
-| Coursework | Software Exercise | Thur 11 Mar 2021 16:00 | 20% |
-| Coursework | Project | Thur 29 Apr 2021 16:00 | 30% |
-| Exam | Computer Based Exam \(3 Hours\) | TBA | 50% |
+| Assessment Type | Assessment Mode               | Due Date               | Worth |
+| --------------- | ----------------------------- | ---------------------- | ----- |
+| Coursework      | Software Exercise             | Thur 11 Mar 2021 16:00 | 20%   |
+| Coursework      | Project                       | Thur 29 Apr 2021 16:00 | 30%   |
+| Exam            | Computer Based Exam (3 Hours) | TBA                    | 50%   |
 
 Each programming projects is to be submitted via Canvas as a word processed document. The document, for each, should contain the project design, the C++ programming code, the test logs and a written evaluation of the programming project. A contents page using appropriate page numbering should be included.The project marking criteria is based on the:
 
@@ -38,23 +38,22 @@ Each programming projects is to be submitted via Canvas as a word processed docu
 ## Technical Requirements
 
 * A desktop PC or Laptop
-* An Integrated Development Environment \(**IDE**\) for C/C++:
+* An Integrated Development Environment (**IDE**) for C/C++:
   * **Dev-C++** as your IDE on Windows
-  * **Xcode** on macOS
-* Internet Access \(online sessions via Zoom\)
+  * **Xcode **on macOS
+* Internet Access (online sessions via Zoom)
 
 ## Contacts
 
 * Professor: Richard Handy
-* Room: CHICHESTER 1 302 \(Monday, Tuesday or Wednesday\) 
+* Room: CHICHESTER 1 302 (Monday, Tuesday or Wednesday) 
 * Email: R.A.Handy@sussex.ac.uk 
 * Telephone number: 01273 678931
 
 ## Reading List
 
-| Title | Author | Year Published | Mandatory? |
-| :--- | :--- | :--- | :--- |
-| C++ Programming in easy steps, 5th edition | Mike McGrath | 2018 | No |
-| A student guide to object-oriented development | Carol Britton | 2005 | No |
-| Programming Principles and Practice Using C++, 2nd edition | Bjarne Stroustrup | 2012 | No |
-
+| Title                                                      | Author            | Year Published | Mandatory? |
+| ---------------------------------------------------------- | ----------------- | -------------- | ---------- |
+| C++ Programming in easy steps, 5th edition                 | Mike McGrath      | 2018           | No         |
+| A student guide to object-oriented development             | Carol Britton     | 2005           | No         |
+| Programming Principles and Practice Using C++, 2nd edition | Bjarne Stroustrup | 2012           | No         |

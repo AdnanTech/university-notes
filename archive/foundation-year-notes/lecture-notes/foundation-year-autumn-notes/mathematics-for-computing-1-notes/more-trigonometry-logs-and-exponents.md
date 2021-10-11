@@ -2,9 +2,9 @@
 
 ## Sin and Cosine Rule
 
-Sine and Cosine rules are used when we have triangles that to _not_ have a right angle to them. Thus, due to no right angle, there is no such thing as a hypotenuse.
+Sine and Cosine rules are used when we have triangles that to _not _have a right angle to them. Thus, due to no right angle, there is no such thing as a hypotenuse.
 
-![](../../../../../.gitbook/assets/image%20%285%29.png)
+![](<../../../../../.gitbook/assets/image (5).png>)
 
 ### Sin Rule
 
@@ -22,7 +22,7 @@ We use the cosine rule when you are given:
 
 ### Area of a triangle
 
-![](../../../../../.gitbook/assets/image%20%286%29.png)
+![](<../../../../../.gitbook/assets/image (6).png>)
 
 Essentially, we look for 1/2 x perpendicular height
 
@@ -41,23 +41,21 @@ This triangle also proves that the cosine rule is an extension of pythagoras' th
 
 ### Conversion laws
 
-![](../../../../../.gitbook/assets/image%20%283%29.png)
+![](<../../../../../.gitbook/assets/image (3).png>)
 
 ### Logarithm and Exponent Rules
 
-![](../../../../../.gitbook/assets/image%20%288%29.png)
+![](<../../../../../.gitbook/assets/image (8).png>)
 
 ### Natural Logarithm formulae
 
-![](../../../../../.gitbook/assets/image%20%284%29.png)
+![](<../../../../../.gitbook/assets/image (4).png>)
 
 ## Lecture Notes
 
 * Logarithms are a form of transform
   * this means one the key uses is to take a harder problem, into a simpler one
 * John Napier invented logarithms
-* log\(0\) doesn't exit nor does 10^x = 0
+* log(0) doesn't exit nor does 10^x = 0
 * logarithms come up in science and nature, such as volume, the way your ear listens to volume, is through amplifiers, which is adjusted in headphones
-
-
 

@@ -11,7 +11,7 @@ There are 2 main ways of solving simultaneous equations:
 
 ## The Graphical Method
 
-Draw a graph with both of the equations on. Where they meet, is where both equations are satisfied simultaneously, which is the solution. The only limiting factor here is whether you can read a graph or if they meet. This can also be extended to 3D, and even more than 2 variables \(x, y, z, a, b, c\). However, as you add more dimensions and more variables, the graph will become harder and harder to read.
+Draw a graph with both of the equations on. Where they meet, is where both equations are satisfied simultaneously, which is the solution. The only limiting factor here is whether you can read a graph or if they meet. This can also be extended to 3D, and even more than 2 variables (x, y, z, a, b, c). However, as you add more dimensions and more variables, the graph will become harder and harder to read.
 
 ## The algebraic method
 
@@ -29,9 +29,9 @@ Be careful when square rooting equations, as they give positive and negative val
 
 The options for solving 2 equations simultaneously:
 
-1. 2 real roots \(2 intersections\)
-2. 1 real root \(1 intersection\)
-3. no real roots \(no solutions as the equations never meet\)
+1. 2 real roots (2 intersections)
+2. 1 real root (1 intersection)
+3. no real roots (no solutions as the equations never meet)
 
 Based on the equation b^2 - 4ac
 
@@ -41,7 +41,5 @@ Solving quadratics simultaneously is the same as solving linear equations simult
 
 square root of x is NOT a function
 
-when messing with the square root of x in a simultaneous equation, the ideal scenario is if you square the equation\(s\) so that the square x no longer exists. Or you could substitute root x for z and solve that way_. In that case, root x is plus or minus, so you have to be careful with the substitution, as there will be 2 values, but they may be in the same value or both values since root is plus or minu_s. __Hence the method without square roots is easier. Or perhaps also use a graph to validate the answers
-
-
+when messing with the square root of x in a simultaneous equation, the ideal scenario is if you square the equation(s) so that the square x no longer exists. Or you could substitute root x for z and solve that way_. In that case, root x is plus or minus, so you have to be careful with the substitution, as there will be 2 values, but they may be in the same value or both values since root is plus or minu_s._ _Hence the method without square roots is easier. Or perhaps also use a graph to validate the answers
 

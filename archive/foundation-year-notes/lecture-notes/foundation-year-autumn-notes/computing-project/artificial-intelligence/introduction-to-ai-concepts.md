@@ -52,14 +52,14 @@ In **computer science**, **graph theory** is the study of graphs, a mathematical
 
 We can take notes from human interactions:
 
-### **Motor reactions** \(movement\)
+### **Motor reactions** (movement)
 
 * Basic functions
 * Automatic response to stimuli
 * Hierarchy of signals
-* Subsumption architecture \(Brooke\)
+* Subsumption architecture (Brooke)
 
-### **Biological reactions** \(brain\) - Neural networks are built on the theory of the brain
+### **Biological reactions** (brain) - Neural networks are built on the theory of the brain
 
 * Regions
 * Anatomy
@@ -70,9 +70,9 @@ We can take notes from human interactions:
 * Thresholds
 * Synapses
 
-![The brain as an electrical signal, essentially a cpu](../../../../../../.gitbook/assets/image%20%2814%29.png)
+![The brain as an electrical signal, essentially a cpu](<../../../../../../.gitbook/assets/image (14).png>)
 
-* **Vision** - built on mental models created by the brain
+* **Vision **- built on mental models created by the brain
   * Motion
   * Perspective
   * Pattern recognition
@@ -89,10 +89,10 @@ We can take notes from human interactions:
   * Selection 
     * Stress
   * Genetic algorithms - this is the more 
-* **Adaptation** \(learning\)
+* **Adaptation **(learning)
   * Using artificial brain-like network
   * Connections between neurons translate percepts into outputs/actions
-  * Measurement of errors, using test data, leads to automatic modification of network \(learning from experience\) until lessons are learnt
+  * Measurement of errors, using test data, leads to automatic modification of network (learning from experience) until lessons are learnt
   * Good for generalisation
   * Machine learning
 
@@ -100,11 +100,9 @@ We can take notes from human interactions:
 
 Weak, or soft, AI is narrowly focused on specifically solving one problem, essentially rule based
 
-Strong, or hard, AI has the full depth and breadth of human understanding. It is also called Artificial General Intelligence \(AGI\), so it creates a simple set of rules and learns from those as it goes.
+Strong, or hard, AI has the full depth and breadth of human understanding. It is also called Artificial General Intelligence (AGI), so it creates a simple set of rules and learns from those as it goes.
 
 ### Turing and the Brain
 
 Turing stated specifically, that humans are machines, as the brain sends signals as computers also do.
-
-
 

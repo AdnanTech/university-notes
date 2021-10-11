@@ -4,5 +4,4 @@
 
 ## Explain Turing test
 
-## Extrapolate information from Turing test into chatbot's and rounding out definitions for _human_ intelligence.
-
+## Extrapolate information from Turing test into chatbot's and rounding out definitions for _human _intelligence.

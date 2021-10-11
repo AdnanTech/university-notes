@@ -6,16 +6,16 @@ description: Lecture 05/10/2021
 
 ## Summary
 
-* Introduction to summation \($$\sum$$ , "Sigma"\) notation
-* Introduction to product \($$\prod$$ , "Pi"\) notation
+* Introduction to summation ($$\sum$$ , "Sigma") notation
+* Introduction to product ($$\prod$$ , "Pi") notation
 * Notation for indicies
 
 ## Notation 
 
-* Infix notation \( $$x + y$$ \)
-* Postfix notation \( $$x~~y +$$ \) 
-* Prefix notation \( $$+~x~~y$$ \) 
-* Prefix and postfix notation are _sometimes_ used in computer science
+* Infix notation ( $$x + y$$ )
+* Postfix notation ( $$x~~y +$$ ) 
+* Prefix notation ( $$+~x~~y$$ ) 
+* Prefix and postfix notation are _sometimes _used in computer science
 
 ### Summations
 
@@ -29,7 +29,7 @@ In this example, $$n$$ is the upper limit, $$1$$ is the lower limit, and $$j$$ i
 
 In programming, it's similar to a for loop.
 
-```text
+```
 sum <- 0 
 for j <- 1 to n do 
     sum <- sum + x[j]
@@ -77,7 +77,7 @@ $$
 
 When expressed in code, this also looks very similar to the summation example, with the key difference of using multiplication instead of summation. 
 
-```text
+```
 product <- 0
 for j <- 1 to n do 
     product <- product * a[j]
@@ -111,6 +111,4 @@ $$
 $$
 \log\big(\prod^{n}_{i=i}x_i\big)=\sum^{n}_{k=0}\log(x_i)
 $$
-
-
 

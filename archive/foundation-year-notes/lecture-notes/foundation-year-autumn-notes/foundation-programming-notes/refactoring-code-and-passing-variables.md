@@ -8,8 +8,8 @@ Refactored code makes testing easier, as you can see which module needs. Refacto
 
 There aren't a lot of code examples, as refactoring code can be seen everywhere. Also, it should be done all the time, to keep the code tidy as you are progressing in a project.
 
-* `%[^\n]%c` - takes all characters until enter during scanf - used as a regex
-* 2d array \(rows\)\(columns\)
+* `%[^\n]%c `- takes all characters until enter during scanf - used as a regex
+* 2d array (rows)(columns)
 * the minus format specifier aligns characters to the left
 
 ## Passing by Value & by Reference
@@ -21,4 +21,3 @@ By value passes a copy of a variable, so if you change the passed variable, only
 ### By Reference
 
 By reference passes a pointer to the reference, so any changes made to the variable, changes the variable globally.
-
