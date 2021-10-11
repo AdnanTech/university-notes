@@ -12,4 +12,5 @@ description: Enter for £10
 | Thom                 | 13    |
 | Rust user (red hair) | 12    |
 | Abe                  | 0     |
+| Ted                  | -4    |
 | Siam                 | -1    |
