@@ -7,8 +7,8 @@ description: Enter for £10
 | Player               | Count |
 | -------------------- | ----- |
 | Henry                | 2     |
-| Jack                 | 1     |
-| Adnan                | 8     |
+| Jack                 | 17    |
+| Adnan                | 14    |
 | Thom                 | 13    |
 | Rust user (red hair) | 12    |
 | Abe                  | 0     |
