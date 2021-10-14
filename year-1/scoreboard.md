@@ -6,7 +6,7 @@ description: Enter for £10
 
 | Player               | Count |
 | -------------------- | ----- |
-| Henry                | 2     |
+| Henry                | 4     |
 | Jack                 | 17    |
 | Adnan                | 14    |
 | Thom                 | 13    |
