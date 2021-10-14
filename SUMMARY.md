@@ -37,6 +37,8 @@
         * [Pseudocode: A language for algorithms](year-1/lecture-notes/autumn/programming-concepts/a-language-for-algorithms.md)
         * [Worksheet 1](year-1/lecture-notes/autumn/programming-concepts/worksheet-1.md)
         * [Where do algorithms come from?](year-1/lecture-notes/autumn/programming-concepts/where-do-algorithms-come-from.md)
+        * [Homework 1](year-1/lecture-notes/autumn/programming-concepts/homework-1.md)
+        * [Worksheet 2](year-1/lecture-notes/autumn/programming-concepts/worksheet-2.md)
       * [The Ghost in the Machine?](year-1/lecture-notes/autumn/the-ghost-in-the-machine/README.md)
         * [Reading List](year-1/lecture-notes/autumn/the-ghost-in-the-machine/pre-reading.md)
         * [Beginnings](year-1/lecture-notes/autumn/the-ghost-in-the-machine/intro.md)
