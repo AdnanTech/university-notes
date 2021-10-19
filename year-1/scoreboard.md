@@ -6,9 +6,9 @@ description: Enter for £10
 
 | Player               | Count |
 | -------------------- | ----- |
-| Henry                | 4     |
+| Henry                | 11    |
 | Jack                 | 17    |
-| Adnan                | 14    |
+| Adnan                | 16    |
 | Thom                 | 13    |
 | Rust user (red hair) | 12    |
 | Abe                  | 0     |

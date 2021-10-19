@@ -41,6 +41,7 @@
         * [Worksheet 2](year-1/lecture-notes/autumn/programming-concepts/worksheet-2.md)
         * [Homework 2](year-1/lecture-notes/autumn/programming-concepts/homework-2.md)
         * [Worksheet 3](year-1/lecture-notes/autumn/programming-concepts/worksheet-3.md)
+        * [The correctness of algorithms](year-1/lecture-notes/autumn/programming-concepts/the-correctness-of-algorithms.md)
       * [The Ghost in the Machine?](year-1/lecture-notes/autumn/the-ghost-in-the-machine/README.md)
         * [Reading List](year-1/lecture-notes/autumn/the-ghost-in-the-machine/pre-reading.md)
         * [Beginnings](year-1/lecture-notes/autumn/the-ghost-in-the-machine/intro.md)
