@@ -82,5 +82,95 @@ We may write _e.g. _$$P(x < 5)$$ to represent the probability of some event $$E 
 
 _Not to be confused with A and B being disjoint or exclusive!_
 
-__
+## Bayes  Rule
+
+
+
+$$
+P(A|B)=\frac{P(B|A)P(A)}{P(B)}
+$$
+
+## Random Variables
+
+A random variable is a function, from the sample space to some set $$S$$
+
+### Example 1
+
+**Flipping a coin**
+
+$$
+F:\Omega\rightarrow\{\text{Heads},\text{Tails}\}
+$$
+
+
+
+$$
+\omega\mapsto (\text{in the situation described}\\\text{ by $\omega$ did the coin flip up \textbf{Heads} or \textbf{tails}?}
+$$
+
+## Variance
+
+
+
+$$
+\text{Var}(X)=\mathbb{E}([X - \mathbb{E}(X)]^2)
+$$
+
+## Expectation value
+
+
+
+$$
+\mathbb{E}(X)=\sum_{\omega \in \Omega}P(\{\omega\})\cdot X(\omega)
+$$
+
+## Standard Deviation
+
+
+
+$$
+\sigma_X=\sqrt{\text{Var}(X)}
+$$
+
+## Some properties of Expectation and Variance
+
+For **any** random variables $$X_i$$(for $$i=1,\dots,n)$$:&#x20;
+
+
+
+$$
+\mathbb{E}\biggl(\sum^n_{i=1} X_i\biggl)=\sum^n_{i = 1}\mathbb{E}(X_i)
+$$
+
+This is known as the additivity of Expectation
+
+
+
+## Bernoulli Process
+
+A bernoulli process is a process with independant binary outcomes, such as coin flips
+
+$$
+\Omega=\{0,1\}^n=\{(\omega_1,\dots,\omega_n):\omega_i\in \{0,1\}\}
+$$
+
+### Bernoulli distribution
+
+Distribution of a single binary outcome for any choice of $$p$$
+
+
+
+$$
+P(\{\omega_i=1\})=p
+$$
+
+## Covariance
+
+Covariance characterizes the relationship between **two random variables**, $$X$$, and $$Y$$, how much they "**co-vary**".
+
+
+
+$$
+X:\Omega\rightarrow \mathbb{R} ~\text{and}~Y:\Omega \rightarrow \mathbb{R}
+$$
 

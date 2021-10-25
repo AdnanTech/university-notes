@@ -6,11 +6,15 @@ Write an algorithm that will decide if two arrays (of the same length) are equal
 Input: Arrays A[1...n], B[1...n]
 Output A = B
 
-for i <- 1 to n
-    for PTR <- 1 to n
-        if A[i] == B[PTR]:
-            break
-        if PTR == n:
+i <- 1
+j <- 1
+
+while A[i] == B[j]
+    for j <- 1 to n
+        if A[i] != B[j]
             return false
-return true
+    if i == n and j == n
+        return true
+ 
+return false
 ```
