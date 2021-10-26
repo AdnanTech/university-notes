@@ -43,7 +43,7 @@ The difference between functional and procedural is that functional takes argume
   * These high level languages usually have specific purposes
     * SQL is for databses
     * C# for windows applications
-    * PHP for web applications. 
+    * PHP for web applications.&#x20;
 * **Low level languages** include assembly code and machine code (C is assembly code with syntatic sugar)
   * Low level languages are compiled into executable files
 * **Scripting languages** such as PHP and JavaScript use **interpreters**, where each line is intepreted one line at a time as being run.
@@ -65,14 +65,14 @@ All code is eventually turned into machine code. Assembly code is the more legib
 
 **Assembly code** uses the same approach of Opcodes and Operatoes, in a more legible approach:
 
-*  **Opcode **- A Single instruction displayed as a **mnemonic **(ADD, LOAD, STORE, BRANCH, INPUT)
-*  **Operand **- The address of an element as an **integer **(12, 04, 50, 38) with an addressing type: 
-  * **xx - Direct Addressing** - The operand holds the **physical memory location** of the element to be operated on 
+* &#x20;**Opcode **- A Single instruction displayed as a **mnemonic **(ADD, LOAD, STORE, BRANCH, INPUT)
+* &#x20;**Operand **- The address of an element as an **integer **(12, 04, 50, 38) with an addressing type:&#x20;
+  * **xx - Direct Addressing** - The operand holds the **physical memory location** of the element to be operated on&#x20;
   * **\&xx - Immediate Addresssing** - The operand contains the **value** of the element to be operated on  (uses pointers)
-  * **#xx - Indirect Addressing **- The operand contains the **address **of the location in the physical memory, this location contains the physical address of the location in the memory where the value is stored 
+  * **#xx - Indirect Addressing **- The operand contains the **address **of the location in the physical memory, this location contains the physical address of the location in the memory where the value is stored&#x20;
   * **xx\[] - Indexed Addressing **- Indexed addressing is used in machines containing an index register. With this mode of addressing, values in the operand are **offset **by the value stored in the index register
 
 ## Sources
 
-* [https://en.wikipedia.org/wiki/Object-oriented_programming](https://en.wikipedia.org/wiki/Programming_paradigm)
+* [https://en.wikipedia.org/wiki/Object-oriented\_programming](https://en.wikipedia.org/wiki/Programming\_paradigm)
 * [https://www.typesnuses.com/types-of-programming-languages-with-differences/](https://www.typesnuses.com/types-of-programming-languages-with-differences/)

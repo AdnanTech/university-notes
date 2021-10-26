@@ -2,13 +2,13 @@
 
 ## Variables
 
-*  A variable is a container in which a data value is stored inside the physical memory
-*  Variables can be called by their assigned name
-*  Variables must start with a letter or underscore
-*  Variables names can contain letters, numbers or underscores
-*  Variable names cannot be C reserved words (True, if)
-*  Variables must be declared at the start of a block of code
-*  Declaration syntax: **data-type variable-name**
+* &#x20;A variable is a container in which a data value is stored inside the physical memory
+* &#x20;Variables can be called by their assigned name
+* &#x20;Variables must start with a letter or underscore
+* &#x20;Variables names can contain letters, numbers or underscores
+* &#x20;Variable names cannot be C reserved words (True, if)
+* &#x20;Variables must be declared at the start of a block of code
+* &#x20;Declaration syntax: **data-type variable-name**
 * There is no way to declare strings, you have to declare an array of characters that contain the string: `char c[] = "c string";`
 
 ## Data types
@@ -41,10 +41,10 @@ There are lots of data types, below are some of the primitive data types. In C, 
 
 Data types can also be _**modified**_, they also depend on whether you are running 32-bit or 64-bit, for example, if you are on 32-bit, a float is 4 bytes in size, whereas on a 64-bit machine a float consists of 8 bytes of size
 
-*  int can be modified:
-  *  long int
+* &#x20;int can be modified:
+  * &#x20;long int
     * 4 bytes long (32 bit, higher range)
-  *  short int
+  * &#x20;short int
     * 2 bytes long (16 bit, lower range)
   * long long int
     * atleast 64bit
@@ -52,8 +52,8 @@ Data types can also be _**modified**_, they also depend on whether you are runni
     * cannot be negative, higher range
   * signed int
     * can be negative, lower range
-*  double can be modified:
-  *  long double
+* &#x20;double can be modified:
+  * &#x20;long double
     * 16 bytes (128 bit)
 
 

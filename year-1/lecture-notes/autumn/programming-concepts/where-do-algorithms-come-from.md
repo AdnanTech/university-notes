@@ -52,7 +52,7 @@ Scan through the Array A, and compare each element within the array index n, swa
 
 ### **Selection Sort **Pseudocode
 
-![](<../../../../.gitbook/assets/image (195).png>)
+![](<../../../../.gitbook/assets/image (195) (1).png>)
 
 ### Bubble Sort Pseudocode
 
