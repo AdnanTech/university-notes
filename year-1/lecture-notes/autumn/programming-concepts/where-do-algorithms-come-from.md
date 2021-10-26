@@ -56,7 +56,7 @@ Scan through the Array A, and compare each element within the array index n, swa
 
 ### Bubble Sort Pseudocode
 
-![](<../../../../.gitbook/assets/image (196).png>)
+![](<../../../../.gitbook/assets/image (196) (1).png>)
 
 ## Searching Algorithms
 
@@ -75,4 +75,4 @@ Scan through the Array A, and compare each element at the array index n, with M.
 
 ### Sequential Search Pseudocode
 
-![](<../../../../.gitbook/assets/image (194).png>)
+![](<../../../../.gitbook/assets/image (194) (1).png>)

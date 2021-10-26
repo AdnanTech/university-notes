@@ -33,6 +33,7 @@
         * [Proof by Induction](year-1/lecture-notes/autumn/mathematical-concepts/proof-by-induction.md)
         * [Sets and Intervals](year-1/lecture-notes/autumn/mathematical-concepts/sets-and-intervals.md)
         * [Probability Theory, part 1](year-1/lecture-notes/autumn/mathematical-concepts/probability-theory-part-1.md)
+        * [Statistics](year-1/lecture-notes/autumn/mathematical-concepts/statistics.md)
       * [Programming Concepts](year-1/lecture-notes/autumn/programming-concepts/README.md)
         * [Intro To Algorithms](year-1/lecture-notes/autumn/programming-concepts/intro-to-algorithms.md)
         * [Pseudocode: A language for algorithms](year-1/lecture-notes/autumn/programming-concepts/a-language-for-algorithms.md)
