@@ -26,6 +26,7 @@
         * [Designing Classes](year-1/lecture-notes/autumn/introduction-to-programming/designing-classes.md)
         * [Revision](year-1/lecture-notes/autumn/introduction-to-programming/revision.md)
       * [Mathematical Concepts](year-1/lecture-notes/autumn/mathematical-concepts/README.md)
+        * [Limits](year-1/lecture-notes/autumn/mathematical-concepts/limits.md)
         * [Pre Reading](year-1/lecture-notes/autumn/mathematical-concepts/pre-reading.md)
         * [Intro](year-1/lecture-notes/autumn/mathematical-concepts/intro.md)
         * [Number Sets](year-1/lecture-notes/autumn/mathematical-concepts/number-sets.md)
