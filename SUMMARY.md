@@ -39,6 +39,7 @@
         * [Integrals](year-1/lecture-notes/autumn/mathematical-concepts/integrals.md)
         * [Vectors](year-1/lecture-notes/autumn/mathematical-concepts/vectors.md)
         * [Matrices](year-1/lecture-notes/autumn/mathematical-concepts/matrices.md)
+        * [Regular Language & Expressions](year-1/lecture-notes/autumn/mathematical-concepts/regular-language-and-expressions.md)
       * [Programming Concepts](year-1/lecture-notes/autumn/programming-concepts/README.md)
         * [Intro To Algorithms](year-1/lecture-notes/autumn/programming-concepts/intro-to-algorithms.md)
         * [Pseudocode: A language for algorithms](year-1/lecture-notes/autumn/programming-concepts/a-language-for-algorithms.md)
