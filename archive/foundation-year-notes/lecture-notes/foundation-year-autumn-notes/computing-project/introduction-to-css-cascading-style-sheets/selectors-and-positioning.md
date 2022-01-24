@@ -22,20 +22,20 @@ A tag can have multiple classes, having properties from any that are called (sep
 
 ### Group Selectors
 
-* Selecting **multiple **selectors, (elements (tags)) to apply a style to
+* Selecting **multiple** selectors, (elements (tags)) to apply a style to
   * h1, p (changes all h1 and p elements)
-* Selecting **nested **elements
+* Selecting **nested** elements
   * h1 p (changes all p tags that are inside h1)
-* Class **within **an element
+* Class **within** an element
   * ul.niceList
 
 ### Relational Selectors
 
-* Selecting all **child **elements
+* Selecting all **child** elements
   * h1 > p (selects all p where parent is h1)
-* Selecting all elements **after **the next
+* Selecting all elements **after** the next
   * h1 + p (selects all p tags that are placed after a h1 tag)
-* Selecting all elements **before **the next
+* Selecting all elements **before** the next
   * h1 \~ p (selects all p tags that are placed before a h1 tag)
 
 You can combine these together to be very specific about the lement you want to change

@@ -2,7 +2,7 @@
 
 ## Overview
 
-The course is basically a cognitive science course, so the** science of the mind**. Some key questions:
+The course is basically a cognitive science course, so the **science of the mind**. Some key questions:
 
 * What is the mind?
 * How does it work?
@@ -28,8 +28,8 @@ Cognitive psychology precursors goes all the way back to around 400 BC, with Pla
 
 ## Philosophical Zombies
 
-Imagine a perfect copy of yourself, perfect down to the last atom. It looks, and acts in the exact way you would. However, it is not a conscious being. Is the existence of a P Zombie conceivable? 
+Imagine a perfect copy of yourself, perfect down to the last atom. It looks, and acts in the exact way you would. However, it is not a conscious being. Is the existence of a P Zombie conceivable?&#x20;
 
 ## Meno - "Learning is recollection of knowledge"
 
-The meno dialogue refers to a conversation had between Plato and Meno regarding innate knowledge. Innate knowledge refers to knowledge held by an individual from the moment they were born, for example, knowing how to breathe, reflexes made by babies and such. Plato argues that all knowledge is innate. 
+The meno dialogue refers to a conversation had between Plato and Meno regarding innate knowledge. Innate knowledge refers to knowledge held by an individual from the moment they were born, for example, knowing how to breathe, reflexes made by babies and such. Plato argues that all knowledge is innate.&#x20;

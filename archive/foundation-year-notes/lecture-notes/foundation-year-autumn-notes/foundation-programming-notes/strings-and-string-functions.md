@@ -2,7 +2,7 @@
 
 ## String
 
-* C does **not **have a string data type
+* C does **not** have a string data type
 * C does have string literals
 * A string literal is a group of chars enclosed in double quotes.
 * [A string can be stored in a char array but must be terminated with a NULL character, which can be represented with ‘\0’. The last character of a string is always null](https://stackoverflow.com/questions/20161921/null-byte-and-arrays-in-c), but not in a normal array (not an array of single characters/not with a NON string literal)
@@ -20,11 +20,11 @@
 
 ### gets(), fgets(), puts(), scanf()
 
-These are all standard functions that handle input of strings. These functions do not require any header files, aside stdio. 
+These are all standard functions that handle input of strings. These functions do not require any header files, aside stdio.&#x20;
 
 You can also make your own function to input strings. I have examples on the code base.
 
-**Normal **operators **do not** work with strings. The reason for this is because each character is stored in an array, thus meaning each has a different value. Normal operators take only 1 value either side. You can create your own function to check if two strings are equal, by checking every character in both of the arrays to each other, one by one. Example is on the code base.
+**Normal** operators **do not** work with strings. The reason for this is because each character is stored in an array, thus meaning each has a different value. Normal operators take only 1 value either side. You can create your own function to check if two strings are equal, by checking every character in both of the arrays to each other, one by one. Example is on the code base.
 
 ## String functions
 
@@ -34,7 +34,7 @@ Using the header file **string.h**, we can add some pre built functions to manip
 
 ### itoa()
 
-The function scanf() converts keyboard input strings into various formats using field specifiers eg %d.The functions atoi(), atoll() and atof() do something similar with strings stored in memory. Using the header file** stdlib.h**. Functions like** itoa()** convert in the opposite direction as shown in the code base.
+The function scanf() converts keyboard input strings into various formats using field specifiers eg %d.The functions atoi(), atoll() and atof() do something similar with strings stored in memory. Using the header file **stdlib.h**. Functions like **itoa()** convert in the opposite direction as shown in the code base.
 
 itoa() can converts a number into a strong of a different digit base. Binary, to hexadecimal, to octal or to denary. itoa() is also a good function to print the reverse of numbers. Examples on code base.
 
@@ -51,7 +51,7 @@ Also used in string.h, the function is used to compare 2 strings.
 * gets() is no longer ANSI standard because there is no boundary check.
   * Therefore you can overflow and corrupt memory if your string is too long
 * fgets() uses file concepts. The keyboard is the input, and the screen is the output. fgets() also guards against buffer overflow
-* [String Input conversion](http://www.gnu.org/software/libc/manual/html_node/String-Input-Conversions.html) - essentially regex to normalise scanf input
+* [String Input conversion](http://www.gnu.org/software/libc/manual/html\_node/String-Input-Conversions.html) - essentially regex to normalise scanf input
 * To check equality of strings, since we can't apply relational operators to whole strings. Instead, we check each caracter one by one, to validate if they are the same.
 * scanf("%10\[^\n]) is a string literal - the 10 - cannot be changed, thus the max number of characters the scanf can take and store is 9, as we need one character for the null terminator. In these cases, where the size is variable, we can use fgets instead
 * itoa() stands for int to ascii (string)

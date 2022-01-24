@@ -6,15 +6,15 @@ description: Lecture notes 06/10/2021
 
 ## Classes
 
-A class describes a _kind _of object, and specifies what sort of information the object has, called **attributes**. It specifies the operations and behaviours of the encapsulating objects, called **methods**.
+A class describes a _kind_ of object, and specifies what sort of information the object has, called **attributes**. It specifies the operations and behaviours of the encapsulating objects, called **methods**.
 
-Definitions of a class should be started with an upper case letter, and instances of classes should be started with a lower case. 
+Definitions of a class should be started with an upper case letter, and instances of classes should be started with a lower case.&#x20;
 
 ### Fields
 
 Fields are **instance variables** that store values of an object within a class, for example `private int counter`.
 
-Fields can be accessed with **getters**, called accessor methods and **setters**, called **mutator **methods.
+Fields can be accessed with **getters**, called accessor methods and **setters**, called **mutator** methods.
 
 ### Constructors
 
@@ -36,11 +36,11 @@ Operations that can be **invoked** (called) for objects are called methods. Meth
 
 In Java, the naming convention for methods and parameters is **camel case**.
 
-Constructors are special methods of a class, which are run automatically whenever the object is initialized. They are used to set class attributes among various other things. 
+Constructors are special methods of a class, which are run automatically whenever the object is initialized. They are used to set class attributes among various other things.&#x20;
 
 ## Data types
 
-There are lots of data types, below are some of the** primitive data types**. In C, data types come with format specifiers, depending on the data type, will determine how the data is stored in memory differently:
+There are lots of data types, below are some of the **primitive data types**. In C, data types come with format specifiers, depending on the data type, will determine how the data is stored in memory differently:
 
 | Data Type                  | Format (field) Specifier | Examples (in C)                    |
 | -------------------------- | ------------------------ | ---------------------------------- |

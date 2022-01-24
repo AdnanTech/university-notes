@@ -14,7 +14,7 @@ Where 6 and 1 are the upper and lower limits respectively.
 
 ## Geometric
 
-**Geometric progressions do not have a constant common difference, instead a ratio between two consecutive terms is constant. **Using sigma notation to sum a series like before:
+**Geometric progressions do not have a constant common difference, instead a ratio between two consecutive terms is constant.** Using sigma notation to sum a series like before:
 
 ![](<../../../../../.gitbook/assets/image (185).png>)
 

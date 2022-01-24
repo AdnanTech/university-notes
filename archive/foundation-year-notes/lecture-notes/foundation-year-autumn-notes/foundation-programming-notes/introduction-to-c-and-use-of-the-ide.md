@@ -3,14 +3,14 @@
 ## Introduction to C
 
 * C is a low level language, its essentially assembly code with syntatic sugar (caveat is essentially, there are differences).
-* **For code examples visit **[**my codebase**](https://adnantech.gitbook.io/code/code/c/)****
-* We are using ANSI C, which is the basic form of C avalible cross platform, this limits us to CLI applications only. Microsoft Studio doesnt use standard ANSI C, so it is not cross platform. 
+* **For code examples visit** [**my codebase**](https://adnantech.gitbook.io/code/code/c/)****
+* We are using ANSI C, which is the basic form of C avalible cross platform, this limits us to CLI applications only. Microsoft Studio doesnt use standard ANSI C, so it is not cross platform.&#x20;
 * C is not an OOP language, it is procedural. We can use structs and function pointers to imitate OOP although they are not the same.
-* we use a GCC Compiler built into dev C++ to compile c code. A non ide approach is to use clang and vim on the mac. 
-* Return 0 on an int function means no error code, even if you dont put it in, it is assumed to be return 0 by default 
-* `include stdio.h `is also implicity added even if it is not added in the top
+* we use a GCC Compiler built into dev C++ to compile c code. A non ide approach is to use clang and vim on the mac.&#x20;
+* Return 0 on an int function means no error code, even if you dont put it in, it is assumed to be return 0 by default&#x20;
+* `include stdio.h` is also implicity added even if it is not added in the top
 * C has a lot of undefined behaviour as it is low level, so you mess around with memory locations.
-* If you `include string.h `at the sart, the functions to concatenate strings and len of strings.
+* If you `include string.h` at the sart, the functions to concatenate strings and len of strings.
 * Malloc can allocate dynamic memory to an element. f
 * .exe files are technically not machine code, as it is just instructions to the operating system, as the OS is a c program essentially. The OS takes those instructions and executes them as machine code instructions
 
@@ -18,7 +18,7 @@
 
 Header files serve two purposes. Header files are linked by the **preprocessor**
 
-*  System header files declare the interfaces to parts of the operating system. You include them in your program to supply the definitions and declarations you need to invoke system calls and libraries.
+* &#x20;System header files declare the interfaces to parts of the operating system. You include them in your program to supply the definitions and declarations you need to invoke system calls and libraries.
 * Your own header files contain declarations for interfaces between the source files of your program. Each time you have a group of related declarations and macro definitions all or most of which are needed in several different source files, it is a good idea to create a header file for them.
 
 ## Use of the IDE

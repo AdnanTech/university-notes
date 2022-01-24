@@ -40,7 +40,7 @@ $$
   * Mixed (2 1/2)
 * When adding/subtracting, all denominators must be the same
   * Lowest common multiple is the similar denominator
-  * or you can times all denominators together to get **atleast a **common denominator
+  * or you can times all denominators together to get **atleast a** common denominator
     * the second method is used in cryptography, with public/private keys combined with prime numbers
 * To multiply fractions, you just multiply the numerators together, as well as the denominators
 * To divide fractions, you invert the divisor and multiply the equation

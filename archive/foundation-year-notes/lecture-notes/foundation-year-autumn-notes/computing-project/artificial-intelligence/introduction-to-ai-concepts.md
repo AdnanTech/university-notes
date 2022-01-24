@@ -72,7 +72,7 @@ We can take notes from human interactions:
 
 ![The brain as an electrical signal, essentially a cpu](<../../../../../../.gitbook/assets/image (14).png>)
 
-* **Vision **- built on mental models created by the brain
+* **Vision** - built on mental models created by the brain
   * Motion
   * Perspective
   * Pattern recognition
@@ -86,10 +86,10 @@ We can take notes from human interactions:
     * Sexual
     * Asexual
   * Mutation
-  * Selection 
+  * Selection&#x20;
     * Stress
-  * Genetic algorithms - this is the more 
-* **Adaptation **(learning)
+  * Genetic algorithms - this is the more&#x20;
+* **Adaptation** (learning)
   * Using artificial brain-like network
   * Connections between neurons translate percepts into outputs/actions
   * Measurement of errors, using test data, leads to automatic modification of network (learning from experience) until lessons are learnt

@@ -2,7 +2,7 @@
 description: Mathematical concepts lecture 7 - 19/10/2021
 ---
 
-# Probability Theory, part 1
+# Probability Theory
 
 ## Power set&#x20;
 
@@ -23,8 +23,8 @@ What are the chances of it raining in Brighton this week
 #### Definitions
 
 * $$\Omega$$: **Sample space** - a set of "elementary events" (i.e., very specific things that can happen)
-* $$\omega \in \Omega$$: **Elementary event **- one very specific thing that could happen&#x20;
-* $$E \in \Omega$$: An **event **(a set of specific ways, that make up ways that something more general could happen)
+* $$\omega \in \Omega$$: **Elementary event** - one very specific thing that could happen&#x20;
+* $$E \in \Omega$$: An **event** (a set of specific ways, that make up ways that something more general could happen)
 
 #### Typical examples
 
@@ -36,9 +36,9 @@ $$
 
 ### Probability Measure
 
-**Concept: **
+**Concept:**&#x20;
 
-* **A probability measure **is a mapping from 'events' $$E \in \Omega$$, to the probability that (an elementary event in) $$E$$happens
+* **A probability measure** is a mapping from 'events' $$E \in \Omega$$, to the probability that (an elementary event in) $$E$$happens
 
 #### Definition
 
@@ -62,13 +62,13 @@ For $$P$$ to be a proper **probability measure**, the following conditions must 
 
 ## Probability space
 
-A **probability space **is a pair $$(\Omega, P)$$, made up of a sample space $$\Omega$$ and a probability measure $$P$$.
+A **probability space** is a pair $$(\Omega, P)$$, made up of a sample space $$\Omega$$ and a probability measure $$P$$.
 
 Some definitions consider a particular collection of events $$F \subset P(\Omega)$$ - an event space - and define a probability as a tuple space $$(\Omega, F, P)$$. But we will just take $$F = P(\Omega)$$
 
 ### Shorthand
 
-We may write _e.g. _$$P(x < 5)$$ to represent the probability of some event $$E = \{x \in \Omega: x < 5\}$$, for some probability space $$(\Omega, P)$$.
+We may write _e.g._ $$P(x < 5)$$ to represent the probability of some event $$E = \{x \in \Omega: x < 5\}$$, for some probability space $$(\Omega, P)$$.
 
 ## Probability of the complement
 
@@ -78,7 +78,7 @@ We may write _e.g. _$$P(x < 5)$$ to represent the probability of some event $$E 
 
 ## Independence
 
-**Definition: **Two events, $$A$$ and $$B$$ are independent if and only if $$P(A \cap B) = P(A) \cdot P(B)$$
+**Definition:** Two events, $$A$$ and $$B$$ are independent if and only if $$P(A \cap B) = P(A) \cdot P(B)$$
 
 _Not to be confused with A and B being disjoint or exclusive!_
 

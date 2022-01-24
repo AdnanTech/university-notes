@@ -35,12 +35,12 @@ Uniform Resource Locators (URLs) are used by web browsers. The web browser looks
 
 The Internet Protocol (IP) is the principal communications protocol in the Internet protocol suite for relaying datagrams (A datagram is a basic transfer unit associated with a packet-switched network). across network boundaries. Its routing function enables internetworking, and essentially establishes the Internet.
 
-* **IPv4 **
+* **IPv4**&#x20;
   * Denary notation
-  * 32-bit number 
+  * 32-bit number&#x20;
   * 2^32
   * 8.8.8.8 (Google's IPv4 address)
-* **IPv6 **
+* **IPv6**&#x20;
   * Hexadecimal notation
   * 128-bit number
   * 2^128
@@ -60,7 +60,7 @@ The Internet Protocol (IP) is the principal communications protocol in the Inter
 
 ### What happens when you enter a URL?
 
-In simple terms, the web address entered points to a IP address for the domain name via DNS. The browser sends a **Hyper text transfer protocol **HTTP request to the server. The server sends back a HTTP response of the webpage
+In simple terms, the web address entered points to a IP address for the domain name via DNS. The browser sends a **Hyper text transfer protocol** HTTP request to the server. The server sends back a HTTP response of the webpage
 
 ### DNS
 
@@ -92,12 +92,12 @@ HTML history can be found [here](https://www.w3schools.in/html-tutorial/history/
 * _HTML 1.0_ was released in _1993_
 * _HTML 2.0_, published in _1995_; which contains all the features of HTML 1.0 along with that few additional features
 * _HTML 3.0_, where _Dave Raggett_ who introduced a fresh paper or draft on HTML. It included improved new features of HTML, giving more powerful characteristics for webmasters in designing web pages. But these powerful features of new HTML slowed down the browser in applying further improvements.
-* _HTML 4.01_ which is widely used and was a successful version of HTML before _HTML 5.0_, which is currently released and used worldwide. 
-* _HTML 5 _can be said for as an extended version of HTML 4.01 which was published in the year _2012_.
+* _HTML 4.01_ which is widely used and was a successful version of HTML before _HTML 5.0_, which is currently released and used worldwide.&#x20;
+* _HTML 5_ can be said for as an extended version of HTML 4.01 which was published in the year _2012_.
 
 ### Wayback Machine
 
-****[**GatesNotes **](https://www.gatesnotes.com)****
+****[**GatesNotes** ](https://www.gatesnotes.com)****
 
 * [May 2014](https://web.archive.org/web/20140502185738/http://www.gatesnotes.com/) - Original design concept blog layout
 * [June 2014](https://web.archive.org/web/20140622204426/https://www.gatesnotes.com/) - New design concept, 4 by 4 table of blog entry thumbnails, fixed width for content, large banner, likely designed for lower resolution monitors (not 1920x1080)
@@ -148,7 +148,7 @@ Dynamic web pages are produced by dynamic web apps, in which HTML pages interact
 
 A **server-side dynamic web page** is a web page whose construction is controlled by an **application server** processing server-side scripts. In server-side scripting, parameters determine how the assembly of every new web page proceeds, including the setting up of more client-side processing.
 
-A **client-side dynamic web page** processes the web page using HTML scripting running in the** browser software **as it loads. JavaScript and other scripting languages determine the way the HTML in the received page is parsed into the Document Object Model (DOM), that represents the loaded web page. The same client-side techniques can then dynamically update or change the DOM in the same way. Even though a web page can be dynamic on the client-side, it can still be hosted on a static hosting service such as GitHub Pages or Amazon S3 as long as there isn't any server-side code included.
+A **client-side dynamic web page** processes the web page using HTML scripting running in the **browser software** as it loads. JavaScript and other scripting languages determine the way the HTML in the received page is parsed into the Document Object Model (DOM), that represents the loaded web page. The same client-side techniques can then dynamically update or change the DOM in the same way. Even though a web page can be dynamic on the client-side, it can still be hosted on a static hosting service such as GitHub Pages or Amazon S3 as long as there isn't any server-side code included.
 
 Advantages:
 

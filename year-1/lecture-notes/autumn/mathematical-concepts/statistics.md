@@ -6,7 +6,7 @@ description: 26th October 2021
 
 ## Statistics vs. Probability theory
 
-In statistics, _we do not know _the underlying probability space $$(\Omega, P)$$ - which is where probability theory starts. **Instead **we have some limited information (data points, samples) of some system. However, both are related. **We use probability theory to make sense of statistics. **
+In statistics, _we do not know_ the underlying probability space $$(\Omega, P)$$ - which is where probability theory starts. **Instead** we have some limited information (data points, samples) of some system. However, both are related. **We use probability theory to make sense of statistics.**&#x20;
 
 Experimental data is used to estimate a model in order to predict future trials of the experimental data.&#x20;
 

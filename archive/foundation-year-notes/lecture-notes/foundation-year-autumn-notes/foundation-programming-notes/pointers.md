@@ -2,9 +2,9 @@
 
 ## Pointers
 
-To understand arrays, we must first understand pointers and [variables](variables-and-data-types.md#variables), as variables have pointers to their actual value, and arrays are a collection of variables (of the same data type). So one array maps to lots of elements, with an array pointer, and pointers to elements within the array. Also, _one way_ to pass arrays to functions you can pass to the function a **pointer **to an array by specifying the array's name without an index (so no square brackets)
+To understand arrays, we must first understand pointers and [variables](variables-and-data-types.md#variables), as variables have pointers to their actual value, and arrays are a collection of variables (of the same data type). So one array maps to lots of elements, with an array pointer, and pointers to elements within the array. Also, _one way_ to pass arrays to functions you can pass to the function a **pointer** to an array by specifying the array's name without an index (so no square brackets)
 
-A **pointer** is a variable whose value is the address of another variable, i.e. direct address of the memory location. Like any variable or constant, you must declare a pointer before using it to store any variable address. These are different to normal variables, as they store values of a specific data type. 
+A **pointer** is a variable whose value is the address of another variable, i.e. direct address of the memory location. Like any variable or constant, you must declare a pointer before using it to store any variable address. These are different to normal variables, as they store values of a specific data type.&#x20;
 
 The general form of a pointer variable declaration is − `type *var-name;` There are more ways to denote a pointer:
 

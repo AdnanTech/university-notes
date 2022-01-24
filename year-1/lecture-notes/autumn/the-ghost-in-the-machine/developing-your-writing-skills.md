@@ -21,8 +21,8 @@ Writing has seven levels: Planning, Drafting, Sharing, Evaluating, Revising, Edi
     * Community life
 * Cognitive science perspective
   * Supports intelligence
-  * Writing is a tool for thinking 
-  * Successful communication 
+  * Writing is a tool for thinking&#x20;
+  * Successful communication&#x20;
 
 Exercises will be given in the following areas:
 
@@ -31,13 +31,13 @@ Exercises will be given in the following areas:
 * Composition - Essay Writing - Practice
 * Evaluation - Essay Reviewing - Knowledge
 * Calibration - Back evaluation on reviews
-* University 
+* University&#x20;
   * Different expectations to school/college
     * Explaination, synthesis, argue a thesis
   * Writing used to assess knowledge and ability
     * Better writing ability increases marks
 * Module perspective
-  * All marks in this module come from **one **final assessed essay 
+  * All marks in this module come from **one** final assessed essay&#x20;
     * 1,500 words
     * Due in assessment period A1 (3-7 Jan 2022)
 
@@ -51,30 +51,30 @@ Collaborative peer assessment system for writing. Does as well as being evaluate
   * Writing puts the mind under extreme cognitive load
   * Writing is problem solving
   * Complex skill requiring time and effort to develop
-* Cog sci of learning 
+* Cog sci of learning&#x20;
   * Rich elaboration
   * active engagement
   * spaced activity
-* Writing can be systematically taught 
+* Writing can be systematically taught&#x20;
   * Decompose writing into functional components
   * goals and strategies for each component
 
 
 
-See lecture slides for citations 
+See lecture slides for citations&#x20;
 
 ## Peerceptive
 
-* Developed by Chris Schunn, a leading cognitive scientist, roughly 20 years of development, 10+ evaluations reported in peer reviewed journals 
+* Developed by Chris Schunn, a leading cognitive scientist, roughly 20 years of development, 10+ evaluations reported in peer reviewed journals&#x20;
 * Used by leading universities word wide
-* Normally used for formal summative assessments 
-  * Just for _formative _assessments in GitM module 
+* Normally used for formal summative assessments&#x20;
+  * Just for _formative_ assessments in GitM module&#x20;
 
 ### rationale
 
 * Students are novices at writing
 * Students are relative experts at reading
   * Good judges of quality of written presentations
-  * Reasonable judges of content quality 
-* This knowledge, however, is implicit, while it needs to be explicit 
-* Requires active engagement in 
+  * Reasonable judges of content quality&#x20;
+* This knowledge, however, is implicit, while it needs to be explicit&#x20;
+* Requires active engagement in&#x20;

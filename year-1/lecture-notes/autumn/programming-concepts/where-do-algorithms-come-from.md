@@ -50,7 +50,7 @@ Bare in mind that there is no good algorithm for creating algorithms, it's mainl
 
 Scan through the Array A, and compare each element within the array index n, swapping the values at the indexes based on whether their size is larger than the previous item at the previous index in the array.
 
-### **Selection Sort **Pseudocode
+### **Selection Sort** Pseudocode
 
 ![](<../../../../.gitbook/assets/image (195) (1).png>)
 

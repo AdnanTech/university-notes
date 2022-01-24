@@ -4,7 +4,7 @@
 
 ### Tuples
 
-Tuples are **ordered **lists of a specific amount of elements, the key thing to remember here is that they are ordered. So when comparing them, unlike sets, if they are not in the same order, they will not be equal.
+Tuples are **ordered** lists of a specific amount of elements, the key thing to remember here is that they are ordered. So when comparing them, unlike sets, if they are not in the same order, they will not be equal.
 
 We call them n tuples, where n is the amount of "columns" in the tuple.
 
@@ -26,7 +26,7 @@ Sequences are ordered lists, of one data type, and have no limit, and start at i
 
 ### Arrays
 
-Arrays are sequences defined by an array index. The key difference is that arrays start at index 0. 
+Arrays are sequences defined by an array index. The key difference is that arrays start at index 0.&#x20;
 
 Vectors are dynamic arrays. Arrays are not naturally dynamic, they are fixed sizes.
 

@@ -74,7 +74,7 @@ I think that I will progress these time circles to google calendar instead. I al
 * 7:30-8:15 light reading on theories surrounding blue light, programming assignment planning
 * 11-1pm Trim and shower
 * 2-3pm phoned a friend
-* 3-4pm set up a new [gadget ](https://www.amazon.co.uk/gp/product/B074W8YPK3/ref=ppx_yo_dt_b_asin_title_o00\_s00?ie=UTF8\&psc=1)i ordered
+* 3-4pm set up a new [gadget ](https://www.amazon.co.uk/gp/product/B074W8YPK3/ref=ppx\_yo\_dt\_b\_asin\_title\_o00\_s00?ie=UTF8\&psc=1)i ordered
 * 4-4:30 mental break
 * 5:30-8:15pm work - got distracted, sloppy and careless work, didnt get a lot done
 * 9:30-11pm got a better 1 and a half hours of word done
@@ -107,8 +107,8 @@ I think that I will progress these time circles to google calendar instead. I al
 * Morning session from 8-9 can get very unfocused, I tend to drift, checking messages and emails. This could be as I am not writing down defined objectives, merely "University pre reading" instead.
 * Around 9:30 I got into the flow of things, _turning off WhatsApp notifications_ and making great progress on my [group work](../../../assesments/autumn-assessments/group-work/)
 * After my lecture finished at 1pm, I pranced around and eased my mind and body for 45 mins, considering commuting for my 3pm class takes 15 minutes, this means I was only able to do an hour of work, leaving another hour to be made up for in the afternoon.
-* I can get **distracted **with YouTube **comments **and **recommendations **easily
-* I also get **distracted **by my **phone**
+* I can get **distracted** with YouTube **comments** and **recommendations** easily
+* I also get **distracted** by my **phone**
 * After my class finished at 4pm, commute home took 20 minutes, eating and hanging up clothes etc took 20, and marking my little brothers homework also took 20 minutes
 * Currently 5pm, this leaves me with 3 hours of free time left, as one hour is the work that I still need to do.
 * Did an hour of work from 5-6, then a work call that lasted 30 mins. So i have from 6:30 onwards as free time.

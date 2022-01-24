@@ -1,6 +1,6 @@
 # Information Theory
 
-**Entropy **is a measure of information content: the number of bits actually required to store data
+**Entropy** is a measure of information content: the number of bits actually required to store data
 
 ## Formulae
 

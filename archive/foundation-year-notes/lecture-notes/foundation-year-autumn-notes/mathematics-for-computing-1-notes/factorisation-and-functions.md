@@ -38,9 +38,9 @@ $$
 * Definitons
   * **N**: the set of all natural numbers (integers excluding 0 and <0)
   * **Z**: the set of all natural numbers (all of N, plus 0 and <0)
-  * **R**:** **A value along a continuous line (floating point numbers)
-  * **Domain**: the set of numbers that the _independant _variable can take
-  * **Co-domain/Range**: the set of numbers that the _dependent _variable can take
+  * **R**: **** A value along a continuous line (floating point numbers)
+  * **Domain**: the set of numbers that the _independant_ variable can take
+  * **Co-domain/Range**: the set of numbers that the _dependent_ variable can take
 
 $$
 f(x) = x^2 \space \space \space \space \space -> \space \space \space \space R \overset{f}{=>}R

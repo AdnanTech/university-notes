@@ -46,7 +46,7 @@ Each programming projects is to be submitted via Canvas as a word processed docu
 * A desktop PC or Laptop
 * An Integrated Development Environment (**IDE**) for C/C++:
   * **Dev-C++** as your IDE on Windows
-  * **Xcode **on macOS
+  * **Xcode** on macOS
 * Internet Access (online sessions via Zoom)
 
 ## Contacts

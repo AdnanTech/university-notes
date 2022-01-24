@@ -2,28 +2,28 @@
 
 ### The Internet
 
-*  The **Internet **is the global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to communicate between networks and devices. Essentially, a _network of _private, public, academic, business, and government _networks _to a global (WAN) or local (LAN) scale.
+* &#x20;The **Internet** is the global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to communicate between networks and devices. Essentially, a _network of_ private, public, academic, business, and government _networks_ to a global (WAN) or local (LAN) scale.
 
 ### Networks of Networks
 
-The **infrastructure** of the internet consits of different **data networks, **like layers, the most exposed data networks we know today are the WAN, and the LAN :
+The **infrastructure** of the internet consits of different **data networks,** like layers, the most exposed data networks we know today are the WAN, and the LAN :
 
 * [Nanoscale](https://en.wikipedia.org/wiki/Nanonetwork): A nanonetwork or nanoscale network is a set of interconnected nanomachines (devices a few hundred nanometers or a few micrometers at most in size), which are able to perform only very simple tasks such as computing, data storing, sensing and actuation
-* [Near-field (NFC)](https://en.wikipedia.org/wiki/Near-field_communication)
-* [Body (BAN)](https://en.wikipedia.org/wiki/Body_area_network)
-* [Personal (PAN)](https://en.wikipedia.org/wiki/Personal_area_network):  A personal area network (PAN) is a computer network for interconnecting electronic devices centered on an individual person's workspace. PAN provides data transmission among devices such as computers, smartphones, tablets and personal digital assistant
+* [Near-field (NFC)](https://en.wikipedia.org/wiki/Near-field\_communication)
+* [Body (BAN)](https://en.wikipedia.org/wiki/Body\_area\_network)
+* [Personal (PAN)](https://en.wikipedia.org/wiki/Personal\_area\_network):  A personal area network (PAN) is a computer network for interconnecting electronic devices centered on an individual person's workspace. PAN provides data transmission among devices such as computers, smartphones, tablets and personal digital assistant
   * Wireless Personal Access Network (WPAN): a PAN carried over a low-powered, short-distance wireless network technology such as IrDA, Wireless USB, Bluetooth or ZigBee. The reach of a WPAN varies from a few centimeters to a few meters.
-* [Near-me (NAN)](https://en.wikipedia.org/wiki/Near-me_area_network)
-* [Local (LAN)](https://en.wikipedia.org/wiki/Local_area_network): ** Local Area Network (LAN) **is a computer network that interconnects computers within a limited area such as a house, school, laboratory, university campus or office building
-  * [Home (HAN)](https://en.wikipedia.org/wiki/Home_network):  **home area network** (**HAN**) is a type of computer network that facilitates communication among devices within the close vicinity of a home. Devices capable of participating in this network, for example, smart devices such as network printers and handheld mobile computers, often gain enhanced new capabilities through their ability to interact
-  * [Storage (SAN)](https://en.wikipedia.org/wiki/Storage_area_network): **storage area network** (**SAN**) is a computer network which provides access to consolidated, block-level data storage. SANs are primarily used to access storage devices, such as disk arrays and tape libraries from servers so that the devices appear to the operating system as direct-attached storage. A SAN typically is a dedicated network of storage devices not accessible through the local area network (LAN).
-  * [Wireless (WLAN)](https://en.wikipedia.org/wiki/Wireless_LAN):  **Wireless Local Area Network (WLAN)** is a wireless computer network that links two or more devices using wireless communication to form a LAN within a limited area such as a home, school, computer laboratory, campus, or office building. This gives users the ability to move around within the area and remain connected to the network. Through a gateway, a WLAN can provide a connection to the wider Internet
-* [Campus (CAN)](https://en.wikipedia.org/wiki/Campus_network):  Corporate area network or CAN is a computer network made up of an interconnection of LANs within a limited geographical area
-* [Backbone](https://en.wikipedia.org/wiki/Backbone_network): A backbone or core network is a part of a network which interconnects pieces of various networks, providing a path for the exchange of information between different LANs or subnetworks
-* [Metropolitan (MAN)](https://en.wikipedia.org/wiki/Metropolitan_area_network)
-  * [Municipal wireless (MWN)](https://en.wikipedia.org/wiki/Municipal_wireless_network)
-* [Wide (WAN)](https://en.wikipedia.org/wiki/Wide-area_network):  Wide Area Network (WAN) is a telecommunications network that extends over a large geographic area for the primary purpose of computer networking.
-* [Cloud (IAN)](https://en.wikipedia.org/wiki/Internet_area_network)
+* [Near-me (NAN)](https://en.wikipedia.org/wiki/Near-me\_area\_network)
+* [Local (LAN)](https://en.wikipedia.org/wiki/Local\_area\_network): **Local Area Network (LAN)** is a computer network that interconnects computers within a limited area such as a house, school, laboratory, university campus or office building
+  * [Home (HAN)](https://en.wikipedia.org/wiki/Home\_network):  **home area network** (**HAN**) is a type of computer network that facilitates communication among devices within the close vicinity of a home. Devices capable of participating in this network, for example, smart devices such as network printers and handheld mobile computers, often gain enhanced new capabilities through their ability to interact
+  * [Storage (SAN)](https://en.wikipedia.org/wiki/Storage\_area\_network): **storage area network** (**SAN**) is a computer network which provides access to consolidated, block-level data storage. SANs are primarily used to access storage devices, such as disk arrays and tape libraries from servers so that the devices appear to the operating system as direct-attached storage. A SAN typically is a dedicated network of storage devices not accessible through the local area network (LAN).
+  * [Wireless (WLAN)](https://en.wikipedia.org/wiki/Wireless\_LAN):  **Wireless Local Area Network (WLAN)** is a wireless computer network that links two or more devices using wireless communication to form a LAN within a limited area such as a home, school, computer laboratory, campus, or office building. This gives users the ability to move around within the area and remain connected to the network. Through a gateway, a WLAN can provide a connection to the wider Internet
+* [Campus (CAN)](https://en.wikipedia.org/wiki/Campus\_network):  Corporate area network or CAN is a computer network made up of an interconnection of LANs within a limited geographical area
+* [Backbone](https://en.wikipedia.org/wiki/Backbone\_network): A backbone or core network is a part of a network which interconnects pieces of various networks, providing a path for the exchange of information between different LANs or subnetworks
+* [Metropolitan (MAN)](https://en.wikipedia.org/wiki/Metropolitan\_area\_network)
+  * [Municipal wireless (MWN)](https://en.wikipedia.org/wiki/Municipal\_wireless\_network)
+* [Wide (WAN)](https://en.wikipedia.org/wiki/Wide-area\_network):  Wide Area Network (WAN) is a telecommunications network that extends over a large geographic area for the primary purpose of computer networking.
+* [Cloud (IAN)](https://en.wikipedia.org/wiki/Internet\_area\_network)
 
 {% hint style="info" %}
 _Nobody owns the internet, it is an entity as such_
@@ -41,9 +41,9 @@ _Nobody owns the internet, it is an entity as such_
 
 The **World Wide Web** is an information system where documents and other web resources are identified by Uniform Resource Locators (URLs), which may be interlinked by hypertext, and are accessible over the Internet
 
-Who invented the World Wide Web (WWW)? 
+Who invented the World Wide Web (WWW)?&#x20;
 
-* English scientist **Tim Berners-Lee** invented the World Wide Web in 1989. 
+* English scientist **Tim Berners-Lee** invented the World Wide Web in 1989.&#x20;
 * He wrote the first web browser (called WorldWideWeb) in 1990 while employed at CERN near Geneva, Switzerland.
 * The browser was released outside CERN to other research institutions starting in January 1991
 * Then to the general public in August 1991
@@ -53,9 +53,9 @@ Who invented the World Wide Web (WWW)?
 * The **Transmission Control Protocol** (**TCP**) is one of the main protocols of the Internet protocol suite. It originated in the initial network implementation in which it complemented the Internet Protocol (IP). Therefore, the entire suite is commonly referred to as TCP/IP. TCP provides reliable, ordered, and error-checked delivery of a stream of octets (bytes) between applications running on hosts communicating via an IP network. Major internet applications such as the World Wide Web, email, remote administration, and file transfer rely on TCP, which is part of the Transport Layer of the TCP/IP suite. SSL/TLS often runs on top of TCP.
   * TCP is connection-oriented, and a connection between client and server is established before data can be sent. The server must be listening (passive open) for connection requests from clients before a connection is established. Three-way handshake (active open), re transmission, and error-detection adds to reliability but lengthens latency. Applications that do not require reliable data stream service may use the User Datagram Protocol (UDP), which provides a connectionless datagram service that prioritizes time over reliability. TCP employs network congestion avoidance. However, there are vulnerabilities to TCP including denial of service, connection hijacking, TCP veto, and reset attack. For network security, monitoring, and debugging, TCP traffic can be intercepted and logged with a packet sniffer.
   * Though TCP is a complex protocol, its basic operation has not changed significantly since its first specification. TCP is still dominantly used for the web, i.e. for the HTTP protocol, and later HTTP/2, while not used by latest standard HTTP/3.
-*   TCP verifies the correct delivery of **data from **its **source **to **destination, **It can also: 
+*   TCP verifies the correct delivery of **data from** its **source** to **destination,** It can also:&#x20;
 
-    * Detect errors 
+    * Detect errors&#x20;
     * Detect duplicate messages and discard them
     * Detect lost data
     * Request retransmission of data until it is correct and complete
@@ -73,12 +73,12 @@ The Internet Protocol (IP) is the principal communications protocol in the Inter
 
 IP has the task of delivering packets from the source host to the destination host solely based on the IP addresses in the packet headers. For this purpose, IP defines packet structures that encapsulate the data to be delivered. It also defines addressing methods that are used to label the datagram with source and destination information.
 
-* IPv4 
+* IPv4&#x20;
   * Denary notation
-  * 32-bit number 
+  * 32-bit number&#x20;
   * 2^32
   * 8.8.8.8 (Google's IPv4 address)
-* IPv6 
+* IPv6&#x20;
   * Hexadecimal notation
   * 128-bit number
   * 2^128
@@ -138,7 +138,7 @@ Dynamic web pages are produced by dynamic web apps, in which HTML pages interact
 
 A **server-side dynamic web page** is a web page whose construction is controlled by an **application server** processing server-side scripts. In server-side scripting, parameters determine how the assembly of every new web page proceeds, including the setting up of more client-side processing.
 
-A **client-side dynamic web page** processes the web page using HTML scripting running in the** browser software **as it loads. JavaScript and other scripting languages determine the way the HTML in the received page is parsed into the Document Object Model (DOM), that represents the loaded web page. The same client-side techniques can then dynamically update or change the DOM in the same way. Even though a web page can be dynamic on the client-side, it can still be hosted on a static hosting service such as GitHub Pages or Amazon S3 as long as there isn't any server-side code included.
+A **client-side dynamic web page** processes the web page using HTML scripting running in the **browser software** as it loads. JavaScript and other scripting languages determine the way the HTML in the received page is parsed into the Document Object Model (DOM), that represents the loaded web page. The same client-side techniques can then dynamically update or change the DOM in the same way. Even though a web page can be dynamic on the client-side, it can still be hosted on a static hosting service such as GitHub Pages or Amazon S3 as long as there isn't any server-side code included.
 
 **Advantages**
 
@@ -155,4 +155,4 @@ Question for next session: describe and identify one exampe where hexadecimal nu
 
 ### Sources
 
-* [https://en.wikipedia.org/wiki/Computer_network](https://en.wikipedia.org/wiki/Computer_network)
+* [https://en.wikipedia.org/wiki/Computer\_network](https://en.wikipedia.org/wiki/Computer\_network)

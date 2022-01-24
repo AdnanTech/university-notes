@@ -8,7 +8,7 @@
 
 Behaviourism assumes all learning is the result of **conditioning**, and conditioning depends upon processes of **association** and **reinforcement**. e.g. Pavlov's dogs being conditioned to salivate at the sound of a dinner bell, and the Skinner Box, in which a rat becomes conditioned to perform behaviour with rewards and punishments.
 
-**Classical Conditioning** - Strengthening of association between a  conditioned stimulus (the ringing of a bell), and an unconditioned stimulus (presentation of food) resulting in a behavioural response (salivation). 
+**Classical Conditioning** - Strengthening of association between a  conditioned stimulus (the ringing of a bell), and an unconditioned stimulus (presentation of food) resulting in a behavioural response (salivation).&#x20;
 
 ### Tolman and Honzik, "'Insight' in Rats" (1930)
 
@@ -20,21 +20,21 @@ Three groups of rats are made to navigate a maze. The first group receive reward
 
 #### The Results
 
-The first group, motivated by food, learn to solve the maze as expected by the concept of behaviourism. The second and third groups seemed to wander aimlessly. Once rewarded, the third group manage to solve the maze faster than the first. 
+The first group, motivated by food, learn to solve the maze as expected by the concept of behaviourism. The second and third groups seemed to wander aimlessly. Once rewarded, the third group manage to solve the maze faster than the first.&#x20;
 
 The third group, Tolman and Honzik argue, must have memorised the layout of the maze despite having no reward, and thus, no reinforcement.
 
 ### Tolman, Ritchie, and Kalish, "Studies in Spacial Learning" (1946)
 
-****[**Spacial Learning**](https://link.springer.com/referenceworkentry/10.1007%2F978-1-4419-1428-6\_44)** (cognitive mapping, spatial memory)** - refers to the process by which an organism acquires a mental representation of its environment. 
+****[**Spacial Learning**](https://link.springer.com/referenceworkentry/10.1007%2F978-1-4419-1428-6\_44) **(cognitive mapping, spatial memory)** - refers to the process by which an organism acquires a mental representation of its environment.&#x20;
 
-The experiment found that it was easier for animals to code spatial information in terms of places rather than in terms of particular sequences of movements. 
+The experiment found that it was easier for animals to code spatial information in terms of places rather than in terms of particular sequences of movements.&#x20;
 
 ### Lashley, "The Problem of Serial Order in Behavior" (1951)
 
 Complex behaviour can only be thought about in the previous two experiments as sequences of functions taking place one after another. Lashley argues that this is not the case and that behaviour is arranged hierarchically rather than linearly.
 
-Complex behaviour should be thought about as the product of prior planning and organisation. Even simple plans can be broken down into even simpler ones. Despite being conscious of a high-level plan, most of the information processing happens at a subconscious level (**subconscious information processing**). 
+Complex behaviour should be thought about as the product of prior planning and organisation. Even simple plans can be broken down into even simpler ones. Despite being conscious of a high-level plan, most of the information processing happens at a subconscious level (**subconscious information processing**).&#x20;
 
 The hypothesis of task analysis states that we can understand a complex system by breaking it down into subtasks. e.g. The memory system could be divided into subtasks for storing and retrieving information. Further down the hierarchy, the subtask for storing could be divided further into sub-subtasks for long and short-term storage.
 
@@ -48,9 +48,9 @@ The problem of determining whether there is a purely mechanical procedure for wo
 
 #### The Turing Machine
 
-Turing attempted to solve the Halting Problem algorithmically, by devising what we now call the Turing Machine. A Turing Machine reads a symbol at a time from an infinitely long piece of tape, using programmed instructions, or its Machine Table, it performs simple operations on the tape. The machine is purely mechanical, requiring no intuition or judgement. 
+Turing attempted to solve the Halting Problem algorithmically, by devising what we now call the Turing Machine. A Turing Machine reads a symbol at a time from an infinitely long piece of tape, using programmed instructions, or its Machine Table, it performs simple operations on the tape. The machine is purely mechanical, requiring no intuition or judgement.&#x20;
 
-A Universal Turing Machine is a higher level Turing Machine that can run any specialised Turing Machine. It is the theoretical precursor to the general-purpose digital computer. 
+A Universal Turing Machine is a higher level Turing Machine that can run any specialised Turing Machine. It is the theoretical precursor to the general-purpose digital computer.&#x20;
 
 #### The Church-Turing Thesis
 

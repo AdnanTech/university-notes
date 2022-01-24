@@ -4,7 +4,7 @@
 
 ### What is the Turing Test?
 
-Turing defined intelligence as the ability to achieve human-level performance in al cognitive tasks, sufficient to fool an interrogator (Turing's paper page 433). Thus the interrogation game (The Turing test), was made. The Turing test is a test of a machine's ability to exhibit **intelligent behaviour **equivalent to, or indistinguishable from, that of a human. It still acts as the benchmark for machine intelligence as we see it today. The conversation during the test would be limited to a **text-only **channel _(A. M. TURING, I.—COMPUTING MACHINERY AND INTELLIGENCE, page 434)_ such as a computer keyboard and screen so the result would **not **depend on the machine's ability to _render words as speech_. Although in recent times, we assume a machine must be also be able to render words as speech, to pass the Turing Test.
+Turing defined intelligence as the ability to achieve human-level performance in al cognitive tasks, sufficient to fool an interrogator (Turing's paper page 433). Thus the interrogation game (The Turing test), was made. The Turing test is a test of a machine's ability to exhibit **intelligent behaviour** equivalent to, or indistinguishable from, that of a human. It still acts as the benchmark for machine intelligence as we see it today. The conversation during the test would be limited to a **text-only** channel _(A. M. TURING, I.—COMPUTING MACHINERY AND INTELLIGENCE, page 434)_ such as a computer keyboard and screen so the result would **not** depend on the machine's ability to _render words as speech_. Although in recent times, we assume a machine must be also be able to render words as speech, to pass the Turing Test.
 
 ### What exactly are the human intelligent behaviours?
 
@@ -17,13 +17,13 @@ This conversation can be controversial, and ambiguous to define, but to try and 
 * **Bodily-kinesthetic intelligence**: The ability to solve problems or to fashion products using one's whole body, or parts of the body. Gifted people in this intelligence may be good dancers, athletes, surgeons, craftspeople, and others.
 * **Interpersonal intelligence**: The ability to see things from the perspective of others, or to understand people in the sense of empathy. Strong interpersonal intelligence would be an asset in those who are teachers, politicians, clinicians, religious leaders, etc.
 * **Intrapersonal intelligence:** It is a capacity to form an accurate, veridical model of oneself and to be able to use that model to operate effectively in life.
-* ** Naturalist intelligence: **The recognition and classification of the numerous species—the flora and fauna—of his or her environment.
+* &#x20;**Naturalist intelligence:** The recognition and classification of the numerous species—the flora and fauna—of his or her environment.
 
 __
 
 **Is this the definitive way to define the human intelligence types? No one really knows what human intelligence is, as it's an ambiguous term.**
 
-### Rewiring the question "Can machines think?" 
+### Rewiring the question "Can machines think?"&#x20;
 
 Turing stated that the question "can machines think?" is too vague, instead he proposed the concept of the "imitation game" instead, which a lot more "unambiguous" than the former question, as it is based on intelligent human behaviour, rather than raw intelligence, as raw intelligence is arguably unbound. _(A. M. TURING, I.—COMPUTING MACHINERY AND INTELLIGENCE, page 433)_
 
@@ -31,7 +31,7 @@ I believe the reason he rewired the question is because of the fundamental idea 
 
 ### Imitation game
 
-The imitation game is a game of which consists of three three entities, on one side, a machine and a human. On the other side, one human interrogator that is isolated from other two entities. The interrogator's job is to try and figure out _which _of the entities is **human **and which one is **machine **by asking questions in typewritten form, to both of them. To make the things harder computer is trying to make the interrogator guess wrongly, in the midst of the human trying to help the interrogator differentiate between herself and the machine. 
+The imitation game is a game of which consists of three three entities, on one side, a machine and a human. On the other side, one human interrogator that is isolated from other two entities. The interrogator's job is to try and figure out _which_ of the entities is **human** and which one is **machine** by asking questions in typewritten form, to both of them. To make the things harder computer is trying to make the interrogator guess wrongly, in the midst of the human trying to help the interrogator differentiate between herself and the machine.&#x20;
 
 The machine's objective is to be as indistinguishable from human as much as possible. If the interrogator is wrong in his decision of whom the entity is after 5 minutes, then the machine is considered to have passed the Turing test. (_A. M. TURING, I.—COMPUTING MACHINERY AND INTELLIGENCE, page 433)_
 
@@ -74,19 +74,19 @@ Human intelligence consists of reasoning, problem solving, and learning. People 
 ## Reading List
 
 * [Turing's paper](https://academic.oup.com/mind/article/LIX/236/433/986238)
-* [Turing's paper 2](https://www.abelard.org/turpap/turpap.php#the_imitation_game)
+* [Turing's paper 2](https://www.abelard.org/turpap/turpap.php#the\_imitation\_game)
 * [Turing's Paper 3](https://docs.google.com/spreadsheets/d/1pu6PqO4WioJPEA0e5RIflYHqw60SOkqwvrFLyousy3Y/edit#gid=0\&range=B2)
 * [Stanford Encyclopedia of Philosoph y Turing Test analysis](https://plato.stanford.edu/entries/turing-test/)
 * [Short notes on the Turing Test](https://www.geeksforgeeks.org/turing-test-artificial-intelligence/)
-* [Lex Fridman analysis of the Turing Test](https://www.youtube.com/watch?v=MGW_Qcqr9eQ)
+* [Lex Fridman analysis of the Turing Test](https://www.youtube.com/watch?v=MGW\_Qcqr9eQ)
 * [Short snippet of the Turing Test from Geeks for Geeks](https://www.geeksforgeeks.org/turing-test-artificial-intelligence/)
 * [Slideshare example of Turing Test](https://www.slideshare.net/ShakibMondal/turing-test-163007795)
-* [Loebner prize](https://en.wikipedia.org/wiki/Loebner_Prize)
+* [Loebner prize](https://en.wikipedia.org/wiki/Loebner\_Prize)
 * [Alexa prize](https://developer.amazon.com/alexaprize)
 * [What we have learnt about the Alexa prize](https://towardsdatascience.com/11-more-lessons-we-have-to-learn-from-alexa-prize-94fe14b8986f)
 * [More lessons to be learnt about the Alexa prize](https://chatbotsmagazine.com/13-lessons-we-have-to-learn-from-amazon-alexa-prize-965628e38ccb)
 * [Lovelace test (creativity test)](https://developer.amazon.com/alexaprize)
-* [Wiki on theory of multiple Intelligences](https://en.wikipedia.org/wiki/Human_intelligence#Theory_of_multiple_intelligences)
+* [Wiki on theory of multiple Intelligences](https://en.wikipedia.org/wiki/Human\_intelligence#Theory\_of\_multiple\_intelligences)
 * [Paper on intelligent behaviours, linking humans and AI](https://www.google.com/url?sa=t\&rct=j\&q=\&esrc=s\&source=web\&cd=\&ved=2ahUKEwjBp67rg9LsAhWai1wKHV2ECQQQFjALegQIARAC\&url=http%3A%2F%2Fwww.cogsys.org%2Fpdf%2Fpaper-3-2-140.pdf\&usg=AOvVaw1WudukIssCpmMxvFvQ8pHI)
 * [Gardener's theory of multiple intelligences](https://www.simplypsychology.org/multiple-intelligences.html)
 * [Gardener's theory of multiple intelligences 2](https://www.verywellmind.com/gardners-theory-of-multiple-intelligences-2795161)
@@ -95,7 +95,7 @@ Human intelligence consists of reasoning, problem solving, and learning. People 
 
 [https://www.sciencemag.org/news/2017/06/when-will-alexa-google-assistant-and-other-chatbots-finally-talk-us-real-people](https://www.sciencemag.org/news/2017/06/when-will-alexa-google-assistant-and-other-chatbots-finally-talk-us-real-people), what is a chatbot?/chatbot definition, written by Matthew Hutson,  posted Jun. 20, 2017, 12:45 PM, accessed 04/11/2020
 
-[https://www.geeksforgeeks.org/turing-test-artificial-intelligence/](https://www.geeksforgeeks.org/turing-test-artificial-intelligence/) diagram of imitation game, written by  Shubham Bansal, last updated Feb. 7, 2018, accessed 04/11/2020 
+[https://www.geeksforgeeks.org/turing-test-artificial-intelligence/](https://www.geeksforgeeks.org/turing-test-artificial-intelligence/) diagram of imitation game, written by  Shubham Bansal, last updated Feb. 7, 2018, accessed 04/11/2020&#x20;
 
 [https://www.verywellmind.com/gardners-theory-of-multiple-intelligences-2795161](https://www.verywellmind.com/gardners-theory-of-multiple-intelligences-2795161) article summarising Howard Gardener's theory of multiple inteligences, written by Kendra Cherry, last updated July 17, 2019, accessed 04/11/2020
 

@@ -4,7 +4,7 @@
 
 ### Definition
 
-A **matrix** **is an array of numbers **represented in columns and rows, that represent something collectively. A 1D matrix (one row vector or one column vector - an array) could be used to **represent data**, such as an audio signal, a row or column in a spreadsheet, or just an array of numbers for an equation. An example of a 2D matrix is below.
+A **matrix** **is an array of numbers** represented in columns and rows, that represent something collectively. A 1D matrix (one row vector or one column vector - an array) could be used to **represent data**, such as an audio signal, a row or column in a spreadsheet, or just an array of numbers for an equation. An example of a 2D matrix is below.
 
 ![A 2x2 matrix](<../../../../../.gitbook/assets/image (17).png>)
 
@@ -20,9 +20,9 @@ With a 2D array, you can input to turn a pixel black or white, with a grid that 
 
 ### Reading matrices
 
-A 2D **Matrix **can **represent **a whole **spreadsheet **if we increase the dimensions. It can also represent **simulatenous equations**, or even **images**.
+A 2D **Matrix** can **represent** a whole **spreadsheet** if we increase the dimensions. It can also represent **simulatenous equations**, or even **images**.
 
-In general a matrix is **m x n **matrix if it has **m rows** and **n columns**. Where m and n are the elements of the matrix. We often use square bracket notation, with subscripts, where the numbers 13 are first row, third column.
+In general a matrix is **m x n** matrix if it has **m rows** and **n columns**. Where m and n are the elements of the matrix. We often use square bracket notation, with subscripts, where the numbers 13 are first row, third column.
 
 ![](<../../../../../.gitbook/assets/image (38).png>)
 
@@ -32,7 +32,7 @@ A special cause of the matrix sqaure, is where m = n, not m x n
 
 ### Identity matrix
 
-Denoted as I (capital i), **all elements are zero apart from the top left to the bottom right, where they are 1's. **Identity matricies are the equivalent of the number one.
+Denoted as I (capital i), **all elements are zero apart from the top left to the bottom right, where they are 1's.** Identity matricies are the equivalent of the number one.
 
 ![](<../../../../../.gitbook/assets/image (43).png>)
 
@@ -60,7 +60,7 @@ This is where you times the matrix by an some constant scalar value, aka an inte
 
 ### Matrix Multiplication
 
-**Works only when the number of **_**columns **_**of one matrix, is equal to the number of **_**rows **_**of the other**. Multiply each element of the rows of the first matrix by the column of the second. Used in image processing to scale up an image.
+**Works only when the number of **_**columns**_** of one matrix, is equal to the number of **_**rows**_** of the other**. Multiply each element of the rows of the first matrix by the column of the second. Used in image processing to scale up an image.
 
 ![Basic formula for a 2x2 matrix multiplacation](<../../../../../.gitbook/assets/image (16).png>)
 
@@ -90,7 +90,7 @@ There are a few approaches, let's start with a 2x2 matix:
 
 ![](<../../../../../.gitbook/assets/image (37).png>)
 
-Where _Det _is the determinant of a matrix and is defined as a single value (ad-bc)._ Det(A)_ can also be written as _|A|._
+Where _Det_ is the determinant of a matrix and is defined as a single value (ad-bc). _Det(A)_ can also be written as _|A|._
 
 Let's take the original equation that is broken down into the subset of smaller matricies (from next chapter):
 
@@ -128,7 +128,7 @@ Here is the equation above solved with the Gaussian elimination method:
 
 ![Solved using Gaussian Elimination](<../../../../../.gitbook/assets/image (27).png>)
 
-As we can see, x = 1 and y = 2. Because if you multiple them out again, you get 0x plus y = 2, using this you can solve for x. \[ 0 x 1 ] x \[ y ] = 2. 
+As we can see, x = 1 and y = 2. Because if you multiple them out again, you get 0x plus y = 2, using this you can solve for x. \[ 0 x 1 ] x \[ y ] = 2.&#x20;
 
 ### Solving using the inverse matrix
 
@@ -156,7 +156,7 @@ The matrix is an interesting film because it hones n the idea that with the righ
 
 MATLAB can be integrated with the programming language C
 
-* Download MATLAB [here](http://www.sussex.ac.uk/its/services/software/owncomputer/matlab_student)
+* Download MATLAB [here](http://www.sussex.ac.uk/its/services/software/owncomputer/matlab\_student)
 
 3 by 3 matrix grid:
 
@@ -188,7 +188,7 @@ thus carrying out the calculation
 
 \[x;y;z] =\[1,1,1;3,2,1;2,-1,4]^-1 \* \[5;-2;15]
 
-Thus we can find x, y and z using MATLAB using the **inv(matrix 1)\*(matrix 2) **to get an output
+Thus we can find x, y and z using MATLAB using the **inv(matrix 1)\*(matrix 2)** to get an output
 
 Have to learn how to inverse a 2x2 and 3x3 matrix **by hand**
 

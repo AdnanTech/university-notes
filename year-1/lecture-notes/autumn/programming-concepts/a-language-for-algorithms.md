@@ -8,7 +8,7 @@ description: Lecture date 04/10/2021
 
 * Essential features of algorithms
 * Data storage and manipulation
-* Control structures 
+* Control structures&#x20;
 
 ## Pseudocode Syntax Table
 
@@ -26,9 +26,9 @@ Basic operations counts as the arithmetic operations as well as control flow.
 
 An algorithm is designed for person to person communication. Programming languages therefore, are designed for person to computer communication. Algorithms are meant to be implemented on computers.
 
-Algorithms sit halfway between excruciating detail needed for person to computer communication and informal English used for person to person communication. 
+Algorithms sit halfway between excruciating detail needed for person to computer communication and informal English used for person to person communication.&#x20;
 
-We need to remove vagueness from descriptions of algorithms, for example, "make a note of...", "proceed through the list of records...", etc. However, we still want to be able to understand what the algorithm is doing. 
+We need to remove vagueness from descriptions of algorithms, for example, "make a note of...", "proceed through the list of records...", etc. However, we still want to be able to understand what the algorithm is doing.&#x20;
 
 Indexing in Pseudocode start at 1, not 0.
 
@@ -38,11 +38,11 @@ The essential features of algorithms can be noted in the following sections (Dat
 
 * Non self-referential
 
-Turing complete refers to a language which can be used to perform an algorithm. It refers to an abstract machine which can be used to compute any computable problem using an infinitely long tape, a read and write head, used to access and modify the state of the tape, and a language used to control how the read write head can be moved. 
+Turing complete refers to a language which can be used to perform an algorithm. It refers to an abstract machine which can be used to compute any computable problem using an infinitely long tape, a read and write head, used to access and modify the state of the tape, and a language used to control how the read write head can be moved.&#x20;
 
 ### Data storage - Variables
 
-Variables are used to store data, they refer to a section in memory with some data inside it, and a type which refers to how the computer should read the data. 
+Variables are used to store data, they refer to a section in memory with some data inside it, and a type which refers to how the computer should read the data.&#x20;
 
 In pseudocode, we define variables using a left arrow (<-), for example
 
@@ -68,13 +68,13 @@ counter <- counter + 1
 salary <- salary * 5
 ```
 
-If a variable is on the right hand side of the assignment operator, the value within the variable is read from, if a variable is on the left side of the assignment operator, the value on the right side is written to the name of the variable. 
+If a variable is on the right hand side of the assignment operator, the value within the variable is read from, if a variable is on the left side of the assignment operator, the value on the right side is written to the name of the variable.&#x20;
 
 ### Data storage - Arrays
 
-In order to perform operations on one of the values in the collection, we require an index. In pseudocode, arrays are **not** zero indexed, indexing starts at 1, and ends at n. Where n is the total number of values stored in the collection. 
+In order to perform operations on one of the values in the collection, we require an index. In pseudocode, arrays are **not** zero indexed, indexing starts at 1, and ends at n. Where n is the total number of values stored in the collection.&#x20;
 
-When an item in the array is accessed using its index, it can be operated on in the same way that a regular variable would be (see section above). 
+When an item in the array is accessed using its index, it can be operated on in the same way that a regular variable would be (see section above).&#x20;
 
 In an array, the length is always known, and never changes. We use the notation in the following code snippet:
 
@@ -82,28 +82,28 @@ In an array, the length is always known, and never changes. We use the notation 
 A[1..n] has n boxes.
 ```
 
-### Control structures 
+### Control structures&#x20;
 
-All programming languages will offer some way of performing each of the following: 
+All programming languages will offer some way of performing each of the following:&#x20;
 
-#### Direct Sequencing 
+#### Direct Sequencing&#x20;
 
 Direct sequencing instructs the reader to do A, then do B, then do C, for each of the instructions in the algorithm.
 
-#### Conditional Sequencing 
+#### Conditional Sequencing&#x20;
 
 Control sequencing instructs the reader to do A if a certain condition is met, and to otherwise do B
 
 #### Bounded iteration
 
-Bounded iterations instructs the reader to do something exactly n times. The number of times the instructions are executed is known before the iterations begin 
+Bounded iterations instructs the reader to do something exactly n times. The number of times the instructions are executed is known before the iterations begin&#x20;
 
 ```
 for i <- <start> to <finish> do
     <something> 
 ```
 
-Pseudocode to do something an exact number of times. The variable i refers to the current iteration index, so on the first iteration, it will have a value of 
+Pseudocode to do something an exact number of times. The variable i refers to the current iteration index, so on the first iteration, it will have a value of&#x20;
 
 #### Example of bounded iteration
 
@@ -111,7 +111,7 @@ Summing the first n positive numbers
 
 **Input**: positive number n
 
-**Output: **sum of first n positive numbers
+**Output:** sum of first n positive numbers
 
 ```
 sum <- 0
@@ -124,14 +124,14 @@ return sum
 
 #### Conditional iteration
 
-Conditional iteration instructs the reader to do something while some condition is true. It is not known how many times the instructions will be executed before the iteration begins. 
+Conditional iteration instructs the reader to do something while some condition is true. It is not known how many times the instructions will be executed before the iteration begins.&#x20;
 
 ```
 while <condition> do
     <something>
 ```
 
-With conditional iteration, it's expected that the condition will eventually change to be false, and end the iteration. However, there's no guarantee that it will always exit the loop. 
+With conditional iteration, it's expected that the condition will eventually change to be false, and end the iteration. However, there's no guarantee that it will always exit the loop.&#x20;
 
 
 
@@ -156,7 +156,7 @@ Assume A is an array with n elements
 
 ### Problem description
 
-Legal inputs: any list of employee records, containing each of their salaries 
+Legal inputs: any list of employee records, containing each of their salaries&#x20;
 
 Required output: the total salary bill
 
@@ -171,11 +171,11 @@ Required output: the total salary bill
 #### Assumptions
 
 1. The employees array is n elements long
-2. All employees have a salary in the employees array 
+2. All employees have a salary in the employees array&#x20;
 
-**Inputs: **an array E\[1..n] of employee details
+**Inputs:** an array E\[1..n] of employee details
 
-**Output: **total salary of all employees
+**Output:** total salary of all employees
 
 ```
 total <- 0
@@ -199,7 +199,7 @@ return total
 
 To program this, you would use bitwise shifts.
 
-## Summary 
+## Summary&#x20;
 
 
 

@@ -7,13 +7,13 @@ description: Mathematical Concepts lecture - 12/10/2021
 ## Summary
 
 * Sets
-* Set relations 
+* Set relations&#x20;
 * Set operations
 * Set notation
 
 ## Sets
 
-Sets are a collection of things, typically numbers. The things in the sets are refered to as the **elements **of the set. 
+Sets are a collection of things, typically numbers. The things in the sets are refered to as the **elements** of the set.&#x20;
 
 The general notation for a set is as follows:
 
@@ -35,7 +35,7 @@ $$
 S=\{x\in X:P(x)\}
 $$
 
-This means that the set contains only elements of the set $$X$$where a predicate $$P(x)$$holds. 
+This means that the set contains only elements of the set $$X$$where a predicate $$P(x)$$holds.&#x20;
 
 #### Formulas over a range
 
@@ -71,13 +71,13 @@ Sometimes it helps to visualise sets within venn diagrams
 
 ### Infinite cardinalities
 
-We can extend **cardinality** to infinate sets. We say that $$|\mathbb{N}|\geq|\mathbb{Z}|$$if we can match each element of $$A$$with a **distinct **element of $$B$$.
+We can extend **cardinality** to infinate sets. We say that $$|\mathbb{N}|\geq|\mathbb{Z}|$$if we can match each element of $$A$$with a **distinct** element of $$B$$.
 
 $$|{\mathbb{N}}|=: \aleph_0$$ ("aleph nought" - countable infinity)
 
 ## Intervals
 
-Intervals are a special type of **subsets of **$$\mathbb{R}$$. For $$x,y \in \mathbb{R} \land x < y$$:  the resulting interval is **closed**, meaning it contains all numbers between $$x$$ and $$y$$ 
+Intervals are a special type of **subsets of** $$\mathbb{R}$$. For $$x,y \in \mathbb{R} \land x < y$$:  the resulting interval is **closed**, meaning it contains all numbers between $$x$$ and $$y$$&#x20;
 
 $$[x,y] = \{z \in \mathbb{R}: x \leq z \leq y \}$$
 

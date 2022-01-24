@@ -2,7 +2,7 @@
 
 ## Sin and Cosine Rule
 
-Sine and Cosine rules are used when we have triangles that to _not _have a right angle to them. Thus, due to no right angle, there is no such thing as a hypotenuse.
+Sine and Cosine rules are used when we have triangles that to _not_ have a right angle to them. Thus, due to no right angle, there is no such thing as a hypotenuse.
 
 ![](<../../../../../.gitbook/assets/image (5).png>)
 
@@ -34,7 +34,7 @@ This triangle also proves that the cosine rule is an extension of pythagoras' th
 
 ### Logarithms and Exponents Fundamentals
 
-* **Exponent**: The power to which a number, symbol, or expression is to be raised. For example, the 3 in x^3. 
+* **Exponent**: The power to which a number, symbol, or expression is to be raised. For example, the 3 in x^3.&#x20;
 * **Logarithm**: The **logarithm** of a number is the **exponent** by which another fixed value, the base, has to be raised to produce that number.
 * The inverse of the logarithmic operation is exponentiation, and vice versa
 * The logarithm is commonly used in many fields: that with base 2 in computer science, that with base e in pure mathematics and financial mathematics, and that with base 10 in natural science and engineering.

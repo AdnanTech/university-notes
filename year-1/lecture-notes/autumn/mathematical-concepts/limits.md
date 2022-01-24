@@ -2,7 +2,7 @@
 
 ## A looser notation of limiting behavior
 
-**Asymptotic analysis **provides a formal way to descrie hand wavy comparisons of functions
+**Asymptotic analysis** provides a formal way to descrie hand wavy comparisons of functions
 
 * Only considering functions up to leading terms (ignoring the difference between x^2 and x^2 + 2x)
 * Even ignoring scalar factor differences! (Brushing aside the difference between x^2 and 5x^2)
@@ -27,7 +27,7 @@ $$
 \frac{x^2 + 2x}{x^2}=1+\frac{2}{x}\rightarrow 1+0=1
 $$
 
-... as the ratio $$\frac{x^2 + 2x}{x^2}$$**converges, **it is in particular bounded
+... as the ratio $$\frac{x^2 + 2x}{x^2}$$**converges,** it is in particular bounded
 
 * We also have $$x^2 + 2x \in O(x^3):$$ for $$x > 0$$,
 

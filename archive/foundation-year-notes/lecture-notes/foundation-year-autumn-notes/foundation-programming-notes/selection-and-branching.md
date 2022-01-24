@@ -4,9 +4,9 @@ Selection and branching dictate whether code should be run, or skipped, or go to
 
 ## Selection
 
-A **selection** is used to make decisions on code to execute, depending on information such as a boolean condition being true or false. These condition involve _operators _such as **relational, conditional,** **logical** or sometimes **all of themSelection**: used for _decisions_, **branching** -- choosing between _2 or _more _alternative paths_.
+A **selection** is used to make decisions on code to execute, depending on information such as a boolean condition being true or false. These condition involve _operators_ such as **relational, conditional,** **logical** or sometimes **all of themSelection**: used for _decisions_, **branching** -- choosing between _2 or_ more _alternative paths_.
 
-The types of selection statements include **`if` **statements, **`switch `(case)** statements and **`? `**statements (conditional operator).  The normal `if` works on _statements_, while the ? conditional operator works on _expressions_.
+The types of selection statements include **`if` ** statements, **`switch` (case)** statements and **`?`** statements (conditional operator).  The normal `if` works on _statements_, while the ? conditional operator works on _expressions_.
 
 ### Relational Operators
 
@@ -29,7 +29,7 @@ The types of selection statements include **`if` **statements, **`switch `(case)
 
 ### Conditional Operator
 
-The ? conditional operator, which is referred to as the ternary operator, evaluates an **expression **and assigns a value, based on a boolean condition. It can be seen as a shorthand way of using an if statement to assign a variable.
+The ? conditional operator, which is referred to as the ternary operator, evaluates an **expression** and assigns a value, based on a boolean condition. It can be seen as a shorthand way of using an if statement to assign a variable.
 
 `varToBeAssigned = (conditional expression) ? expressionOne : expressionTwo` So if expression one is false, the variable is assigned to expression two, some examples below:
 

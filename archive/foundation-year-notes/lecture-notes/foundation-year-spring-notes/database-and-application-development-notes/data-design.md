@@ -8,9 +8,9 @@
 
 ### Relationship
 
-**A data relationship is a natural association that exists between one or more entities. E.g. Employees process payments**. 
+**A data relationship is a natural association that exists between one or more entities. E.g. Employees process payments**.&#x20;
 
-**Cardinality **_defines the number of occurrences of one entity for a single occurrence of the related entity._ E.g. an employee may process many payments but might not process any payments depending on the nature of her job. 
+**Cardinality** _defines the number of occurrences of one entity for a single occurrence of the related entity._ E.g. an employee may process many payments but might not process any payments depending on the nature of her job.&#x20;
 
 ### Attribute
 
@@ -20,11 +20,11 @@
 
 Candidate key is the minimal set of attributes that uniquely identify each occurrence of an entity type.
 
-A **primary **key is the candidate key that is selected to uniquely identify a particular occurrence of an entity.
+A **primary** key is the candidate key that is selected to uniquely identify a particular occurrence of an entity.
 
-Where there is a one-to-many relationship, the entity on the ‘many’ side must contain the primary key of the entity on the ‘one’ side. This is a **foreign **key.
+Where there is a one-to-many relationship, the entity on the ‘many’ side must contain the primary key of the entity on the ‘one’ side. This is a **foreign** key.
 
-**Composite **key is where a primary key of an entity type is composed of two or more attributes, whose values together are unique for each entity occurrence, but not separately.
+**Composite** key is where a primary key of an entity type is composed of two or more attributes, whose values together are unique for each entity occurrence, but not separately.
 
 ## Data side of things
 
@@ -55,7 +55,7 @@ Entityintegrity◦No attribute of a primary key can be null◦This is where a Pr
 
 A check digit is an extra digit added to a number so that, if a number is changed, the error will be detected
 
-Example: 978023057305** **becomes 978023057305 -5
+Example: 978023057305 **** becomes 978023057305 -5
 
 ![](<../../../../../.gitbook/assets/image (131).png>)
 

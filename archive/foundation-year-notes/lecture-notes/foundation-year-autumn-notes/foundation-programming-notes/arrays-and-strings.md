@@ -10,7 +10,7 @@ Buffers are important because if not emptied, the input and output of any variab
 
 ## Array
 
-Arrays a kind of **data structure** that can store a** fixed-size **sequential **collection **of elements (variables) of the **same **(primitive) **data type**.** **All arrays consist of contiguous **memory locations**. The _lowest _address corresponds to the **first **element and the _highest _address to the **last **element.
+Arrays a kind of **data structure** that can store a **fixed-size** sequential **collection** of elements (variables) of the **same** (primitive) **data type**. **** All arrays consist of contiguous **memory locations**. The _lowest_ address corresponds to the **first** element and the _highest_ address to the **last** element.
 
 The general form of an array declaration is  − `datatype arrayName[arraySize];` Note: you do not have to specif
 

@@ -72,6 +72,6 @@ _What’s the probability that it will rain tomorrow?_ Depends on whether it is 
 The idea of conditional independence is where the variables do not depend on one another. A good example of this is flipping a coin, where:
 
 * `P(f1 = heads, f2 = heads) = 0.25`
-* `P(f1=heads,f2 = heads) = P(f2 = heads|f1 = heads) *`_` P(1 = heads)`_
+* `P(f1=heads,f2 = heads) = P(f2 = heads|f1 = heads) *`` `_`P(1 = heads)`_
 * _But `P(f2 = heads|f1 = heads) = P(f2 = heads)`_
-* _So: `P(f1=heads,f2 = heads) = P(f2 = heads) `_` P(f1 = heads)`
+* _So: `P(f1=heads,f2 = heads) = P(f2 = heads)`_` `` ``P(f1 = heads)`

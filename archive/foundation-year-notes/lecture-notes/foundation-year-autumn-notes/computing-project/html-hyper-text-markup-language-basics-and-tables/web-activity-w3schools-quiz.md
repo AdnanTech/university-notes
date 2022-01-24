@@ -8,7 +8,7 @@
 
 You can be proud of yourself!
 
-**Time Spent **6:06
+**Time Spent** 6:06
 
 ## Wrong Answers
 
@@ -18,7 +18,7 @@ What is the correct HTML for making a drop-down list? \<input type="list">    Yo
 
 ### Question 18:
 
-What is the correct HTML for making a text area?\<input type="textbox">    Your answer  \<textarea>  
+What is the correct HTML for making a text area?\<input type="textbox">    Your answer  \<textarea> &#x20;
 
 ### Question 40:
 

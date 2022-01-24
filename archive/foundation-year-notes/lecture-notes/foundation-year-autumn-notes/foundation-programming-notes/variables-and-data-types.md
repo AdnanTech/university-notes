@@ -30,12 +30,12 @@ There are lots of data types, below are some of the primitive data types. In C, 
 | bool                       | %d                       | `printf("bool var = %d\n", var);`  |
 
 * **%c - char** - a single character 'A' (notice the single quotes for a char)
-* **%d/%i - int **- an integer value 5
-* **%f - float **- A floating-point number to 7 significant places 0.123456
+* **%d/%i - int** - an integer value 5
+* **%f - float** - A floating-point number to 7 significant places 0.123456
   * Use an exponent and mantissa
-* **%e - double **- a floating-point number to 15 significant places 0.1234567891234
-* **%s - `char string_name[] = "Hello World"`** - string literal**s **"Hello World" (notice the double quotes)
-* **%d - bool **- a boolean value 1 (true)
+* **%e - double** - a floating-point number to 15 significant places 0.1234567891234
+* **%s - `char string_name[] = "Hello World"`** - string literal**s** "Hello World" (notice the double quotes)
+* **%d - bool** - a boolean value 1 (true)
 
 ### Long and Short
 

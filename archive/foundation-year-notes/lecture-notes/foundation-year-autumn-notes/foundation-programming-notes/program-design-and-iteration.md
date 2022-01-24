@@ -227,14 +227,14 @@ While loops can be used to validate input data. As while the input data doesnt r
 
 ### Break
 
-The **break** statement in C **programming** has the following two usages 
+The **break** statement in C **programming** has the following two usages&#x20;
 
 * When a **break** statement is encountered inside a loop, the loop is immediately terminated and the **program** control resumes at the next statement following the loop.
 * It can be used to terminate a case in the switch statement Example can be found here.
 
 ### Do
 
-A** do while **loop **is** similar to **while loop** with the only **difference** that it checks for the condition after executing the statements, and therefore **is** an example of Exit Control **Loop**.
+A **do while** loop **is** similar to **while loop** with the only **difference** that it checks for the condition after executing the statements, and therefore **is** an example of Exit Control **Loop**.
 
 ### Printing the ASCII Table
 

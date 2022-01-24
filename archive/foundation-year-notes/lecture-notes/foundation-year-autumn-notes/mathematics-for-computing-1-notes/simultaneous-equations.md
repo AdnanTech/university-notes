@@ -41,5 +41,5 @@ Solving quadratics simultaneously is the same as solving linear equations simult
 
 square root of x is NOT a function
 
-when messing with the square root of x in a simultaneous equation, the ideal scenario is if you square the equation(s) so that the square x no longer exists. Or you could substitute root x for z and solve that way_. In that case, root x is plus or minus, so you have to be careful with the substitution, as there will be 2 values, but they may be in the same value or both values since root is plus or minu_s._ _Hence the method without square roots is easier. Or perhaps also use a graph to validate the answers
+when messing with the square root of x in a simultaneous equation, the ideal scenario is if you square the equation(s) so that the square x no longer exists. Or you could substitute root x for z and solve that way_. In that case, root x is plus or minus, so you have to be careful with the substitution, as there will be 2 values, but they may be in the same value or both values since root is plus or minu_s. __ Hence the method without square roots is easier. Or perhaps also use a graph to validate the answers
 

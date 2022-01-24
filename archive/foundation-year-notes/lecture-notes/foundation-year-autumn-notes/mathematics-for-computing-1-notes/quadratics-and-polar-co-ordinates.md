@@ -36,7 +36,7 @@ The key difference between a linear equation and a quadratic equation, is that i
 
 ### Solving Quadratics
 
- There are 4 main methods:
+&#x20;There are 4 main methods:
 
 1. Factorisation
    1. (x + a)(a + b) where x = -a or x = -b
@@ -55,15 +55,15 @@ $$
 b^2-4ac
 $$
 
-If the equation is > 0, we have 2 real roots (solutions) for the quadratic, so it passes the x axis at 2 seperate points, 
+If the equation is > 0, we have 2 real roots (solutions) for the quadratic, so it passes the x axis at 2 seperate points,&#x20;
 
 if it = 0, it has 2 roots that are the same, since it was one turning point
 
- if it is < 0, it has no **real** roots
+&#x20;if it is < 0, it has no **real** roots
 
 ### Imaginary Unit (i)
 
-Since b^2 - 4ac can < 0, it gave birth the to the [imaginary number](https://en.wikipedia.org/wiki/Imaginary_unit#Matrices)
+Since b^2 - 4ac can < 0, it gave birth the to the [imaginary number](https://en.wikipedia.org/wiki/Imaginary\_unit#Matrices)
 
 ### Excel
 
@@ -74,7 +74,7 @@ We can sketch out quadratic graphs in excel.
 Polar co-ordinates are diffrent function to a graph, for example, cartesian follows (point a, point b), where you go across a and up b to find a point on the line, that is the function. Whereas polar co-ordinates, map to (r, theta) for a point
 
 * Where r is a real number (when squared at least), that is the radial distance from the distance
-* Theta is the** anti-clockwise** angle from the x axis
+* Theta is the **anti-clockwise** angle from the x axis
 * the polar origin is also considered (0, 0), as in cartesian equations
 * A polar equation can directly correlate to a cartesian equation
 
@@ -105,5 +105,5 @@ It allows us to split a line into triangles, and hence integration, as it essent
 
 x = 3, or any vertical line, has a gradient of positive or negative infinity, this doesnt follow the rule of y = mx + c. It is NOT a function, this line creates problem in graphics chips, as it means that graphics cannot process straight lines, unless you use polar co-ordinates. x = 3 can be represented in polar co-ordinates as (3, 0) where 3 is the length towards the line, and 0 is theta
 
-Your **retina **has high res in the center, and low res around the outside. This is where polar co-ordinates are a lot better than y= mx+c. Used in computer vision and graphics. Polar co-ordinates is the minimum distance to a line from the origin
+Your **retina** has high res in the center, and low res around the outside. This is where polar co-ordinates are a lot better than y= mx+c. Used in computer vision and graphics. Polar co-ordinates is the minimum distance to a line from the origin
 

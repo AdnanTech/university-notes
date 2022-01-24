@@ -8,7 +8,7 @@ description: 18/10/2021
 
 ## Assertions
 
-Assertions are mathematical statements about variables at some specific checkpoint in a program. An assertion is valid if it is true of the program **every time **control passes the checkpoint.&#x20;
+Assertions are mathematical statements about variables at some specific checkpoint in a program. An assertion is valid if it is true of the program **every time** control passes the checkpoint.&#x20;
 
 ### Important assertions
 
@@ -16,11 +16,11 @@ Assertions are mathematical statements about variables at some specific checkpoi
 
 **Final assertions**: Determines properties of data output
 
-**Loop assertions**: Difficult to assign, must be true **every **time control goes through the loop
+**Loop assertions**: Difficult to assign, must be true **every** time control goes through the loop
 
 ### Assigning valid assertions
 
-In order to assign valid assertions, we can use semi-automatic software solutions, however, this course typically uses **informal **mathematical reasoning, such as loop invariance theorems.&#x20;
+In order to assign valid assertions, we can use semi-automatic software solutions, however, this course typically uses **informal** mathematical reasoning, such as loop invariance theorems.&#x20;
 
 #### Example
 

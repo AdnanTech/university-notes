@@ -21,7 +21,7 @@ JPG, also known as JPEG (Joint Photographic Experts Group), released in 1992. Th
 
 Human eyes see light and dark better than color detail. JPEG uses this weakness to help compression. It sacrifices some colour detail to save space.
 
-**Best uses: **Black and white images, images with complex colouring, still file imagery and real life photographs.
+**Best uses:** Black and white images, images with complex colouring, still file imagery and real life photographs.
 
 ### PNG
 

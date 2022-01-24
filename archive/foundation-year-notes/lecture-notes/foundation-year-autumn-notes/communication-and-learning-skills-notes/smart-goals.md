@@ -74,7 +74,7 @@ A time-bound goal will usually answer these questions:
 * **Specific**: University goals need to be specific to what you want to accomplish, like _graduating the University Of Sussex_
 * **Measurable**: You should be able to track your long-term goals using small stepping stones, like _getting all A's this semester._
 * **Achievable**: Make goals that are reasonably within reach. For example, if you've been struggling to pass your courses, don't set a goal of _graduating with a First_. This might be unrealistic.
-* **Relevant**: Set goals that are _relevant to your future career _and university education. For instance, you wouldn't want to strive toward getting an engineering apprenticeship if you plan to go into medicine.
+* **Relevant**: Set goals that are _relevant to your future career_ and university education. For instance, you wouldn't want to strive toward getting an engineering apprenticeship if you plan to go into medicine.
 * **Time-Bound**: You need to set a specific end date to look forward to, like _getting your Bachelors's degree in four years_.
 
 ## Why should use SMART goals?
