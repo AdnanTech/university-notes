@@ -22,5 +22,3 @@ This module provides an introduction to data structures and algorithms for compu
 
 No Reading List.
 
-
-
