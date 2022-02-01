@@ -84,6 +84,7 @@
         * [Heaps](year-1/lecture-notes/spring/data-structures-and-algorithms/heaps.md)
       * [Further Programming](year-1/lecture-notes/spring/further-programming/README.md)
         * [Intro](year-1/lecture-notes/spring/further-programming/intro.md)
+        * [Inheritance](year-1/lecture-notes/spring/further-programming/inheritance.md)
       * [Professional Skills](year-1/lecture-notes/spring/professional-skills.md)
       * [Neuroscience & Behaviour](year-1/lecture-notes/spring/neuroscience-and-behaviour/README.md)
         * [Mammalian Nervous System](year-1/lecture-notes/spring/neuroscience-and-behaviour/mammalian-nervous-system.md)
