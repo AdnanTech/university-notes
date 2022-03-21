@@ -87,6 +87,8 @@
         * [Inheritance](year-1/lecture-notes/spring/further-programming/inheritance.md)
       * [Professional Skills](year-1/lecture-notes/spring/professional-skills.md)
       * [Neuroscience & Behaviour](year-1/lecture-notes/spring/neuroscience-and-behaviour/README.md)
+        * [Assignment Notes](year-1/lecture-notes/spring/neuroscience-and-behaviour/assignment-notes.md)
+        * [Assignment Problem Set](year-1/lecture-notes/spring/neuroscience-and-behaviour/assignment-problem-set.md)
         * [Mammalian Nervous System](year-1/lecture-notes/spring/neuroscience-and-behaviour/mammalian-nervous-system.md)
   * [Assesments](year-1/assesments/README.md)
     * [Autumn Assesments](year-1/assesments/autumn-assesments.md)

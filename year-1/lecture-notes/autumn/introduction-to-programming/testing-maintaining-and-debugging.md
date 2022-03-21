@@ -1,6 +1,2 @@
----
-description: (Good Coding Habits)
----
-
-# Testing, Maintaining & Debugging
+# Java Class Documentation
 
