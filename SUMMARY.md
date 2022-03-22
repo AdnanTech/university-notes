@@ -89,7 +89,7 @@
       * [Neuroscience & Behaviour](year-1/lecture-notes/spring/neuroscience-and-behaviour/README.md)
         * [Assignment Notes](year-1/lecture-notes/spring/neuroscience-and-behaviour/assignment-notes.md)
         * [233555](year-1/lecture-notes/spring/neuroscience-and-behaviour/233555.md)
-        * [Page 1](year-1/lecture-notes/spring/neuroscience-and-behaviour/page-1.md)
+        * [Problem Set](year-1/lecture-notes/spring/neuroscience-and-behaviour/problem-set.md)
         * [Mammalian Nervous System](year-1/lecture-notes/spring/neuroscience-and-behaviour/mammalian-nervous-system.md)
   * [Assesments](year-1/assesments/README.md)
     * [Autumn Assesments](year-1/assesments/autumn-assesments.md)
