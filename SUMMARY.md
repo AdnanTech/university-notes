@@ -88,6 +88,7 @@
       * [Professional Skills](year-1/lecture-notes/spring/professional-skills.md)
       * [Neuroscience & Behaviour](year-1/lecture-notes/spring/neuroscience-and-behaviour/README.md)
         * [Assignment Notes](year-1/lecture-notes/spring/neuroscience-and-behaviour/assignment-notes.md)
+        * [Essay Notes](year-1/lecture-notes/spring/neuroscience-and-behaviour/essay-notes.md)
         * [233555](year-1/lecture-notes/spring/neuroscience-and-behaviour/233555.md)
         * [Problem Set](year-1/lecture-notes/spring/neuroscience-and-behaviour/problem-set.md)
         * [Mammalian Nervous System](year-1/lecture-notes/spring/neuroscience-and-behaviour/mammalian-nervous-system.md)
