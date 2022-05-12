@@ -1,4 +1,4 @@
-# Graph Algorithms
+# Graph Traversal
 
 ## Graphs / The Graph ADT
 
@@ -22,8 +22,10 @@
 
 ## Directed Acyclic Graphs
 
-## Shortest Paths
-
 ## Weighted Graphs
 
-## Dijkstra’s Algorithm
+### Shortest Paths
+
+### A\*
+
+### Dijkstra’s Algorithm
