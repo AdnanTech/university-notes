@@ -1,10 +1,10 @@
-# Mammalian Nervous System
+---
+description: The Mamallian Nervous System
+---
+
+# The Brain
 
 Carlson (2017) Physiology of Behavior - QU 4588 Car EBook
-
-
-
-
 
 ## Central Nervous System (CNS)
 
