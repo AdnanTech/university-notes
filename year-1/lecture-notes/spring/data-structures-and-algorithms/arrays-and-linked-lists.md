@@ -1,4 +1,4 @@
-# Arrays & Linked Lists
+# Arrays
 
 Arrays are xyz
 

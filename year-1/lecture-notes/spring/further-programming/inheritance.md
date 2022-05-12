@@ -1,5 +1,25 @@
 # Inheritance
 
+Abstraction / dynamic dispatch / static vs dynamic type / overriding / hiding etc
+
+multiple inheritance / composition vs inheritance • Designing with Inheritance
+
+
+
+Access Modifiers
+
+Subtyping
+
+Overriding
+
+Dynamic Dispatch
+
+Static Enum
+
+
+
+
+
 * Superclass
 * Overriding - can inherit a method but override a new method with the same method signature,  to become a different method.
 * Inheritance hierarchy can be seen as a tree

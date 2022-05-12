@@ -1,4 +1,4 @@
-# Stacks, Queues and Deques
+# Queues
 
 ## Stacks /The Stack Abstract Data Type
 
