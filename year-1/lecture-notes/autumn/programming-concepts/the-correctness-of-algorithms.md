@@ -24,7 +24,7 @@ In order to assign valid assertions, we can use semi-automatic software solution
 
 #### Example
 
-![An example algorithm with valid assertions](<../../../../.gitbook/assets/image (195).png>)
+![An example algorithm with valid assertions](<../../../../.gitbook/assets/image (195) (1).png>)
 
 ```
 ptr <- 1

@@ -1,24 +1,14 @@
 # Graph Traversal
 
-## Graphs / The Graph ADT
-
-## Data Structures for Graphs
-
-## Edge List Structure
-
-## Adjacency List Structure
-
-## Adjacency Map Structure
-
-## Adjacency Matrix Structure
+![](<../../../../.gitbook/assets/image (203).png>)
 
 ## Graph Traversals
 
-## Depth-First Search
+### Depth-First Search
 
-## DFS Implementation and Extensions
+### Breadth-First Search
 
-## Breadth-First Search
+### DFS vs BFS
 
 ## Directed Acyclic Graphs
 
@@ -26,6 +16,21 @@
 
 ### Shortest Paths
 
+
+
 ### A\*
 
+A\* Summary&#x20;
+
+A\* finds the shortest path between two vertices
+
+It does not have to visit all vertices to do this necessarily, hopefully
+
+It picks the most promising looking node at each step
+
+It is only as good as its heuristic- and heuristics are problem specific
+
+List of open nodes can be priority queue as with Dijkstra'
+
 ### Dijkstra’s Algorithm
+

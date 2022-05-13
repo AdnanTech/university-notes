@@ -10,7 +10,7 @@ In statistics, _we do not know_ the underlying probability space $$(\Omega, P)$$
 
 Experimental data is used to estimate a model in order to predict future trials of the experimental data.&#x20;
 
-![](<../../../../.gitbook/assets/image (196).png>)
+![](<../../../../.gitbook/assets/image (196) (1).png>)
 
 ## Statistical Measures
 

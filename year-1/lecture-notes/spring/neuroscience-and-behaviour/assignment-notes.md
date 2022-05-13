@@ -42,14 +42,14 @@ Receptive fields of visual cells are measured in angles, because objects might t
 
 2.1 The retinal ganglion cells adds up output from some photoreceptors and subtracts the outputs of other photoreceptors, thus emphasises what you need to see. This is called lateral inhibition, or an "on centre of surround"
 
-![If light hit the on area, the cell becomes excited, the opposite is true (de-excitement) for when light hits the off area.](<../../../../.gitbook/assets/image (198).png>)
+![If light hit the on area, the cell becomes excited, the opposite is true (de-excitement) for when light hits the off area.](<../../../../.gitbook/assets/image (198) (1).png>)
 
 * If light falls on both regions, there is a cancellation of activity, nor excitement or inhibition.
 * If light falls on all of the center but not all of the surround, there would still be more excitation because although some excitation is cancelled out by the inhibiton, not all of the inhibition is present and thus the excitation prevails in strength, exciting the cells.
 
 **Mach band illusion**
 
-![](<../../../../.gitbook/assets/image (197).png>)
+![](<../../../../.gitbook/assets/image (197) (1).png>)
 
 The mach band illusion is where essentially we create shadows out of thin air. These rectangles dont actually have any shadows, but your eyes give each rectangle a darker shadow to the left, and a lighter shadow to the right. Creating this illusion of a colour palette almost, **emphasising the boundaries of the different colours**.
 
@@ -63,7 +63,7 @@ for C: left is -1x1. middle is +4x2. Left edge is -1x2 = 5.
 
 Conclusion: jumps in output are large, but the output decreases as intensity increases.
 
-![](<../../../../.gitbook/assets/image (194).png>)
+![](<../../../../.gitbook/assets/image (194) (1).png>)
 
 Retinal Ganglion cells emphasise the change in light intensity, as we can see from ther jumps, but the decreases show us that the accuracy of coding the light intensity itself.
 

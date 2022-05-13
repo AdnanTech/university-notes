@@ -1,23 +1,18 @@
 # Arrays
 
-Arrays are xyz
+Arrays are the simplest data structure.&#x20;
 
-## Arrays vs Linked Lists
+* They are fixed size and stored in the order they are inserted at via indexes.
+* The first index is always zero.
+* The memory allocation is static (sequentially in memory like blocks)
+* Arrays can be as many dimensions as you want, with applications in matrixes, data storage and pretty much everywhere.
 
-define linked list and talk about differences
+## Strengths
 
-## Singly Linked Lists
+* Storing as many items as you can up to a known amount (inventory, stock)
+* Finding items by index is very fast (4th element or 1st element etc)
 
-Has nodes that keep track of the "head" and "tail" of a data set.
+## Weaknesses
 
-## Implementing a Singly Linked List Class
-
-insert code block
-
-## Circularly Linked Lists
-
-In real life, there might not be a first to last linear sequence. Instead, it may loop around once last has been executed. For example, in a video game, Player A takes a turn, Player B and then Player C. Until the game is complete, it must loop back around to Player A's turn once Player C has finished his turn. This is called having a **cyclic order**, running on a continours loop.
-
-## Doubly Linked-Lists
-
-we define a linked list in which each node keeps an explicit reference to the node before it and a reference to the node after it. Such a structure is known as a doubly linked list. These lists allow a greater variety of O(1)-time update operations, including insertions and deletions at arbitrary posi- tions within the list
+* Removing elements at indexes, as you have to move all elements past the removed index up by 1, which can cost resources (average length of array / 2)
+* Inserting into an ordered array means you need to inspect each element until you find the correct index to place the new element at.

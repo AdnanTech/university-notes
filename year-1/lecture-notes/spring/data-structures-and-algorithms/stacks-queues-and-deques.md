@@ -1,12 +1,8 @@
 # Queues
 
-## Stacks /The Stack Abstract Data Type
-
-## Simple Array-Based Stack Implementation&#x20;
-
-## Implementing a Stack with a Singly Linked List
-
 ## Queues / The Queue Abstract Data Type
+
+![](<../../../../.gitbook/assets/image (200).png>)
 
 ## Array-Based Queue Implementation
 
@@ -19,3 +15,13 @@
 ## The Deque Abstract Data Type
 
 ## Implementing a Deque
+
+## The Priority Queue Abstract Data Type
+
+## Implementing a Priority Queue
+
+## Implementing a Priority Queue with an&#x20;
+
+## Unsorted List
+
+## Implementing a Priority Queue with a Sorted List
