@@ -9,7 +9,7 @@ A singly linked list is a linear, 'node based' data structure that uses dynamic 
 * Removal of the last node is relatively ineffecient.
 * Has nodes that keep track of the "head" and "tail" of a data set.
 
-![](<../../../../../../.gitbook/assets/image (205).png>)
+![](<../../../../../../.gitbook/assets/image (205) (1).png>)
 
 ### Insertion in a Singly Linked-List
 
@@ -21,7 +21,7 @@ Not that the next pointer of the new node is set **before** we reassign variable
 
 Using similar logic, we can add elements to the end of a singly linked list. You create a new node, assign its next reference to null, set the next reference of the tail to point to this new node, and then update the tail reference itself to this new node
 
-![](<../../../../../../.gitbook/assets/image (199).png>)
+![](<../../../../../../.gitbook/assets/image (199) (1).png>)
 
 ### Removal in a Singly Linked-List
 
@@ -208,7 +208,7 @@ In real life, there might not be a first to last linear sequence. Instead, it ma
 
 The most significant case of circularly linked lists is in round-robin cpu scheduling, where each execution of given a time slice, interrupted if the time-slice has been complete, regardless of if the program has fully executed.
 
-![](<../../../../../../.gitbook/assets/image (206).png>)
+![](<../../../../../../.gitbook/assets/image (206) (1).png>)
 
 Implementation would look something like this:
 

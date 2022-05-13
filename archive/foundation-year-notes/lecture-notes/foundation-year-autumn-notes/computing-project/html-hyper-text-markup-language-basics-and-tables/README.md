@@ -4,7 +4,7 @@
 
 _Hyper Text Markup Language (HTML) is a markup language that defines the structure of content on a webpage_
 
-* You can verify your HTML [here](https://validator.w3.org).
+* You can verify your HTML [here](https://validator.w3.org/).
 * HTML is a upgraded version of XML
 * HTML consists of a series of elements, which you use to enclose or wrap different parts of the content to make it appear or act a certain way
   * The opening tag defines the way an element is displayed, some examples
