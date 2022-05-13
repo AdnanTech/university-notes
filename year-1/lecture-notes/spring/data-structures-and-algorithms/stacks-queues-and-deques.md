@@ -1,5 +1,7 @@
 # Queues
 
+A queue is an abstract data type that's a linear data structure. **Queues use First In First Out (LIFO)** to manage data.
+
 ## Queues / The Queue Abstract Data Type
 
 ![](<../../../../.gitbook/assets/image (200).png>)
